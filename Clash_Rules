@@ -69,6 +69,7 @@ custom_proxy_group=🇭🇰 香港低倍率`select`香港标准`香港高级`香
 custom_proxy_group=🇸🇬 狮城低倍率`select`新加坡标准`新加坡高级`新加坡实验性
 custom_proxy_group=🇯🇵 日本低倍率`select`日本标准`日本高级`日本实验性
 custom_proxy_group=🇺🇲 美国低倍率`select`美国标准`美国高级`美国实验性
+custom_proxy_group=🇺🇲 台湾低倍率`select`台湾标准`台湾高级`台湾实验性
 custom_proxy_group=🇯🇵 日本节点`url-test`(日本)`http://www.gstatic.com/generate_204`7200,5,50
 custom_proxy_group=🇨🇳 台湾节点`url-test`(台湾)`http://www.gstatic.com/generate_204`7200,5,50
 custom_proxy_group=🇰🇷 韩国节点`url-test`(韩国)`http://www.gstatic.com/generate_204`7200,5,50
