@@ -42,7 +42,7 @@ ruleset=🐟 漏网之鱼,[]FINAL
 ;设置规则标志位
 
 ;设置分组标志位
-custom_proxy_group=🚀 节点选择`select`[]🇭🇰 香港节点`[]🇭🇰 香港低倍率`[]🇨🇳 台湾节点`[]🇨🇳 台湾低倍率`[]🇸🇬 狮城节点`[]🇸🇬 狮城低倍率`[]🇯🇵 日本节点`[]🇯🇵 日本低倍率`[]🇺🇲 美国节点`[]🇺🇲 美国低倍率`[]🇰🇷 韩国节点`[]🚀 手动切换`[]DIRECT
+custom_proxy_group=🚀 节点选择`select`[]🇭🇰 香港节点`[]🇭🇰 香港低倍率`[]🇸🇬 狮城节点`[]🇸🇬 狮城低倍率`[]🇯🇵 日本节点`[]🇯🇵 日本低倍率`[]🇺🇲 美国节点`[]🇺🇲 美国低倍率`[]🇨🇳 台湾节点`[]🇰🇷 韩国节点`[]🚀 手动切换`[]DIRECT
 custom_proxy_group=🌍 其它节点`select`标准`高级
 custom_proxy_group=🚀 手动切换`select`(^(?!.*(Expire|Traffic|香港|台湾|新加坡|韩国|美国|日本)).*)
 custom_proxy_group=♻️ 自动选择`url-test`(^(?!.*(Expire|Traffic)).*)`http://www.gstatic.com/generate_204`7200,5,50
