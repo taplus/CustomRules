@@ -3,7 +3,7 @@
 ;感谢 acl4SSR & blackmatrix7
 ;自用
 ;去广告：不支持
-;自动测速：部分支持
+;自动测速：不支持
 ;微软分流：支持
 ;苹果分流：支持
 ;增强中国IP段：支持
@@ -18,7 +18,7 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🍎 苹果服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list
 ruleset=Ⓜ️ 微软云盘,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/OneDrive.list
 ruleset=Ⓜ️ 微软服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Microsoft.list
-ruleset=🎮 Xbox,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Xbox.list
+ruleset=🎮 Xbox平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Xbox.list
 ruleset=🎮 PC游戏,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Epic.list
 ruleset=🎮 PC游戏,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
 ruleset=📲 Telegram,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
@@ -44,7 +44,7 @@ custom_proxy_group=🚀 节点选择`select`[]🇭🇰 香港节点`[]🇭🇰 �
 custom_proxy_group=🌍 其它节点`select`标准`高级
 custom_proxy_group=🚀 手动切换`select`(^(?!.*(Expire|Traffic|香港|台湾|新加坡|韩国|美国|日本)).*)
 custom_proxy_group=♻️ 自动选择`url-test`(^(?!.*(Expire|Traffic)).*)`http://www.gstatic.com/generate_204`7200,5,50
-custom_proxy_group=🎮 Xbox`select`[]🇭🇰 香港节点`[]🇭🇰 香港低倍率`[]🇸🇬 狮城节点`[]🇸🇬 狮城低倍率`[]🇯🇵 日本节点`[]🇯🇵 日本低倍率`[]🇺🇲 美国节点`[]🇺🇲 美国低倍率`[]🇨🇳 台湾节点`[]🇰🇷 韩国节点`[]🚀 手动切换`[]DIRECT`[]🌍 其它节点
+custom_proxy_group=🎮 Xbox平台`select`[]🇭🇰 香港节点`[]🇭🇰 香港低倍率`[]🇸🇬 狮城节点`[]🇸🇬 狮城低倍率`[]🇯🇵 日本节点`[]🇯🇵 日本低倍率`[]🇺🇲 美国节点`[]🇺🇲 美国低倍率`[]🇨🇳 台湾节点`[]🇰🇷 韩国节点`[]🚀 手动切换`[]DIRECT`[]🌍 其它节点
 custom_proxy_group=📲 Telegram`select`select`[]🚀 节点选择`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT`[]🌍 其它节点
 custom_proxy_group=📹 YouTube`select`[]🇭🇰 香港节点`[]🇭🇰 香港低倍率`[]🇸🇬 狮城节点`[]🇸🇬 狮城低倍率`[]🇯🇵 日本节点`[]🇯🇵 日本低倍率`[]🇺🇲 美国节点`[]🇺🇲 美国低倍率`[]🇨🇳 台湾节点`[]🇰🇷 韩国节点`[]🚀 手动切换`[]DIRECT`[]🌍 其它节点
 custom_proxy_group=🎥 Netflix`select`[]🇭🇰 香港节点`[]🇭🇰 香港低倍率`[]🇸🇬 狮城节点`[]🇸🇬 狮城低倍率`[]🇯🇵 日本节点`[]🇯🇵 日本低倍率`[]🇺🇲 美国节点`[]🇺🇲 美国低倍率`[]🇨🇳 台湾节点`[]🇰🇷 韩国节点`[]🚀 手动切换`[]DIRECT`[]🌍 其它节点
@@ -67,10 +67,10 @@ custom_proxy_group=🇸🇬 狮城节点`select`新加坡
 custom_proxy_group=🇸🇬 狮城低倍率`select`新加坡标准`新加坡高级`新加坡实验性
 custom_proxy_group=🇺🇲 美国节点`select`美国
 custom_proxy_group=🇺🇲 美国低倍率`select`美国标准`美国高级`美国实验性
-custom_proxy_group=🇯🇵 日本节点`url-test`(日本)`http://www.gstatic.com/generate_204`7200,5,50
+custom_proxy_group=🇯🇵 日本节点`select`日本
 custom_proxy_group=🇯🇵 日本低倍率`select`日本标准`日本高级`日本实验性
-custom_proxy_group=🇨🇳 台湾节点`url-test`(台湾)`http://www.gstatic.com/generate_204`7200,5,50
-custom_proxy_group=🇰🇷 韩国节点`url-test`(韩国)`http://www.gstatic.com/generate_204`7200,5,50
+custom_proxy_group=🇨🇳 台湾节点`select`台湾
+custom_proxy_group=🇰🇷 韩国节点`select`韩国
 ;设置分组标志位
 
 enable_rule_generator=true
