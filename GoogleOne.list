@@ -1,4 +1,4 @@
 # NAME: GoogleOneVPN
 # AUTHOR: taplus
-DOMAIN,prod.brass.cloud.cupronickel.goog
-DOMAIN,prod.zinc.cloud.cupronickel.goog
+DOMAIN-SUFFIX,prod.brass.cloud.cupronickel.goog
+DOMAIN-SUFFIX,prod.zinc.cloud.cupronickel.goog
