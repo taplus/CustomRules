@@ -1,2 +1,2 @@
-DOMAIN-SUFFIX,prod.brass.cloud.cupronickel.goog
-DOMAIN-SUFFIX,prod.zinc.cloud.cupronickel.goog
+DOMAIN-SUFFIX,cloud.cupronickel.goog
+IP-CIDR,34.107.0.0/16,no-resolve
