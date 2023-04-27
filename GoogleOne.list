@@ -1,3 +1,13 @@
 DOMAIN-SUFFIX,cloud.cupronickel.goog
-DOMAIN,phosphor-pa.googleapis.com
-IP-CIDR,34.107.0.0/16,no-resolve
+DOMAIN-SUFFIX,scone-pa.googleapis.com
+DOMAIN-SUFFIX,quake-pa.googleapis.com
+DOMAIN-SUFFIX,phosphor-pa.googleapis.com
+DOMAIN-SUFFIX,scriptionsmanagement-pa.googleapis.com
+DOMAIN-SUFFIX,scriptionsmobile-pa.googleapis.com
+DOMAIN-SUFFIX,federatedml-pa.googleapis.com
+DOMAIN-SUFFIX,na.b.g-tun.com
+DOMAIN-SUFFIX,userlocation.googleapis.com
+DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+DOMAIN-SUFFIX,clientservices.googleapis.com
+DOMAIN-SUFFIX,firebaseremoteconfig.googleapis.com
+DOMAIN-KEYWORD,scriptions
