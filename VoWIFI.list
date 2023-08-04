@@ -1,8 +1,10 @@
 # Vodafone UK
-# domain
 DOMAIN-KEYWORD,vodafoneuk
 DOMAIN-SUFFIX,vodafone.co.uk
 DOMAIN-SUFFIX,gcpsmapi.vodafone.com
+
+# Apple Check
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
 
 # esim
 DOMAIN-SUFFIX,vuk-gto.prod.ondemandconnectivity.com
