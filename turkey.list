@@ -1,8 +1,16 @@
 DOMAIN-KEYWORD,oldubil
 DOMAIN-KEYWORD,ozan
+DOMAIN-KEYWORD,sipay
+DOMAIN-KEYWORD,iyzipay
+DOMAIN-KEYWORD,iyzico
 DOMAIN-SUFFIX,ozan.com
 DOMAIN-SUFFIX,colendilabs.com
 DOMAIN-SUFFIX,gov.tr
+DOMAIN-SUFFIX,sipay.com.tr
+DOMAIN-SUFFIX,walletgate.io
+DOMAIN-SUFFIX,iyzipay.com
+DOMAIN-SUFFIX,iyzico.com
 DOMAIN,tr-event.dengage.com
 DOMAIN,tr-push.dengage.com
+
 GEOIP,TR
