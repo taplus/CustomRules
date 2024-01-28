@@ -1,3 +1,5 @@
+# Clash 配置模板
+
 # HTTP 代理端口
 port: 7890
 
@@ -15,7 +17,7 @@ mode: Rule
 
 # 设置日志输出级别 (默认级别：silent，即不输出任何内容，以避免因日志内容过大而导致程序内存溢出）。
 # 5 个级别：silent / info / warning / error / debug。级别越高日志输出量越大，越倾向于调试，若需要请自行开启。
-log-level: info
+log-level: silent
 
 # clash 的 RESTful API
 external-controller: 127.0.0.1:9596
@@ -64,13 +66,13 @@ dns:
       - 240.0.0.0/4                                    
       - 255.255.255.255/32 
       domain:                                                                                                                                                                                                           
-       - "+.google.com"                                                                                                                                                                                                  
-       - "+.facebook.com"                                                                                                                                                                                                
-       - "+.youtube.com"                                                                                                                                                                                                 
-       - "+.githubusercontent.com"                                                                                                                                                                                       
-       - "+.googlevideo.com"                                                                                                                                                                                             
-       - "+.msftconnecttest.com"                                                                                                                                                                                         
-       - "+.msftncsi.com"                                                                                                                                                                                                  
+      - "+.google.com"                                                                                                                                                                                                  
+      - "+.facebook.com"                                                                                                                                                                                                
+      - "+.youtube.com"                                                                                                                                                                                                 
+      - "+.githubusercontent.com"                                                                                                                                                                                       
+      - "+.googlevideo.com"                                                                                                                                                                                             
+      - "+.msftconnecttest.com"                                                                                                                                                                                         
+      - "+.msftncsi.com"                                                                                                                                                                                                  
     fake-ip-filter:                                                                                                                                                                                                     
     # LAN                                                                                                                                                                                                               
     - "*.lan"                                                                                                                                                                                                           
@@ -109,7 +111,7 @@ dns:
     # music                                                                                                                                                                                                             
     - music.163.com                                                                                                                                                                                                     
     - "*.music.163.com"                                                                                                                                                                                                 
-    - "*.126.net"                                                                                                                                                                                                       
+    - "*.126.net"
     - musicapi.taihe.com                                                                                                                                                                                                
     - music.taihe.com                                                                                                                                                                                                   
     - songsearch.kugou.com                                                                                                                                                                                              
