@@ -28,6 +28,13 @@ jobs:
       - name: Run
         run: python ./rulesets/sukka/convert.py
 
+      - name: Move files to specific folder
+        run: |
+          for file in *.list; do
+            mv "$file" rulesets/sukka/"$file"
+          done
+
+
       - name: Commit
         env:
           GIT_NAME: ${{ secrets.GIT_NAME }}
