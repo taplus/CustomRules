@@ -22,11 +22,11 @@ jobs:
 
       - name: Install requirements
         run: |
-          python3 -m pip install --upgrade pip
-          pip3 install -r requirements.txt
+          python -m pip install --upgrade pip
+          python -m pip install requests
 
       - name: Run
-        run: python3 ./rulesets/sukka/convert.py
+        run: python ./rulesets/sukka/convert.py
 
       - name: Commit
         env:
