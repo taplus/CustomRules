@@ -2,7 +2,8 @@ import requests,re,os
 
 def download_file(filename):
     file_path = '{}/rulesets/sukka/{}.list'.format(os.getcwd(),filename)
-    if os.path.exists(file_path):
+    print(file_path)
+    if os.path.isfile(file_path):
         os.remove(file_path)
     url = 'https://ruleset.skk.moe/Clash/domainset/{}.txt'.format(filename)
     try:
