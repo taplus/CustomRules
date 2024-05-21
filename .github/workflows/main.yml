@@ -16,14 +16,14 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Set up Python3
-        uses: actions/setup-python@v1
+        uses: actions/setup-python@v2
         with:
           python-version: '3.7'
 
       - name: Install requirements
         run: |
           python3 -m pip install --upgrade pip
-          pip3 install -r requests
+          pip3 install -r requirements.txt
 
       - name: Run
         run: python3 ./rulesets/sukka/convert.py
