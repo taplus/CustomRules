@@ -1,8 +1,8 @@
 import requests,re,os
+from datetime import datetime
 
 def download_file(filename):
     file_path = '{}/rulesets/sukka/{}.list'.format(os.getcwd(),filename)
-    print(file_path)
     if os.path.isfile(file_path):
         os.remove(file_path)
     url = 'https://ruleset.skk.moe/Clash/domainset/{}.txt'.format(filename)
@@ -36,11 +36,19 @@ def rewrite_file(filename):
         
         os.replace(temp_file,file_path)
  
+def time_label():
+    now = datetime.now()
+    formatted_time = now.strftime("%Y-%m-%d %H:%M:%S")
+    time_file = '{}/rulesets/sukka/ActionTime.txt'.format(os.getcwd())
+    with open(time_file,'a+',encoding='utf-8') as file:
+        file.write(formatted_time + '\n')
+
 
 def main():
     for filename in ['apple_cdn','icloud_private_relay','cdn','download','steam']:
         download_file(filename)
         rewrite_file(filename)
+    time_label()
 
 if __name__=='__main__':
     main()
