@@ -7,7 +7,7 @@ on:
 
 env:
   TZ: Asia/Shanghai
-
+  
 jobs:
   run-python-script:
     runs-on: ubuntu-latest
@@ -22,11 +22,11 @@ jobs:
 
       - name: Install requirements
         run: |
-          python3 -m pip install --upgrade pip
-          pip3 install -r requests
+          python -m pip install --upgrade pip
+          python -m pip install requests
 
       - name: Run
-        run: python3 ./rulesets/sukka/convert.py
+        run: python ./rulesets/sukka/convert.py
 
       - name: Commit
         env:
@@ -37,10 +37,9 @@ jobs:
           git config --local user.email $GIT_EMAIL
           git add .
           git commit -m "Github action update at `date '+%Y-%m-%d %H:%M:%S'`."
-
+     
       - name: Push
-              uses: ad-m/github-push-action@master
-              with:
-                github_token: ${{ secrets.GITHUB_TOKEN }}
-                branch: main 
-
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.TOKEN }}
+          branch: main 
