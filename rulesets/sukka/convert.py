@@ -1,7 +1,7 @@
 import requests,re,os
 
 def download_file(filename):
-    file_path = '~./rulesets/sukka/{}.list'.format(filename)
+    file_path = '$(pwd)/rulesets/sukka/{}.list'.format(filename)
     if os.path.exists(file_path):
         os.remove(file_path)
     url = 'https://ruleset.skk.moe/Clash/domainset/{}.txt'.format(filename)
@@ -19,7 +19,7 @@ def download_file(filename):
 
 def rewrite_file(filename):
     # 定义文件路径
-    file_path = '~./rulesets/sukka/{}.list'.format(filename)
+    file_path = '$(pwd)/rulesets/sukka/{}.list'.format(filename)
     temp_file = 'temp.txt'
     print(file_path)
     # 创建临时文件
