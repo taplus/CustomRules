@@ -1,11 +1,10 @@
 import requests,re,os
 
 def download_file(filename):
-    file_path = '$(pwd)/rulesets/sukka/{}.list'.format(filename)
+    file_path = '{}/rulesets/sukka/{}.list'.format(os.getcwd(),filename)
     if os.path.exists(file_path):
         os.remove(file_path)
     url = 'https://ruleset.skk.moe/Clash/domainset/{}.txt'.format(filename)
-    print(url)
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
         response = requests.get(url, headers=headers, stream=True)
@@ -19,9 +18,8 @@ def download_file(filename):
 
 def rewrite_file(filename):
     # 定义文件路径
-    file_path = '$(pwd)/rulesets/sukka/{}.list'.format(filename)
+    file_path = '{}/rulesets/sukka/{}.list'.format(os.getcwd(),filename)
     temp_file = 'temp.txt'
-    print(file_path)
     # 创建临时文件
     with open(file_path, 'r',encoding='utf-8') as file, open(temp_file,'w') as outfile:
         # 读取原始文件内容
