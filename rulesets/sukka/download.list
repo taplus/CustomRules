@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,blizzard.gcdn.cloudn.co.kr
+DOMAIN-SUFFIX,ciscobinary.openh264
 DOMAIN-SUFFIX,builds.paranoidandroid.co
 DOMAIN-SUFFIX,file.chobit.cc
 DOMAIN-SUFFIX,boot.netboot.xyz
@@ -75,6 +76,7 @@ DOMAIN-SUFFIX,content2.steampowered.com
 DOMAIN-SUFFIX,content1.steampowered.com
 DOMAIN-SUFFIX,content.steampowered.com
 DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,downloads.1password.com
 DOMAIN-SUFFIX,dl.ubnt.com
 DOMAIN-SUFFIX,desktop.wifiman.com
 DOMAIN-SUFFIX,download.cpuid.com
@@ -114,6 +116,7 @@ DOMAIN-SUFFIX,product-downloads.atlassian.com
 DOMAIN-SUFFIX,download.snipaste.com
 DOMAIN-SUFFIX,dl.snipaste.com
 DOMAIN-SUFFIX,ctldl.windowsupdate.com
+DOMAIN-SUFFIX,packages.microsoft.com
 DOMAIN-SUFFIX,amupdatedl5.microsoft.com
 DOMAIN-SUFFIX,amupdatedl4.microsoft.com
 DOMAIN-SUFFIX,amupdatedl3.microsoft.com
@@ -199,12 +202,17 @@ DOMAIN-SUFFIX,download.mozilla.org
 DOMAIN-SUFFIX,dl.wireshark.org
 DOMAIN-SUFFIX,download.pixelexperience.org
 DOMAIN-SUFFIX,get.pixelexperience.org
+DOMAIN-SUFFIX,dl.flathub.org
 DOMAIN-SUFFIX,ftp.gnu.org
 DOMAIN-SUFFIX,mirrors.dotsrc.org
 DOMAIN-SUFFIX,mirrors.edge.kernel.org
 DOMAIN-SUFFIX,fedorapeople.org
 DOMAIN-SUFFIX,invent.kde.org
 DOMAIN-SUFFIX,binary-factory.kde.org
+DOMAIN-SUFFIX,mirrors.rpmfusion.org
+DOMAIN-SUFFIX,copr.fedorainfracloud.org
+DOMAIN-SUFFIX,registry.fedoraproject.org
+DOMAIN-SUFFIX,mirrors.fedoraproject.org
 DOMAIN-SUFFIX,security.debian.org
 DOMAIN-SUFFIX,ftp-master.debian.org
 DOMAIN-SUFFIX,ftp.debian.org

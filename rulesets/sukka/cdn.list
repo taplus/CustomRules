@@ -415,6 +415,7 @@ DOMAIN-SUFFIX,link.storjshare.io
 DOMAIN-SUFFIX,s3.toot.io
 DOMAIN-SUFFIX,media.hachyderm.io
 DOMAIN-SUFFIX,media.mstdn.io
+DOMAIN-SUFFIX,ipfscdn.io
 DOMAIN-SUFFIX,crossbell.io
 DOMAIN-SUFFIX,gw3.io
 DOMAIN-SUFFIX,gravity.jup.io
@@ -1634,6 +1635,7 @@ DOMAIN-SUFFIX,f003.backblazeb2.com
 DOMAIN-SUFFIX,f002.backblazeb2.com
 DOMAIN-SUFFIX,f001.backblazeb2.com
 DOMAIN-SUFFIX,f000.backblazeb2.com
+DOMAIN-SUFFIX,ocsp.r2m02.amazontrust.com
 DOMAIN-SUFFIX,ocsp.godaddy.com
 DOMAIN-SUFFIX,crl.verisign.com
 DOMAIN-SUFFIX,crt.comodoca.com
@@ -1683,6 +1685,7 @@ DOMAIN-SUFFIX,oss-cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,linodeobjects.com
 DOMAIN-SUFFIX,vultrobjects.com
 DOMAIN-SUFFIX,digitaloceanspaces.com
+DOMAIN-SUFFIX,thirdwebcdn.com
 DOMAIN-SUFFIX,hardbin.com
 DOMAIN-SUFFIX,via0.com
 DOMAIN-SUFFIX,ipfs.soul-network.com
@@ -1833,6 +1836,7 @@ DOMAIN-SUFFIX,cdn-sellix.com
 DOMAIN-SUFFIX,app-updates.agilebits.com
 DOMAIN-SUFFIX,cache.agilebits.com
 DOMAIN-SUFFIX,static.agilebits.com
+DOMAIN-SUFFIX,c.1password.com
 DOMAIN-SUFFIX,i.1password.com
 DOMAIN-SUFFIX,1passwordusercontent.com
 DOMAIN-SUFFIX,cdn.ghostery.com
