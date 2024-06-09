@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,images.spr.so
 DOMAIN-SUFFIX,ttl.sh
 DOMAIN-SUFFIX,static.ui.com
 DOMAIN-SUFFIX,images.svc.ui.com
+DOMAIN-SUFFIX,img.community.ui.com
 DOMAIN-SUFFIX,secure-uploads.ui.com
 DOMAIN-SUFFIX,account-cdn.svc.ui.com
 DOMAIN-SUFFIX,net-fe-static-assets.network-controller.svc.ui.com
@@ -244,9 +245,6 @@ DOMAIN-SUFFIX,cdn-edge.karte.io
 DOMAIN-SUFFIX,info.knak.com
 DOMAIN-SUFFIX,cdn.kobo.com
 DOMAIN-SUFFIX,static.kobo.com
-DOMAIN-SUFFIX,s1.kwai.net
-DOMAIN-SUFFIX,aws-static.kwai.net
-DOMAIN-SUFFIX,cdn-static.kwai.net
 DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,cdn.loom.com
 DOMAIN-SUFFIX,s3.masto.ai
@@ -852,6 +850,7 @@ DOMAIN-SUFFIX,cdn6.aptoide.com
 DOMAIN-SUFFIX,cdn-mobile.aptoide.com
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,static.assetlab.io
+DOMAIN-SUFFIX,consentdeliveryfd.azurefd.net
 DOMAIN-SUFFIX,bdzybf7.com
 DOMAIN-SUFFIX,a5.behance.net
 DOMAIN-SUFFIX,mir-s3-cdn-cf.behance.net
@@ -1272,6 +1271,8 @@ DOMAIN-SUFFIX,pastebin.com
 DOMAIN-SUFFIX,gateway.pinata.cloud
 DOMAIN-SUFFIX,pixelcdn.net
 DOMAIN-SUFFIX,pkg-size.dev
+DOMAIN-SUFFIX,placehold.co
+DOMAIN-SUFFIX,placehold.jp
 DOMAIN-SUFFIX,placeimg.com
 DOMAIN-SUFFIX,cdn-assets.porntube.com
 DOMAIN-SUFFIX,cdn-thumbs.porntube.com
@@ -1750,6 +1751,7 @@ DOMAIN-SUFFIX,img.picacomic.com
 DOMAIN-SUFFIX,storage-b.picacomic.com
 DOMAIN-SUFFIX,picsum.photos
 DOMAIN-SUFFIX,assets.pinterest.com
+DOMAIN-SUFFIX,place-hold.it
 DOMAIN-SUFFIX,js.qualified.com
 DOMAIN-SUFFIX,siteintercept.qualtrics.com
 DOMAIN-SUFFIX,error.rakuten.co.jp
@@ -1864,6 +1866,7 @@ DOMAIN-SUFFIX,hub-assets.displaycal.net
 DOMAIN-SUFFIX,doppiocdn.live
 DOMAIN-SUFFIX,icons.duckduckgo.com
 DOMAIN-SUFFIX,external-content.duckduckgo.com
+DOMAIN-SUFFIX,dummyimage.com
 DOMAIN-SUFFIX,ebaystatic.com
 DOMAIN-SUFFIX,cdn2.editmysite.com
 DOMAIN-SUFFIX,images.emojiterra.com
@@ -1931,6 +1934,7 @@ DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,m-cdn.phonearena.com
 DOMAIN-SUFFIX,s-cdn.phonearena.com
 DOMAIN-SUFFIX,cdn.pickystory.com
+DOMAIN-SUFFIX,placewaifu.com
 DOMAIN-SUFFIX,cdn7.pornmaster.fun
 DOMAIN-SUFFIX,apps.profitihub.com
 DOMAIN-SUFFIX,pstorage.space
@@ -1976,7 +1980,6 @@ DOMAIN-SUFFIX,zohostatic.com
 DOMAIN-SUFFIX,showcase.abovemarket.com
 DOMAIN-SUFFIX,easylist-downloads.adblockplus.org
 DOMAIN-SUFFIX,addons.business
-DOMAIN-SUFFIX,ocsp.r2m02.amazontrust.com
 DOMAIN-SUFFIX,cdn.announcekit.app
 DOMAIN-SUFFIX,img.announcekit.app
 DOMAIN-SUFFIX,img.applealmond.com
@@ -2308,6 +2311,7 @@ DOMAIN-SUFFIX,image.theblockbeats.info
 DOMAIN-SUFFIX,vscode-sync.trafficmanager.net
 DOMAIN-SUFFIX,vscode-sync-insiders.trafficmanager.net
 DOMAIN-SUFFIX,www.typescriptlang.org
+DOMAIN-SUFFIX,playgroundcdn.typescriptlang.org
 DOMAIN-SUFFIX,talk.washingtonpost.com
 DOMAIN-SUFFIX,yourimageshare.com
 DOMAIN-SUFFIX,azurestaticapps.net

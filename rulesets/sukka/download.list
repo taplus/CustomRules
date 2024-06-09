@@ -98,6 +98,7 @@ DOMAIN-SUFFIX,down.filen-3.net
 DOMAIN-SUFFIX,down.filen-4.net
 DOMAIN-SUFFIX,down.filen-5.net
 DOMAIN-SUFFIX,dl.flathub.org
+DOMAIN-SUFFIX,mirror.ghproxy.com
 DOMAIN-SUFFIX,download.mozilla.org
 DOMAIN-SUFFIX,download.nektony.com
 DOMAIN-SUFFIX,boot.netboot.xyz
@@ -127,6 +128,8 @@ DOMAIN-SUFFIX,download.gigabyte.com
 DOMAIN-SUFFIX,download.iboysoft.com
 DOMAIN-SUFFIX,download.mikrotik.com
 DOMAIN-SUFFIX,download.mokeedev.com
+DOMAIN-SUFFIX,ciscobinary.openh264.org
+DOMAIN-SUFFIX,download.opensuse.org
 DOMAIN-SUFFIX,cdn-images.orbstack.dev
 DOMAIN-SUFFIX,api-updates.orbstack.dev
 DOMAIN-SUFFIX,cdn-updates.orbstack.dev
@@ -156,6 +159,7 @@ DOMAIN-SUFFIX,download4.epicgames.com
 DOMAIN-SUFFIX,fastly-download.epicgames.com
 DOMAIN-SUFFIX,debian.map.fastlydns.net
 DOMAIN-SUFFIX,gog-cdn-lumen.secure2.footprint.net
+DOMAIN-SUFFIX,releases.hashicorp.com
 DOMAIN-SUFFIX,cdn.hyperbeam.com
 DOMAIN-SUFFIX,download.jetbrains.com
 DOMAIN-SUFFIX,download-cdn.jetbrains.com
@@ -218,6 +222,5 @@ DOMAIN-SUFFIX,ftp.androidfilehost.com
 DOMAIN-SUFFIX,ava6.androidfilehost.com
 DOMAIN-SUFFIX,get.pixelexperience.org
 DOMAIN-SUFFIX,download.pixelexperience.org
-DOMAIN-SUFFIX,ciscobinary.openh264
 DOMAIN-SUFFIX,copr.fedorainfracloud.org
 DOMAIN-SUFFIX,cloudflaremirrors.com
