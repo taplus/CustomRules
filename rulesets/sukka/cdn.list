@@ -121,6 +121,7 @@ DOMAIN-SUFFIX,oss.moe.cat
 DOMAIN-SUFFIX,assets.msn.com
 DOMAIN-SUFFIX,cfcdn.mux.com
 DOMAIN-SUFFIX,ca.nfs.pub
+DOMAIN-SUFFIX,resource.video.nimg.jp
 DOMAIN-SUFFIX,media.npr.org
 DOMAIN-SUFFIX,bundles.npr.org
 DOMAIN-SUFFIX,static-assets.npr.org
@@ -1802,6 +1803,7 @@ DOMAIN-SUFFIX,fonts1.unidays.world
 DOMAIN-SUFFIX,cdn.up-timely.com
 DOMAIN-SUFFIX,crl.usertrust.com
 DOMAIN-SUFFIX,crt.usertrust.com
+DOMAIN-SUFFIX,ocsp.usertrust.com
 DOMAIN-SUFFIX,widget.uservoice.com
 DOMAIN-SUFFIX,video-cdn.net
 DOMAIN-SUFFIX,waitlisted.co
@@ -1879,6 +1881,8 @@ DOMAIN-SUFFIX,static.freeimages.com
 DOMAIN-SUFFIX,dam.freshworks.com
 DOMAIN-SUFFIX,widget.freshworks.com
 DOMAIN-SUFFIX,euc-widget.freshworks.com
+DOMAIN-SUFFIX,ocsp.globalsign.com
+DOMAIN-SUFFIX,ocsp2.globalsign.com
 DOMAIN-SUFFIX,ajax.googleapis.com
 DOMAIN-SUFFIX,chart.googleapis.com
 DOMAIN-SUFFIX,fonts.googleapis.com
