@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,images.spr.so
 DOMAIN-SUFFIX,ttl.sh
 DOMAIN-SUFFIX,static.ui.com
 DOMAIN-SUFFIX,images.svc.ui.com
+DOMAIN-SUFFIX,cdn.pkg.svc.ui.com
 DOMAIN-SUFFIX,img.community.ui.com
 DOMAIN-SUFFIX,secure-uploads.ui.com
 DOMAIN-SUFFIX,account-cdn.svc.ui.com
