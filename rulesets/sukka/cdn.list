@@ -1023,6 +1023,7 @@ DOMAIN-SUFFIX,sqspcdn.com
 DOMAIN-SUFFIX,static.srcspot.com
 DOMAIN-SUFFIX,cdn.sstatic.net
 DOMAIN-SUFFIX,assets.st-note.com
+DOMAIN-SUFFIX,stripst.com
 DOMAIN-SUFFIX,wpmedia.tealium.com
 DOMAIN-SUFFIX,ipfs.telos.miami
 DOMAIN-SUFFIX,cdn.termius.com
@@ -1133,6 +1134,7 @@ DOMAIN-SUFFIX,cdn.datacamp.com
 DOMAIN-SUFFIX,david-dm.org
 DOMAIN-SUFFIX,avatars.dicebear.com
 DOMAIN-SUFFIX,ocsp.digicert.com
+DOMAIN-SUFFIX,cacerts.digicert.com
 DOMAIN-SUFFIX,cdn-node.diskpart.com
 DOMAIN-SUFFIX,cdn.dnsimple.com
 DOMAIN-SUFFIX,cdn.dribbble.com
@@ -1654,6 +1656,7 @@ DOMAIN-SUFFIX,ipfs.smartholdem.io
 DOMAIN-SUFFIX,static.solarwinds.com
 DOMAIN-SUFFIX,w.soundcloud.com
 DOMAIN-SUFFIX,sourceforge.io
+DOMAIN-SUFFIX,img.sparknotes.com
 DOMAIN-SUFFIX,s3.stackabuse.com
 DOMAIN-SUFFIX,tiles.stadiamaps.com
 DOMAIN-SUFFIX,static.domains
