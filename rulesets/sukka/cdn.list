@@ -331,6 +331,7 @@ DOMAIN-SUFFIX,img1.acsta.net
 DOMAIN-SUFFIX,img2.acsta.net
 DOMAIN-SUFFIX,img3.acsta.net
 DOMAIN-SUFFIX,wwwimages2.adobe.com
+DOMAIN-SUFFIX,npm.antfu.dev
 DOMAIN-SUFFIX,pba.apple.com
 DOMAIN-SUFFIX,ocsp2.apple.com
 DOMAIN-SUFFIX,events-live.apple.com
