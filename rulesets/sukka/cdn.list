@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,s3.acg.mn
 DOMAIN-SUFFIX,lain.bgm.tv
 DOMAIN-SUFFIX,registry.api.cnn.io
 DOMAIN-SUFFIX,ipfs.d.tube
+DOMAIN-SUFFIX,media.dev.to
 DOMAIN-SUFFIX,static.dw.com
 DOMAIN-SUFFIX,pl.ea.com
 DOMAIN-SUFFIX,cdn.mcr.ea.com
@@ -995,7 +996,6 @@ DOMAIN-SUFFIX,img.perfops.net
 DOMAIN-SUFFIX,permaweb.io
 DOMAIN-SUFFIX,cdn.pixabay.com
 DOMAIN-SUFFIX,www.pngmart.com
-DOMAIN-SUFFIX,polyfill.io
 DOMAIN-SUFFIX,pornimg.xyz
 DOMAIN-SUFFIX,pravatar.cc
 DOMAIN-SUFFIX,pstatic.net
@@ -1022,7 +1022,7 @@ DOMAIN-SUFFIX,sdk.snapkit.com
 DOMAIN-SUFFIX,static.snaptube.in
 DOMAIN-SUFFIX,sqspcdn.com
 DOMAIN-SUFFIX,static.srcspot.com
-DOMAIN-SUFFIX,cdn.sstatic.net
+DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,assets.st-note.com
 DOMAIN-SUFFIX,stripst.com
 DOMAIN-SUFFIX,wpmedia.tealium.com
@@ -2002,6 +2002,7 @@ DOMAIN-SUFFIX,images.opencollective.com
 DOMAIN-SUFFIX,next-images.opencollective.com
 DOMAIN-SUFFIX,gateway.originprotocol.com
 DOMAIN-SUFFIX,web-assets.otogi-frontier.com
+DOMAIN-SUFFIX,polyfill-fastly.io
 DOMAIN-SUFFIX,api.pwnedpasswords.com
 DOMAIN-SUFFIX,safebrowsing.apple
 DOMAIN-SUFFIX,image.theblockbeats.info
