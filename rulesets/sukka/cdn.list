@@ -453,6 +453,7 @@ DOMAIN-SUFFIX,assets.monei.com
 DOMAIN-SUFFIX,static.monei.net
 DOMAIN-SUFFIX,staticassets.music.com
 DOMAIN-SUFFIX,nest.land
+DOMAIN-SUFFIX,image-forwarder.notaku.so
 DOMAIN-SUFFIX,npmfs.com
 DOMAIN-SUFFIX,skimdb.npmjs.com
 DOMAIN-SUFFIX,static.npmjs.com
@@ -515,6 +516,7 @@ DOMAIN-SUFFIX,assets.upload.io
 DOMAIN-SUFFIX,fonts.upset.dev
 DOMAIN-SUFFIX,uvcdn.com
 DOMAIN-SUFFIX,v-cdn.net
+DOMAIN-SUFFIX,openapi.vercel.sh
 DOMAIN-SUFFIX,gitpkg-fork.vercel.sh
 DOMAIN-SUFFIX,api-frameworks.vercel.sh
 DOMAIN-SUFFIX,vetted.ai
@@ -979,10 +981,6 @@ DOMAIN-SUFFIX,netlify.app
 DOMAIN-SUFFIX,ngfiles.com
 DOMAIN-SUFFIX,i.nhentai.net
 DOMAIN-SUFFIX,t.nhentai.net
-DOMAIN-SUFFIX,t2.nhentai.net
-DOMAIN-SUFFIX,t3.nhentai.net
-DOMAIN-SUFFIX,t5.nhentai.net
-DOMAIN-SUFFIX,t7.nhentai.net
 DOMAIN-SUFFIX,static.nhentai.net
 DOMAIN-SUFFIX,nordcdn.com
 DOMAIN-SUFFIX,oktacdn.com
@@ -1346,6 +1344,7 @@ DOMAIN-SUFFIX,edgestorewebcdn.azureedge.net
 DOMAIN-SUFFIX,edgeassetservice.azureedge.net
 DOMAIN-SUFFIX,edge-mobile-static.azureedge.net
 DOMAIN-SUFFIX,edge-consumer-static.azureedge.net
+DOMAIN-SUFFIX,cdn.babylonjs.com
 DOMAIN-SUFFIX,secure.beer7live.com
 DOMAIN-SUFFIX,img.bigcloud.cyou
 DOMAIN-SUFFIX,js-cdn.blockchair.io
@@ -1624,6 +1623,7 @@ DOMAIN-SUFFIX,design.mayoclinic.org
 DOMAIN-SUFFIX,assets.mozilla.social
 DOMAIN-SUFFIX,mypinata.cloud
 DOMAIN-SUFFIX,myshopapps.com
+DOMAIN-SUFFIX,static.mytonwallet.io
 DOMAIN-SUFFIX,nelreports.net
 DOMAIN-SUFFIX,cdn.nerdschalk.com
 DOMAIN-SUFFIX,netdna-ssl.com
@@ -1716,6 +1716,7 @@ DOMAIN-SUFFIX,cdn.dotaoutpost.com
 DOMAIN-SUFFIX,live.fanmingming.com
 DOMAIN-SUFFIX,static.fasthosts.co.uk
 DOMAIN-SUFFIX,ohttp-relay1.fastly-edge.com
+DOMAIN-SUFFIX,google-ohttp-relay-safebrowsing.fastly-edge.com
 DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN-SUFFIX,fontawesome.com
 DOMAIN-SUFFIX,static.foxbusiness.com
@@ -1951,6 +1952,7 @@ DOMAIN-SUFFIX,sig.grumpybumpers.com
 DOMAIN-SUFFIX,highwinds-cdn.com
 DOMAIN-SUFFIX,imagedelivery.net
 DOMAIN-SUFFIX,static.independent.co.uk
+DOMAIN-SUFFIX,cdn.joincommunity.xyz
 DOMAIN-SUFFIX,img3.lltaohuaxiang.com
 DOMAIN-SUFFIX,asset.mansionglobal.com
 DOMAIN-SUFFIX,mvnrepository.com
