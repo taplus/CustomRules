@@ -1,8 +1,10 @@
 DOMAIN-SUFFIX,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,cdn.ea.com
 DOMAIN-SUFFIX,releases.arc.net
+DOMAIN-SUFFIX,formulae.brew.sh
 DOMAIN-SUFFIX,mirror.cat.net
 DOMAIN-SUFFIX,mirrors.cat.net
+DOMAIN-SUFFIX,file.io
 DOMAIN-SUFFIX,ftp.gnu.org
 DOMAIN-SUFFIX,gog-cdn-fastly.gog.com
 DOMAIN-SUFFIX,gog-cdn-fastly-cp77.gog.com
@@ -13,6 +15,7 @@ DOMAIN-SUFFIX,binary-factory.kde.org
 DOMAIN-SUFFIX,file24-d.kuku.lu
 DOMAIN-SUFFIX,mega.io
 DOMAIN-SUFFIX,mega.nz
+DOMAIN-SUFFIX,temp.sh
 DOMAIN-SUFFIX,cdn.ubi.com
 DOMAIN-SUFFIX,mirror.xtom.au
 DOMAIN-SUFFIX,mirrors.xtom.au
@@ -64,6 +67,7 @@ DOMAIN-SUFFIX,dl2.xmind.net
 DOMAIN-SUFFIX,dl3.xmind.net
 DOMAIN-SUFFIX,downloads.xrite.com
 DOMAIN-SUFFIX,download.beeper.com
+DOMAIN-SUFFIX,catbox.moe
 DOMAIN-SUFFIX,deb.debian.org
 DOMAIN-SUFFIX,ftp.debian.org
 DOMAIN-SUFFIX,archive.debian.org
@@ -74,6 +78,7 @@ DOMAIN-SUFFIX,download.dlsite.com
 DOMAIN-SUFFIX,desktop.docker.com
 DOMAIN-SUFFIX,download.docker.com
 DOMAIN-SUFFIX,mirrors.dotsrc.org
+DOMAIN-SUFFIX,codeload.github.com
 DOMAIN-SUFFIX,dl.google.com
 DOMAIN-SUFFIX,dl.l.google.com
 DOMAIN-SUFFIX,cache.pack.google.com
@@ -92,6 +97,7 @@ DOMAIN-SUFFIX,steam.ru.qtlglb.com
 DOMAIN-SUFFIX,steam.eca.qtlglb.com
 DOMAIN-SUFFIX,steam.apac.qtlglb.com
 DOMAIN-SUFFIX,steam.naeu.qtlglb.com
+DOMAIN-SUFFIX,share.riseup.net
 DOMAIN-SUFFIX,store.setapp.com
 DOMAIN-SUFFIX,download.sketch.com
 DOMAIN-SUFFIX,archive.ubuntu.com
@@ -99,6 +105,7 @@ DOMAIN-SUFFIX,security.ubuntu.com
 DOMAIN-SUFFIX,download.anydesk.com
 DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
 DOMAIN-SUFFIX,dl.devmate.com
+DOMAIN-SUFFIX,filebin.net
 DOMAIN-SUFFIX,down.filen-1.net
 DOMAIN-SUFFIX,down.filen-2.net
 DOMAIN-SUFFIX,down.filen-3.net
@@ -173,12 +180,15 @@ DOMAIN-SUFFIX,api-updates.orbstack.dev
 DOMAIN-SUFFIX,cdn-updates.orbstack.dev
 DOMAIN-SUFFIX,repo.powerdns.com
 DOMAIN-SUFFIX,dl.snipaste.com
+DOMAIN-SUFFIX,stats.snipaste.com
 DOMAIN-SUFFIX,download.snipaste.com
+DOMAIN-SUFFIX,tmpfiles.org
 DOMAIN-SUFFIX,xvcf1.xboxlive.com
 DOMAIN-SUFFIX,xvcf2.xboxlive.com
 DOMAIN-SUFFIX,packagespc.xboxlive.com
 DOMAIN-SUFFIX,1fichier.info
 DOMAIN-SUFFIX,downloads.1password.com
+DOMAIN-SUFFIX,cache.agilebits.com
 DOMAIN-SUFFIX,steampipe.akamaized.net
 DOMAIN-SUFFIX,steampipe-kr.akamaized.net
 DOMAIN-SUFFIX,steampipe-partner.akamaized.net
@@ -539,4 +549,6 @@ DOMAIN-SUFFIX,get.pixelexperience.org
 DOMAIN-SUFFIX,download.pixelexperience.org
 DOMAIN-SUFFIX,copr.fedorainfracloud.org
 DOMAIN-SUFFIX,cloudflaremirrors.com
+DOMAIN-SUFFIX,objects.githubusercontent.com
+DOMAIN-SUFFIX,pkg-containers.githubusercontent.com
 DOMAIN-SUFFIX,digitaloceanspaces.com
