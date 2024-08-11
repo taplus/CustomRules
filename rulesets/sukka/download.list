@@ -120,6 +120,7 @@ DOMAIN-SUFFIX,download.mozilla.org
 DOMAIN-SUFFIX,download.nektony.com
 DOMAIN-SUFFIX,boot.netboot.xyz
 DOMAIN-SUFFIX,dl.nssurge.com
+DOMAIN-SUFFIX,releases.obsidian.md
 DOMAIN-SUFFIX,downloads.openwrt.org
 DOMAIN-SUFFIX,enterprise.proxmox.com
 DOMAIN-SUFFIX,iso.reactos.org
@@ -187,6 +188,7 @@ DOMAIN-SUFFIX,xvcf1.xboxlive.com
 DOMAIN-SUFFIX,xvcf2.xboxlive.com
 DOMAIN-SUFFIX,packagespc.xboxlive.com
 DOMAIN-SUFFIX,1fichier.info
+DOMAIN-SUFFIX,c.1password.com
 DOMAIN-SUFFIX,downloads.1password.com
 DOMAIN-SUFFIX,cache.agilebits.com
 DOMAIN-SUFFIX,steampipe.akamaized.net
@@ -495,6 +497,7 @@ DOMAIN-SUFFIX,amupdatedl4.microsoft.com
 DOMAIN-SUFFIX,amupdatedl5.microsoft.com
 DOMAIN-SUFFIX,delivery.mp.microsoft.com
 DOMAIN-SUFFIX,download.prss.microsoft.com
+DOMAIN-SUFFIX,software-download.microsoft.com
 DOMAIN-SUFFIX,download.visualstudio.microsoft.com
 DOMAIN-SUFFIX,mirror.navercorp.com
 DOMAIN-SUFFIX,desktop.parallels.com
@@ -510,6 +513,7 @@ DOMAIN-SUFFIX,update.googleapis.com
 DOMAIN-SUFFIX,releases.grapheneos.org
 DOMAIN-SUFFIX,nitro.download
 DOMAIN-SUFFIX,pixeldrain.com
+DOMAIN-SUFFIX,update.sleazyfork.org
 DOMAIN-SUFFIX,os-cdn.virtfusion.net
 DOMAIN-SUFFIX,install.virtfusion.net
 DOMAIN-SUFFIX,packages.virtfusion.net
