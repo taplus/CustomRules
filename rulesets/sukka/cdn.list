@@ -107,6 +107,8 @@ DOMAIN-SUFFIX,docs.rs
 DOMAIN-SUFFIX,image.dooo.ng
 DOMAIN-SUFFIX,media.e4le.me
 DOMAIN-SUFFIX,esm.run
+DOMAIN-SUFFIX,media.fc2.com
+DOMAIN-SUFFIX,static.fc2.com
 DOMAIN-SUFFIX,badge.fury.io
 DOMAIN-SUFFIX,assets.garr.it
 DOMAIN-SUFFIX,ghcr.io
@@ -388,6 +390,7 @@ DOMAIN-SUFFIX,pics.dmm.co.jp
 DOMAIN-SUFFIX,cdn.dap.dmm.co.jp
 DOMAIN-SUFFIX,doujin-assets.dmm.co.jp
 DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,cdn.donmai.us
 DOMAIN-SUFFIX,dsc.cloud
 DOMAIN-SUFFIX,dweb.link
 DOMAIN-SUFFIX,cdn.faire.com
@@ -941,6 +944,7 @@ DOMAIN-SUFFIX,eu.hamreus.com
 DOMAIN-SUFFIX,us.hamreus.com
 DOMAIN-SUFFIX,hardbin.com
 DOMAIN-SUFFIX,static.heavy-r.com
+DOMAIN-SUFFIX,pics.hentai.name
 DOMAIN-SUFFIX,js.hsforms.net
 DOMAIN-SUFFIX,js-eu1.hsforms.net
 DOMAIN-SUFFIX,static2cdn.hubspot.com
@@ -1323,6 +1327,7 @@ DOMAIN-SUFFIX,res2.weblium.site
 DOMAIN-SUFFIX,static.whatsapp.net
 DOMAIN-SUFFIX,scontent.whatsapp.net
 DOMAIN-SUFFIX,cdn.wishpond.net
+DOMAIN-SUFFIX,bundler.wix-code.com
 DOMAIN-SUFFIX,images-eds-ssl.xboxlive.com
 DOMAIN-SUFFIX,xnxx-cdn.com
 DOMAIN-SUFFIX,yastatic.net
@@ -1581,6 +1586,7 @@ DOMAIN-SUFFIX,media.convertkit.com
 DOMAIN-SUFFIX,assets.convertkit.com
 DOMAIN-SUFFIX,cdn.datatables.net
 DOMAIN-SUFFIX,a.deviantart.net
+DOMAIN-SUFFIX,e.deviantart.net
 DOMAIN-SUFFIX,st.deviantart.net
 DOMAIN-SUFFIX,osint.digitalside.it
 DOMAIN-SUFFIX,cdn.discordapp.com
