@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,cdn.ea.com
+DOMAIN-SUFFIX,dl.ui.com
 DOMAIN-SUFFIX,releases.arc.net
 DOMAIN-SUFFIX,formulae.brew.sh
 DOMAIN-SUFFIX,mirror.cat.net
@@ -46,7 +47,6 @@ DOMAIN-SUFFIX,cdn.kagi.com
 DOMAIN-SUFFIX,cdimage.kali.org
 DOMAIN-SUFFIX,dl.pstmn.io
 DOMAIN-SUFFIX,mac-release-static.stash.ws
-DOMAIN-SUFFIX,dl.ubnt.com
 DOMAIN-SUFFIX,download.xbox.com
 DOMAIN-SUFFIX,mirror.xtom.com
 DOMAIN-SUFFIX,mirrors.xtom.com
@@ -84,6 +84,7 @@ DOMAIN-SUFFIX,dl.l.google.com
 DOMAIN-SUFFIX,cache.pack.google.com
 DOMAIN-SUFFIX,download.mlcc.google.com
 DOMAIN-SUFFIX,download.tensorflow.google.com
+DOMAIN-SUFFIX,iterm2.com
 DOMAIN-SUFFIX,repo.jing.rocks
 DOMAIN-SUFFIX,mirrors.edge.kernel.org
 DOMAIN-SUFFIX,mega.co.nz
