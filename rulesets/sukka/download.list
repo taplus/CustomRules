@@ -117,6 +117,7 @@ DOMAIN-SUFFIX,mirror.ghproxy.com
 DOMAIN-SUFFIX,ks3-rus.ksyuncs.com
 DOMAIN-SUFFIX,ks3-sgp.ksyuncs.com
 DOMAIN-SUFFIX,ks3-cn-hk-1.ksyuncs.com
+DOMAIN-SUFFIX,download.maxmind.com
 DOMAIN-SUFFIX,download.mozilla.org
 DOMAIN-SUFFIX,download.nektony.com
 DOMAIN-SUFFIX,boot.netboot.xyz
@@ -192,6 +193,7 @@ DOMAIN-SUFFIX,1fichier.info
 DOMAIN-SUFFIX,c.1password.com
 DOMAIN-SUFFIX,downloads.1password.com
 DOMAIN-SUFFIX,cache.agilebits.com
+DOMAIN-SUFFIX,app-updates.agilebits.com
 DOMAIN-SUFFIX,steampipe.akamaized.net
 DOMAIN-SUFFIX,steampipe-kr.akamaized.net
 DOMAIN-SUFFIX,steampipe-partner.akamaized.net
@@ -508,10 +510,12 @@ DOMAIN-SUFFIX,mirrors.rpmfusion.org
 DOMAIN-SUFFIX,download.todesktop.com
 DOMAIN-SUFFIX,releases.whatpulse.org
 DOMAIN-SUFFIX,dl.wireshark.org
+DOMAIN-SUFFIX,downloads.wordpress.org
 DOMAIN-SUFFIX,dl.discordapp.net
 DOMAIN-SUFFIX,artifacts.electronjs.org
 DOMAIN-SUFFIX,update.googleapis.com
 DOMAIN-SUFFIX,releases.grapheneos.org
+DOMAIN-SUFFIX,updates.istatmenus.app
 DOMAIN-SUFFIX,nitro.download
 DOMAIN-SUFFIX,pixeldrain.com
 DOMAIN-SUFFIX,update.sleazyfork.org
