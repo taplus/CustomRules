@@ -118,7 +118,10 @@ DOMAIN-SUFFIX,ks3-rus.ksyuncs.com
 DOMAIN-SUFFIX,ks3-sgp.ksyuncs.com
 DOMAIN-SUFFIX,ks3-cn-hk-1.ksyuncs.com
 DOMAIN-SUFFIX,download.maxmind.com
+DOMAIN-SUFFIX,aus5.mozilla.org
 DOMAIN-SUFFIX,download.mozilla.org
+DOMAIN-SUFFIX,aus2-community.mozilla.org
+DOMAIN-SUFFIX,versioncheck-bg.addons.mozilla.org
 DOMAIN-SUFFIX,download.nektony.com
 DOMAIN-SUFFIX,boot.netboot.xyz
 DOMAIN-SUFFIX,dl.nssurge.com
@@ -159,6 +162,7 @@ DOMAIN-SUFFIX,level3.blizzard.com
 DOMAIN-SUFFIX,mirror.clarkson.edu
 DOMAIN-SUFFIX,blizzard.gcdn.cloudn.co.kr
 DOMAIN-SUFFIX,mirror.constant.com
+DOMAIN-SUFFIX,repo.debiancn.org
 DOMAIN-SUFFIX,fuwamofu.com
 DOMAIN-SUFFIX,download.gigabyte.com
 DOMAIN-SUFFIX,download.iboysoft.com
@@ -477,6 +481,7 @@ DOMAIN-SUFFIX,downloadr2.apkmirror.com
 DOMAIN-SUFFIX,product-downloads.atlassian.com
 DOMAIN-SUFFIX,playwright.azureedge.net
 DOMAIN-SUFFIX,pf-cdn-content-prod.azureedge.net
+DOMAIN-SUFFIX,dl.cloudsmith.io
 DOMAIN-SUFFIX,dl.elementary.io
 DOMAIN-SUFFIX,download.epicgames.com
 DOMAIN-SUFFIX,download2.epicgames.com
@@ -517,6 +522,7 @@ DOMAIN-SUFFIX,update.googleapis.com
 DOMAIN-SUFFIX,releases.grapheneos.org
 DOMAIN-SUFFIX,updates.istatmenus.app
 DOMAIN-SUFFIX,nitro.download
+DOMAIN-SUFFIX,deb.nodesource.com
 DOMAIN-SUFFIX,pixeldrain.com
 DOMAIN-SUFFIX,update.sleazyfork.org
 DOMAIN-SUFFIX,os-cdn.virtfusion.net
