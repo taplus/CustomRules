@@ -20,21 +20,26 @@ def download_file(filename):
 def rewrite_file(filename):
     # 定义文件路径
     file_path = '{}/rulesets/sukka/{}.list'.format(os.getcwd(),filename)
-    temp_file = 'temp.txt'
+    temp_file = '{}/rulesets/sukka/{}.txt'.format(os.getcwd(),filename)
     # 创建临时文件
-    with open(file_path, 'r',encoding='utf-8') as file, open(temp_file,'w') as outfile:
+    with open(file_path, 'r',encoding='utf-8') as file, open(temp_file,'w',encoding='utf-8') as outfile:
         # 读取原始文件内容
         lines = file.readlines()
         # 在内存中对内容进行修改
-        for i, line in enumerate(lines):
-            # 删除行中以 '.+' 开头的部分，并在每一行的开头添加 "Domain-suffix"
-            lines[i] = re.sub(r'^\+\.', '', line.strip())
-            lines[i] = "DOMAIN-SUFFIX," + lines[i] + '\n'
-            if not re.match(r'.*#+.*', lines[i]):
-                outfile.write(lines[i])
-            outfile
-        
-        os.replace(temp_file,file_path)
+        for line in lines:
+            # 跳过包含 `#` 的行
+            if re.search(r'#', line):
+                continue  # 跳过此行
+            # 跳过包含 'this_ruleset_is_made_by_sukkaw' 的行
+            if re.search(r'this_ruleset_is_made_by_sukkaw', line):
+                continue  # 跳过此行
+            # 删除每行 '+.' ，并在每一行的开头添加 "Domain-suffix"
+            line = re.sub(r'^\+\.', '', line.strip())
+            if re.search(r'\w', line):
+                line = "DOMAIN-SUFFIX," + line + '\n'
+            outfile.write(line)
+
+    os.replace(temp_file,file_path)
  
 def time_label():
     now = datetime.now()
@@ -45,7 +50,7 @@ def time_label():
 
 
 def main():
-    for filename in ['apple_cdn','icloud_private_relay','cdn','download','steam']:
+    for filename in ['apple_cdn','cdn','download']:
         download_file(filename)
         rewrite_file(filename)
     time_label()

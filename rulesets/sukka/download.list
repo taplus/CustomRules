@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,cdn.ea.com
+DOMAIN-SUFFIX,r2.dev
 DOMAIN-SUFFIX,dl.ui.com
 DOMAIN-SUFFIX,releases.arc.net
 DOMAIN-SUFFIX,formulae.brew.sh
@@ -47,13 +47,16 @@ DOMAIN-SUFFIX,cdn.kagi.com
 DOMAIN-SUFFIX,cdimage.kali.org
 DOMAIN-SUFFIX,dl.pstmn.io
 DOMAIN-SUFFIX,mac-release-static.stash.ws
+DOMAIN-SUFFIX,swupdate.vray.com
 DOMAIN-SUFFIX,download.xbox.com
 DOMAIN-SUFFIX,mirror.xtom.com
 DOMAIN-SUFFIX,mirrors.xtom.com
 DOMAIN-SUFFIX,mirror-cdn.xtom.com
 DOMAIN-SUFFIX,repo.carbon.sh
+DOMAIN-SUFFIX,swupdate.chaos.com
 DOMAIN-SUFFIX,file.chobit.cc
 DOMAIN-SUFFIX,download.cpuid.com
+DOMAIN-SUFFIX,downloader.cursor.sh
 DOMAIN-SUFFIX,down.filen.net
 DOMAIN-SUFFIX,store1.gofile.io
 DOMAIN-SUFFIX,s3.fr-par.scw.cloud
@@ -66,11 +69,13 @@ DOMAIN-SUFFIX,download.typora.io
 DOMAIN-SUFFIX,dl2.xmind.net
 DOMAIN-SUFFIX,dl3.xmind.net
 DOMAIN-SUFFIX,downloads.xrite.com
+DOMAIN-SUFFIX,download.bazzite.gg
 DOMAIN-SUFFIX,download.beeper.com
 DOMAIN-SUFFIX,catbox.moe
 DOMAIN-SUFFIX,deb.debian.org
 DOMAIN-SUFFIX,ftp.debian.org
 DOMAIN-SUFFIX,archive.debian.org
+DOMAIN-SUFFIX,ftp2.de.debian.org
 DOMAIN-SUFFIX,security.debian.org
 DOMAIN-SUFFIX,ftp-master.debian.org
 DOMAIN-SUFFIX,dl.dlsite.com
@@ -103,6 +108,7 @@ DOMAIN-SUFFIX,store.setapp.com
 DOMAIN-SUFFIX,download.sketch.com
 DOMAIN-SUFFIX,archive.ubuntu.com
 DOMAIN-SUFFIX,security.ubuntu.com
+DOMAIN-SUFFIX,static.adguard.com
 DOMAIN-SUFFIX,download.anydesk.com
 DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
 DOMAIN-SUFFIX,dl.devmate.com
@@ -155,6 +161,8 @@ DOMAIN-SUFFIX,oss-ap-southeast-5.aliyuncs.com
 DOMAIN-SUFFIX,oss-ap-southeast-6.aliyuncs.com
 DOMAIN-SUFFIX,oss-ap-southeast-7.aliyuncs.com
 DOMAIN-SUFFIX,oss-accelerate-overseas.aliyuncs.com
+DOMAIN-SUFFIX,download.autodesk.com
+DOMAIN-SUFFIX,autoupdatesvc.delivery.autodesk.com
 DOMAIN-SUFFIX,content.cdp.bethesda.net
 DOMAIN-SUFFIX,download.cdp.bethesda.net
 DOMAIN-SUFFIX,cdn.blizzard.com
@@ -490,6 +498,7 @@ DOMAIN-SUFFIX,download4.epicgames.com
 DOMAIN-SUFFIX,fastly-download.epicgames.com
 DOMAIN-SUFFIX,debian.map.fastlydns.net
 DOMAIN-SUFFIX,gog-cdn-lumen.secure2.footprint.net
+DOMAIN-SUFFIX,dl.getaurora.dev
 DOMAIN-SUFFIX,releases.hashicorp.com
 DOMAIN-SUFFIX,cdn.hyperbeam.com
 DOMAIN-SUFFIX,download.jetbrains.com
@@ -516,6 +525,7 @@ DOMAIN-SUFFIX,download.todesktop.com
 DOMAIN-SUFFIX,releases.whatpulse.org
 DOMAIN-SUFFIX,dl.wireshark.org
 DOMAIN-SUFFIX,downloads.wordpress.org
+DOMAIN-SUFFIX,swupdate.chaosgroup.com
 DOMAIN-SUFFIX,dl.discordapp.net
 DOMAIN-SUFFIX,artifacts.electronjs.org
 DOMAIN-SUFFIX,update.googleapis.com
@@ -556,6 +566,8 @@ DOMAIN-SUFFIX,fnbuilds.services
 DOMAIN-SUFFIX,client.hikarifield.co.jp
 DOMAIN-SUFFIX,download.hikarifield.co.jp
 DOMAIN-SUFFIX,linodeobjects.com
+DOMAIN-SUFFIX,nobara-images.nobaraproject.org
+DOMAIN-SUFFIX,download.projectbluefin.io
 DOMAIN-SUFFIX,ctldl.windowsupdate.com
 DOMAIN-SUFFIX,builds.paranoidandroid.co
 DOMAIN-SUFFIX,ftp.androidfilehost.com
@@ -564,6 +576,7 @@ DOMAIN-SUFFIX,get.pixelexperience.org
 DOMAIN-SUFFIX,download.pixelexperience.org
 DOMAIN-SUFFIX,copr.fedorainfracloud.org
 DOMAIN-SUFFIX,cloudflaremirrors.com
+DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,objects.githubusercontent.com
 DOMAIN-SUFFIX,pkg-containers.githubusercontent.com
 DOMAIN-SUFFIX,digitaloceanspaces.com

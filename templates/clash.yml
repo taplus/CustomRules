@@ -1,3 +1,4 @@
+# update time 2024-09-21 19:38:31
 allow-lan: true
 dns:
   enable: true
@@ -113,6 +114,8 @@ dns:
   - +.n0808.com
   - +.uu.163.com
   - ps.res.netease.com
+  - +.pub.3gppnetwork.org
+  - geosite:category-games
   - +.cloud.cupronickel.goog
   - +.googleapis.com
   - na.b.g-tun.com
