@@ -1,4 +1,4 @@
-# update time 2024-09-22 00:27:59
+# update time 2024-09-22 00:44:58
 allow-lan: true
 dns:
   default-nameserver:
@@ -172,11 +172,9 @@ dns:
   use-hosts: true
 external-controller: 0.0.0.0:9596
 hosts:
-- www.asusrouter.com: 192.168.0.1
+  www.asusrouter.com: 192.168.0.1
 log-level: silent
 mode: Rule
 port: 7890
 secret: webui9695
 socks-port: 7891
-hosts:
-  www.asusrouter.com: 192.168.0.1
