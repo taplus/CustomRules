@@ -508,6 +508,7 @@ DOMAIN-SUFFIX,ppa.launchpad.net
 DOMAIN-SUFFIX,packages.linuxmint.com
 DOMAIN-SUFFIX,packages.microsoft.com
 DOMAIN-SUFFIX,amupdatedl.microsoft.com
+DOMAIN-SUFFIX,cdn.winget.microsoft.com
 DOMAIN-SUFFIX,amupdatedl2.microsoft.com
 DOMAIN-SUFFIX,amupdatedl3.microsoft.com
 DOMAIN-SUFFIX,amupdatedl4.microsoft.com
