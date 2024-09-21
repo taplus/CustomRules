@@ -2,7 +2,14 @@
 allow-lan: true
 dns:
   enable: true
+  use-hosts: true
+  hosts:
+  - www.asusrouter.com: 192.168.0.1
+  respect-rules: true
+  default-nameserver:
+    - 223.5.5.5
   enhanced-mode: fake-ip
+  fake-ip-filter-mode: blacklist
   fake-ip-filter:
   - '*.lan'
   - '*.localdomain'
@@ -128,6 +135,8 @@ dns:
   fallback:
   - https://cloudflare-dns.com/dns-query
   - https://dns.google/dns-query
+  proxy-server-nameserver:
+  - https://doh.pub/dns-query
   fallback-filter:
     domain:
     - +.google.com
