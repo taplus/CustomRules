@@ -3,8 +3,6 @@ allow-lan: true
 dns:
   enable: true
   use-hosts: true
-  hosts:
-  - www.asusrouter.com: 192.168.0.1
   respect-rules: true
   default-nameserver:
     - 223.5.5.5
@@ -178,3 +176,5 @@ mode: Rule
 port: 7890
 secret: webui9695
 socks-port: 7891
+hosts:
+- www.asusrouter.com: 192.168.0.1
