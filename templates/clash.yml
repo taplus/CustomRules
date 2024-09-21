@@ -1,13 +1,10 @@
-# update time 2024-09-21 22:12:34
+# update time 2024-09-22 00:27:59
 allow-lan: true
 dns:
-  enable: true
-  use-hosts: true
-  respect-rules: true
   default-nameserver:
-    - 223.5.5.5
+  - 223.5.5.5
+  enable: true
   enhanced-mode: fake-ip
-  fake-ip-filter-mode: blacklist
   fake-ip-filter:
   - '*.lan'
   - '*.localdomain'
@@ -130,11 +127,10 @@ dns:
   - epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
   - ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
   - ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org
+  fake-ip-filter-mode: blacklist
   fallback:
   - https://cloudflare-dns.com/dns-query
   - https://dns.google/dns-query
-  proxy-server-nameserver:
-  - https://doh.pub/dns-query
   fallback-filter:
     domain:
     - +.google.com
@@ -170,11 +166,15 @@ dns:
   - 223.5.5.5
   - https://doh.pub/dns-query
   - https://dns.alidns.com/dns-query
+  proxy-server-nameserver:
+  - https://doh.pub/dns-query
+  respect-rules: true
+  use-hosts: true
 external-controller: 0.0.0.0:9596
+hosts:
+- www.asusrouter.com: 192.168.0.1
 log-level: silent
 mode: Rule
 port: 7890
 secret: webui9695
 socks-port: 7891
-hosts:
-- www.asusrouter.com: 192.168.0.1
