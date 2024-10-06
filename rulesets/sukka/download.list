@@ -540,6 +540,7 @@ DOMAIN-SUFFIX,os-cdn.virtfusion.net
 DOMAIN-SUFFIX,install.virtfusion.net
 DOMAIN-SUFFIX,packages.virtfusion.net
 DOMAIN-SUFFIX,dl-cdn.alpinelinux.org
+DOMAIN-SUFFIX,s3.us-west-002.backblazeb2.com
 DOMAIN-SUFFIX,dl.playstation.net
 DOMAIN-SUFFIX,downloads.raspberrypi.com
 DOMAIN-SUFFIX,dl.sourceforge.net
