@@ -39,6 +39,8 @@ DOMAIN-SUFFIX,down.filen.io
 DOMAIN-SUFFIX,dl.pstmn.io
 DOMAIN-SUFFIX,store1.gofile.io
 DOMAIN-SUFFIX,download.typora.io
+DOMAIN-SUFFIX,cdn.cypress.io
+DOMAIN-SUFFIX,download.cypress.io
 DOMAIN-SUFFIX,dl.cloudsmith.io
 DOMAIN-SUFFIX,dl.elementary.io
 DOMAIN-SUFFIX,download.projectbluefin.io
@@ -130,9 +132,12 @@ DOMAIN-SUFFIX,download.mokeedev.com
 DOMAIN-SUFFIX,repo.powerdns.com
 DOMAIN-SUFFIX,dl.snipaste.com
 DOMAIN-SUFFIX,stats.snipaste.com
+DOMAIN-SUFFIX,updater.snipaste.com
 DOMAIN-SUFFIX,download.snipaste.com
 DOMAIN-SUFFIX,xvcf1.xboxlive.com
 DOMAIN-SUFFIX,xvcf2.xboxlive.com
+DOMAIN-SUFFIX,assets1.xboxlive.com
+DOMAIN-SUFFIX,assets2.xboxlive.com
 DOMAIN-SUFFIX,packagespc.xboxlive.com
 DOMAIN-SUFFIX,c.1password.com
 DOMAIN-SUFFIX,downloads.1password.com
@@ -201,6 +206,7 @@ DOMAIN-SUFFIX,download.todesktop.com
 DOMAIN-SUFFIX,swupdate.chaosgroup.com
 DOMAIN-SUFFIX,update.googleapis.com
 DOMAIN-SUFFIX,deb.nodesource.com
+DOMAIN-SUFFIX,egdownload.fastly-edge.com
 DOMAIN-SUFFIX,downloads.raspberrypi.com
 DOMAIN-SUFFIX,content.steampowered.com
 DOMAIN-SUFFIX,content1.steampowered.com
@@ -290,6 +296,7 @@ DOMAIN-SUFFIX,nobara-images.nobaraproject.org
 DOMAIN-SUFFIX,get.pixelexperience.org
 DOMAIN-SUFFIX,download.pixelexperience.org
 DOMAIN-SUFFIX,copr.fedorainfracloud.org
+DOMAIN-SUFFIX,mirror.apad.pro
 DOMAIN-SUFFIX,boot.netboot.xyz
 DOMAIN-SUFFIX,repo.jing.rocks
 DOMAIN-SUFFIX,mirror.xtom.com.hk
