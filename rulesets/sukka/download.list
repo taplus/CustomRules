@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,file.io
+DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,mega.io
 DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,temp.sh
@@ -9,6 +10,7 @@ DOMAIN-SUFFIX,pixeldrain.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,vultrobjects.com
 DOMAIN-SUFFIX,linodeobjects.com
+DOMAIN-SUFFIX,androidfilehost.com
 DOMAIN-SUFFIX,cloudflaremirrors.com
 DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,digitaloceanspaces.com
@@ -220,14 +222,13 @@ DOMAIN-SUFFIX,content8.steampowered.com
 DOMAIN-SUFFIX,content-origin.steampowered.com
 DOMAIN-SUFFIX,updates-cdn.bravesoftware.com
 DOMAIN-SUFFIX,ctldl.windowsupdate.com
-DOMAIN-SUFFIX,ftp.androidfilehost.com
-DOMAIN-SUFFIX,ava6.androidfilehost.com
 DOMAIN-SUFFIX,objects.githubusercontent.com
 DOMAIN-SUFFIX,pkg-containers.githubusercontent.com
 DOMAIN-SUFFIX,cdn-images.orbstack.dev
 DOMAIN-SUFFIX,api-updates.orbstack.dev
 DOMAIN-SUFFIX,cdn-updates.orbstack.dev
 DOMAIN-SUFFIX,dl.getaurora.dev
+DOMAIN-SUFFIX,drive.massgrave.dev
 DOMAIN-SUFFIX,mirror.clarkson.edu
 DOMAIN-SUFFIX,releases.arc.net
 DOMAIN-SUFFIX,mirror.cat.net
@@ -306,10 +307,6 @@ DOMAIN-SUFFIX,download.hikarifield.co.jp
 DOMAIN-SUFFIX,s3.isk01.sakurastorage.jp
 DOMAIN-SUFFIX,s3.isk02.sakurastorage.jp
 DOMAIN-SUFFIX,edgedl.me.gvt1.com
-DOMAIN-SUFFIX,edgedl.me.gvt2.com
-DOMAIN-SUFFIX,edgedl.me.gvt3.com
-DOMAIN-SUFFIX,edgedl.me.gvt4.com
-DOMAIN-SUFFIX,edgedl.me.gvt5.com
 DOMAIN-SUFFIX,dl.l.google.com
 DOMAIN-SUFFIX,download.mlcc.google.com
 DOMAIN-SUFFIX,cache.pack.google.com
