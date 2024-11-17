@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,pixeldrain.com
 DOMAIN-SUFFIX,epicgamescdn.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,vultrobjects.com
+DOMAIN-SUFFIX,cdn77-storage.com
 DOMAIN-SUFFIX,linodeobjects.com
 DOMAIN-SUFFIX,androidfilehost.com
 DOMAIN-SUFFIX,cloudflaremirrors.com
@@ -41,6 +42,7 @@ DOMAIN-SUFFIX,dl.iina.io
 DOMAIN-SUFFIX,dl-portal.iina.io
 DOMAIN-SUFFIX,down.filen.io
 DOMAIN-SUFFIX,dl.pstmn.io
+DOMAIN-SUFFIX,disks.webvm.io
 DOMAIN-SUFFIX,store1.gofile.io
 DOMAIN-SUFFIX,download.typora.io
 DOMAIN-SUFFIX,cdn.cypress.io
