@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,file.io
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,mega.io
+DOMAIN-SUFFIX,packagecloud.io
 DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,temp.sh
 DOMAIN-SUFFIX,iterm2.com
@@ -29,6 +30,7 @@ DOMAIN-SUFFIX,nitro.download
 DOMAIN-SUFFIX,fnbuilds.services
 DOMAIN-SUFFIX,mirror.xtom.au
 DOMAIN-SUFFIX,mirrors.xtom.au
+DOMAIN-SUFFIX,download.mersenne.ca
 DOMAIN-SUFFIX,file.chobit.cc
 DOMAIN-SUFFIX,builds.paranoidandroid.co
 DOMAIN-SUFFIX,mirror.xtom.de
@@ -99,6 +101,7 @@ DOMAIN-SUFFIX,store.setapp.com
 DOMAIN-SUFFIX,download.sketch.com
 DOMAIN-SUFFIX,archive.ubuntu.com
 DOMAIN-SUFFIX,security.ubuntu.com
+DOMAIN-SUFFIX,softwareupdate.vmware.com
 DOMAIN-SUFFIX,static.adguard.com
 DOMAIN-SUFFIX,download.anydesk.com
 DOMAIN-SUFFIX,dl.devmate.com
@@ -214,6 +217,7 @@ DOMAIN-SUFFIX,download.todesktop.com
 DOMAIN-SUFFIX,swupdate.chaosgroup.com
 DOMAIN-SUFFIX,update.googleapis.com
 DOMAIN-SUFFIX,deb.nodesource.com
+DOMAIN-SUFFIX,dl.cleverfiles.com
 DOMAIN-SUFFIX,egdownload.fastly-edge.com
 DOMAIN-SUFFIX,downloads.raspberrypi.com
 DOMAIN-SUFFIX,content.steampowered.com
@@ -290,6 +294,7 @@ DOMAIN-SUFFIX,dl.wireshark.org
 DOMAIN-SUFFIX,downloads.wordpress.org
 DOMAIN-SUFFIX,artifacts.electronjs.org
 DOMAIN-SUFFIX,releases.grapheneos.org
+DOMAIN-SUFFIX,update.greasyfork.org
 DOMAIN-SUFFIX,update.sleazyfork.org
 DOMAIN-SUFFIX,dl-cdn.alpinelinux.org
 DOMAIN-SUFFIX,mirrors.fedoraproject.org
