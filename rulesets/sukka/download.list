@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,ghp.ci
 DOMAIN-SUFFIX,file.io
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,mega.io
@@ -492,6 +493,7 @@ DOMAIN-SUFFIX,download.visualstudio.microsoft.com
 DOMAIN-SUFFIX,s3.us-west-002.backblazeb2.com
 DOMAIN-SUFFIX,update.code.visualstudio.com
 DOMAIN-SUFFIX,az764295.vo.msecnd.net
+DOMAIN-SUFFIX,download-installer.cdn.mozilla.net
 DOMAIN-SUFFIX,download-core.sys.truenas.net
 DOMAIN-SUFFIX,content.cdp.bethesda.net
 DOMAIN-SUFFIX,download.cdp.bethesda.net
@@ -500,6 +502,7 @@ DOMAIN-SUFFIX,wup.eshop.nintendo.net
 DOMAIN-SUFFIX,debian.map.fastlydns.net
 DOMAIN-SUFFIX,ftp2.de.debian.org
 DOMAIN-SUFFIX,mirrors.edge.kernel.org
+DOMAIN-SUFFIX,versioncheck.addons.mozilla.org
 DOMAIN-SUFFIX,versioncheck-bg.addons.mozilla.org
 DOMAIN-SUFFIX,s3.fr-par.scw.cloud
 DOMAIN-SUFFIX,s3-website.fr-par.scw.cloud
