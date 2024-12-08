@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,mirrors.xtom.au
 DOMAIN-SUFFIX,download.mersenne.ca
 DOMAIN-SUFFIX,file.chobit.cc
 DOMAIN-SUFFIX,builds.paranoidandroid.co
+DOMAIN-SUFFIX,ftp.gwdg.de
 DOMAIN-SUFFIX,mirror.xtom.de
 DOMAIN-SUFFIX,mirrors.xtom.de
 DOMAIN-SUFFIX,mirror.xtom.ee
@@ -85,6 +86,9 @@ DOMAIN-SUFFIX,download.xbox.com
 DOMAIN-SUFFIX,mirror.xtom.com
 DOMAIN-SUFFIX,mirrors.xtom.com
 DOMAIN-SUFFIX,mirror-cdn.xtom.com
+DOMAIN-SUFFIX,s3.brave.com
+DOMAIN-SUFFIX,go-updater.brave.com
+DOMAIN-SUFFIX,componentupdater.brave.com
 DOMAIN-SUFFIX,swupdate.chaos.com
 DOMAIN-SUFFIX,download.cpuid.com
 DOMAIN-SUFFIX,cdn-patch.swtor.com
@@ -220,6 +224,7 @@ DOMAIN-SUFFIX,update.googleapis.com
 DOMAIN-SUFFIX,deb.nodesource.com
 DOMAIN-SUFFIX,dl.cleverfiles.com
 DOMAIN-SUFFIX,egdownload.fastly-edge.com
+DOMAIN-SUFFIX,update.kiwibrowser.com
 DOMAIN-SUFFIX,downloads.raspberrypi.com
 DOMAIN-SUFFIX,content.steampowered.com
 DOMAIN-SUFFIX,content-origin.steampowered.com
