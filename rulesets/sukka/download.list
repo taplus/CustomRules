@@ -107,6 +107,7 @@ DOMAIN-SUFFIX,download.sketch.com
 DOMAIN-SUFFIX,archive.ubuntu.com
 DOMAIN-SUFFIX,security.ubuntu.com
 DOMAIN-SUFFIX,softwareupdate.vmware.com
+DOMAIN-SUFFIX,dl.wechat.com
 DOMAIN-SUFFIX,static.adguard.com
 DOMAIN-SUFFIX,download.anydesk.com
 DOMAIN-SUFFIX,dl.devmate.com
@@ -279,6 +280,7 @@ DOMAIN-SUFFIX,cdn.kde.org
 DOMAIN-SUFFIX,invent.kde.org
 DOMAIN-SUFFIX,download.gimp.org
 DOMAIN-SUFFIX,cdimage.kali.org
+DOMAIN-SUFFIX,downloads.xiph.org
 DOMAIN-SUFFIX,deb.debian.org
 DOMAIN-SUFFIX,ftp.debian.org
 DOMAIN-SUFFIX,archive.debian.org
