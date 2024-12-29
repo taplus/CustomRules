@@ -919,6 +919,7 @@ DOMAIN-SUFFIX,cdn.imageengine.io
 DOMAIN-SUFFIX,cdn.ip2location.io
 DOMAIN-SUFFIX,static.mytonwallet.io
 DOMAIN-SUFFIX,ipfs.smartholdem.io
+DOMAIN-SUFFIX,cdn.thenewstack.io
 DOMAIN-SUFFIX,images.contentstack.io
 DOMAIN-SUFFIX,api.loganalytics.io
 DOMAIN-SUFFIX,assets-production.packagecloud.io
@@ -1085,6 +1086,7 @@ DOMAIN-SUFFIX,consent-manager.ft.com
 DOMAIN-SUFFIX,static.ui.com
 DOMAIN-SUFFIX,status.ui.com
 DOMAIN-SUFFIX,secure-uploads.ui.com
+DOMAIN-SUFFIX,st6-20.vk.com
 DOMAIN-SUFFIX,static2.avg.com
 DOMAIN-SUFFIX,cdn.cnn.com
 DOMAIN-SUFFIX,media.cnn.com
@@ -1109,6 +1111,7 @@ DOMAIN-SUFFIX,ntp.msn.com
 DOMAIN-SUFFIX,assets.msn.com
 DOMAIN-SUFFIX,cfcdn.mux.com
 DOMAIN-SUFFIX,image.mux.com
+DOMAIN-SUFFIX,stream.mux.com
 DOMAIN-SUFFIX,sp.nba.com
 DOMAIN-SUFFIX,cdn.nba.com
 DOMAIN-SUFFIX,tags.nba.com
@@ -1817,7 +1820,7 @@ DOMAIN-SUFFIX,media-cdn.epicgames.com
 DOMAIN-SUFFIX,static-assets-prod.epicgames.com
 DOMAIN-SUFFIX,snippets.freshchat.com
 DOMAIN-SUFFIX,cdn.freshdesk.com
-DOMAIN-SUFFIX,static.frostming.com
+DOMAIN-SUFFIX,webp.frostming.com
 DOMAIN-SUFFIX,mosaic.fxtwitter.com
 DOMAIN-SUFFIX,mosaic-blender.fxtwitter.com
 DOMAIN-SUFFIX,i.geekflare.com
