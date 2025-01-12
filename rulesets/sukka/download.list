@@ -500,6 +500,7 @@ DOMAIN-SUFFIX,cdn.winget.microsoft.com
 DOMAIN-SUFFIX,download.visualstudio.microsoft.com
 DOMAIN-SUFFIX,s3.us-west-002.backblazeb2.com
 DOMAIN-SUFFIX,update.code.visualstudio.com
+DOMAIN-SUFFIX,public.blob.vercel-storage.com
 DOMAIN-SUFFIX,az764295.vo.msecnd.net
 DOMAIN-SUFFIX,download-installer.cdn.mozilla.net
 DOMAIN-SUFFIX,download-core.sys.truenas.net
