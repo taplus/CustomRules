@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,dl.wireshark.org
 DOMAIN-SUFFIX,releases.whatpulse.org
 DOMAIN-SUFFIX,mirrors.rpmfusion.org
 DOMAIN-SUFFIX,tmpfiles.org
+DOMAIN-SUFFIX,static.redox-os.org
 DOMAIN-SUFFIX,download.opensuse.org
 DOMAIN-SUFFIX,ciscobinary.openh264.org
 DOMAIN-SUFFIX,repo.debiancn.org
@@ -605,6 +606,7 @@ DOMAIN-SUFFIX,download.cypress.io
 DOMAIN-SUFFIX,cdn.cypress.io
 DOMAIN-SUFFIX,download.typora.io
 DOMAIN-SUFFIX,store1.gofile.io
+DOMAIN-SUFFIX,download.fydeos.io
 DOMAIN-SUFFIX,disks.webvm.io
 DOMAIN-SUFFIX,dl.pstmn.io
 DOMAIN-SUFFIX,down.filen.io
