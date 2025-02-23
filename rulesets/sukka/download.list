@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,s3-website.fr-par.scw.cloud
 DOMAIN-SUFFIX,s3.fr-par.scw.cloud
 DOMAIN-SUFFIX,1fichier.info
 DOMAIN-SUFFIX,boot.netboot.xyz
+DOMAIN-SUFFIX,ghgo.xyz
+DOMAIN-SUFFIX,ghfast.top
 DOMAIN-SUFFIX,mirror.apad.pro
 DOMAIN-SUFFIX,copr.fedorainfracloud.org
 DOMAIN-SUFFIX,download.pixelexperience.org
@@ -31,6 +33,7 @@ DOMAIN-SUFFIX,mirrors.rpmfusion.org
 DOMAIN-SUFFIX,tmpfiles.org
 DOMAIN-SUFFIX,static.redox-os.org
 DOMAIN-SUFFIX,download.opensuse.org
+DOMAIN-SUFFIX,cdn.opensuse.org
 DOMAIN-SUFFIX,ciscobinary.openh264.org
 DOMAIN-SUFFIX,repo.debiancn.org
 DOMAIN-SUFFIX,iso.reactos.org
@@ -46,17 +49,22 @@ DOMAIN-SUFFIX,mirrors.edge.kernel.org
 DOMAIN-SUFFIX,mirrors.dotsrc.org
 DOMAIN-SUFFIX,ftp-master.debian.org
 DOMAIN-SUFFIX,security.debian.org
+DOMAIN-SUFFIX,cdimage.debian.org
 DOMAIN-SUFFIX,archive.debian.org
 DOMAIN-SUFFIX,ftp.debian.org
 DOMAIN-SUFFIX,deb.debian.org
 DOMAIN-SUFFIX,ftp2.de.debian.org
 DOMAIN-SUFFIX,static.adtidy.org
+DOMAIN-SUFFIX,cdn.fwupd.org
 DOMAIN-SUFFIX,downloads.xiph.org
 DOMAIN-SUFFIX,cdimage.kali.org
+DOMAIN-SUFFIX,http.kali.org
 DOMAIN-SUFFIX,download.gimp.org
 DOMAIN-SUFFIX,invent.kde.org
 DOMAIN-SUFFIX,cdn.kde.org
 DOMAIN-SUFFIX,ftp.gnu.org
+DOMAIN-SUFFIX,launchpadlibrarian.net
+DOMAIN-SUFFIX,debian-archive.trafficmanager.net
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,downloads.sourceforge.net
 DOMAIN-SUFFIX,dl.sourceforge.net
@@ -86,6 +94,8 @@ DOMAIN-SUFFIX,blzddist3-a.akamaihd.net
 DOMAIN-SUFFIX,blzddist2-a.akamaihd.net
 DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
 DOMAIN-SUFFIX,origin-a.akamaihd.net
+DOMAIN-SUFFIX,file.core.windows.net
+DOMAIN-SUFFIX,blob.core.windows.net
 DOMAIN-SUFFIX,download-core.sys.truenas.net
 DOMAIN-SUFFIX,dyn.riotcdn.net
 DOMAIN-SUFFIX,download-installer.cdn.mozilla.net
@@ -98,6 +108,7 @@ DOMAIN-SUFFIX,filebin.net
 DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
 DOMAIN-SUFFIX,share.riseup.net
 DOMAIN-SUFFIX,az764295.vo.msecnd.net
+DOMAIN-SUFFIX,cloudfront.debian.net
 DOMAIN-SUFFIX,dl3.xmind.net
 DOMAIN-SUFFIX,dl2.xmind.net
 DOMAIN-SUFFIX,down.filen.net
@@ -117,6 +128,7 @@ DOMAIN-SUFFIX,pkg-containers.githubusercontent.com
 DOMAIN-SUFFIX,objects.githubusercontent.com
 DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,cloudflaremirrors.com
+DOMAIN-SUFFIX,circle-artifacts.com
 DOMAIN-SUFFIX,androidfilehost.com
 DOMAIN-SUFFIX,public.blob.vercel-storage.com
 DOMAIN-SUFFIX,ctldl.windowsupdate.com
@@ -145,6 +157,7 @@ DOMAIN-SUFFIX,dl.tailscale.com
 DOMAIN-SUFFIX,softwareupdate.pilotmoon.com
 DOMAIN-SUFFIX,download.parallels.com
 DOMAIN-SUFFIX,desktop.parallels.com
+DOMAIN-SUFFIX,update.parallels.com
 DOMAIN-SUFFIX,mirror.navercorp.com
 DOMAIN-SUFFIX,software-download.microsoft.com
 DOMAIN-SUFFIX,download.visualstudio.microsoft.com
@@ -492,6 +505,7 @@ DOMAIN-SUFFIX,download.iboysoft.com
 DOMAIN-SUFFIX,download.gigabyte.com
 DOMAIN-SUFFIX,fuwamofu.com
 DOMAIN-SUFFIX,mirror.constant.com
+DOMAIN-SUFFIX,dl.circleci.com
 DOMAIN-SUFFIX,level3.blizzard.com
 DOMAIN-SUFFIX,dist.blizzard.com
 DOMAIN-SUFFIX,cdn.blizzard.com
@@ -530,6 +544,7 @@ DOMAIN-SUFFIX,dl.wechat.com
 DOMAIN-SUFFIX,softwareupdate.vmware.com
 DOMAIN-SUFFIX,security.ubuntu.com
 DOMAIN-SUFFIX,archive.ubuntu.com
+DOMAIN-SUFFIX,ports.ubuntu.com
 DOMAIN-SUFFIX,download.sketch.com
 DOMAIN-SUFFIX,store.setapp.com
 DOMAIN-SUFFIX,steam.naeu.qtlglb.com
