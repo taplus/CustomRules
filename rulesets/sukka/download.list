@@ -72,6 +72,7 @@ DOMAIN-SUFFIX,dl.playstation.net
 DOMAIN-SUFFIX,packages.virtfusion.net
 DOMAIN-SUFFIX,install.virtfusion.net
 DOMAIN-SUFFIX,os-cdn.virtfusion.net
+DOMAIN-SUFFIX,dl2.discordapp.net
 DOMAIN-SUFFIX,dl.discordapp.net
 DOMAIN-SUFFIX,ppa.launchpad.net
 DOMAIN-SUFFIX,debian.map.fastlydns.net
@@ -135,6 +136,7 @@ DOMAIN-SUFFIX,ctldl.windowsupdate.com
 DOMAIN-SUFFIX,linodeobjects.com
 DOMAIN-SUFFIX,cdn77-storage.com
 DOMAIN-SUFFIX,updates-cdn.bravesoftware.com
+DOMAIN-SUFFIX,updates.bravesoftware.com
 DOMAIN-SUFFIX,vultrobjects.com
 DOMAIN-SUFFIX,update.code.visualstudio.com
 DOMAIN-SUFFIX,content-origin.steampowered.com
@@ -529,6 +531,7 @@ DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-eu-west-1.aliyuncs.com
 DOMAIN-SUFFIX,1fichier.com
 DOMAIN-SUFFIX,desktop.wifiman.com
+DOMAIN-SUFFIX,autoupdate.termius.com
 DOMAIN-SUFFIX,enterprise.proxmox.com
 DOMAIN-SUFFIX,dl.nssurge.com
 DOMAIN-SUFFIX,download.nektony.com
@@ -561,6 +564,8 @@ DOMAIN-SUFFIX,download.mlcc.google.com
 DOMAIN-SUFFIX,dl.google.com
 DOMAIN-SUFFIX,dl.l.google.com
 DOMAIN-SUFFIX,codeload.github.com
+DOMAIN-SUFFIX,download.edovia.com
+DOMAIN-SUFFIX,updates.edovia.com
 DOMAIN-SUFFIX,download.docker.com
 DOMAIN-SUFFIX,desktop.docker.com
 DOMAIN-SUFFIX,download.dlsite.com
@@ -626,6 +631,7 @@ DOMAIN-SUFFIX,disks.webvm.io
 DOMAIN-SUFFIX,dl.pstmn.io
 DOMAIN-SUFFIX,down.filen.io
 DOMAIN-SUFFIX,mega.io
+DOMAIN-SUFFIX,u.keka.io
 DOMAIN-SUFFIX,dl-portal.iina.io
 DOMAIN-SUFFIX,dl.iina.io
 DOMAIN-SUFFIX,ghcr.io
