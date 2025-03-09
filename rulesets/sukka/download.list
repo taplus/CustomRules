@@ -77,6 +77,7 @@ DOMAIN-SUFFIX,dl.discordapp.net
 DOMAIN-SUFFIX,ppa.launchpad.net
 DOMAIN-SUFFIX,debian.map.fastlydns.net
 DOMAIN-SUFFIX,pf-cdn-content-prod.azureedge.net
+DOMAIN-SUFFIX,playwright-akamai.azureedge.net
 DOMAIN-SUFFIX,playwright.azureedge.net
 DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
 DOMAIN-SUFFIX,officecdn-microsoft-com.akamaized.net
@@ -123,6 +124,7 @@ DOMAIN-SUFFIX,dl.getaurora.dev
 DOMAIN-SUFFIX,cdn-updates.orbstack.dev
 DOMAIN-SUFFIX,api-updates.orbstack.dev
 DOMAIN-SUFFIX,cdn-images.orbstack.dev
+DOMAIN-SUFFIX,releases.warp.dev
 DOMAIN-SUFFIX,r2.dev
 DOMAIN-SUFFIX,digitaloceanspaces.com
 DOMAIN-SUFFIX,pkg-containers.githubusercontent.com
@@ -573,6 +575,7 @@ DOMAIN-SUFFIX,dl.dlsite.com
 DOMAIN-SUFFIX,download.beeper.com
 DOMAIN-SUFFIX,downloads.xrite.com
 DOMAIN-SUFFIX,cdn-patch.swtor.com
+DOMAIN-SUFFIX,addins.deepl.com
 DOMAIN-SUFFIX,download.cpuid.com
 DOMAIN-SUFFIX,swupdate.chaos.com
 DOMAIN-SUFFIX,componentupdater.brave.com
