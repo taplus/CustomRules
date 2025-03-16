@@ -630,6 +630,8 @@ DOMAIN-SUFFIX,cdn.cypress.io
 DOMAIN-SUFFIX,download.typora.io
 DOMAIN-SUFFIX,store1.gofile.io
 DOMAIN-SUFFIX,download.fydeos.io
+DOMAIN-SUFFIX,rpm.xpipe.io
+DOMAIN-SUFFIX,apt.xpipe.io
 DOMAIN-SUFFIX,disks.webvm.io
 DOMAIN-SUFFIX,dl.pstmn.io
 DOMAIN-SUFFIX,down.filen.io
