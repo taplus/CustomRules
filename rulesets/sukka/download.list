@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,s3.nl-ams.scw.cloud
 DOMAIN-SUFFIX,s3-website.fr-par.scw.cloud
 DOMAIN-SUFFIX,s3.fr-par.scw.cloud
 DOMAIN-SUFFIX,1fichier.info
+DOMAIN-SUFFIX,dist.creeper.host
 DOMAIN-SUFFIX,boot.netboot.xyz
 DOMAIN-SUFFIX,ghgo.xyz
 DOMAIN-SUFFIX,ghfast.top
@@ -74,6 +75,9 @@ DOMAIN-SUFFIX,install.virtfusion.net
 DOMAIN-SUFFIX,os-cdn.virtfusion.net
 DOMAIN-SUFFIX,dl2.discordapp.net
 DOMAIN-SUFFIX,dl.discordapp.net
+DOMAIN-SUFFIX,libraries.minecraft.net
+DOMAIN-SUFFIX,textures.minecraft.net
+DOMAIN-SUFFIX,download.minecraft.net
 DOMAIN-SUFFIX,ppa.launchpad.net
 DOMAIN-SUFFIX,debian.map.fastlydns.net
 DOMAIN-SUFFIX,pf-cdn-content-prod.azureedge.net
@@ -100,6 +104,7 @@ DOMAIN-SUFFIX,file.core.windows.net
 DOMAIN-SUFFIX,blob.core.windows.net
 DOMAIN-SUFFIX,download-core.sys.truenas.net
 DOMAIN-SUFFIX,dyn.riotcdn.net
+DOMAIN-SUFFIX,download.nodecdn.net
 DOMAIN-SUFFIX,download-installer.cdn.mozilla.net
 DOMAIN-SUFFIX,down.filen-5.net
 DOMAIN-SUFFIX,down.filen-4.net
@@ -136,6 +141,7 @@ DOMAIN-SUFFIX,androidfilehost.com
 DOMAIN-SUFFIX,public.blob.vercel-storage.com
 DOMAIN-SUFFIX,ctldl.windowsupdate.com
 DOMAIN-SUFFIX,linodeobjects.com
+DOMAIN-SUFFIX,vfat.classicreload.com
 DOMAIN-SUFFIX,cdn77-storage.com
 DOMAIN-SUFFIX,updates-cdn.bravesoftware.com
 DOMAIN-SUFFIX,updates.bravesoftware.com
@@ -558,7 +564,10 @@ DOMAIN-SUFFIX,steam.eca.qtlglb.com
 DOMAIN-SUFFIX,steam.ru.qtlglb.com
 DOMAIN-SUFFIX,download.dm.origin.com
 DOMAIN-SUFFIX,download.nvidia.com
+DOMAIN-SUFFIX,download.mxfast.com
 DOMAIN-SUFFIX,redstone-launcher.mojang.com
+DOMAIN-SUFFIX,piston-meta.mojang.com
+DOMAIN-SUFFIX,piston-data.mojang.com
 DOMAIN-SUFFIX,iterm2.com
 DOMAIN-SUFFIX,download.tensorflow.google.com
 DOMAIN-SUFFIX,cache.pack.google.com
