@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,cdn.deta.space
 DOMAIN-SUFFIX,ipfs.kavin.rocks
 DOMAIN-SUFFIX,files.mastodon.ktachibana.party
 DOMAIN-SUFFIX,ipfs.telos.miami
+DOMAIN-SUFFIX,townsquare.media
 DOMAIN-SUFFIX,cms.therecord.media
 DOMAIN-SUFFIX,files.smashing.media
 DOMAIN-SUFFIX,jssdk.opin.media
@@ -123,8 +124,8 @@ DOMAIN-SUFFIX,cdn.joincommunity.xyz
 DOMAIN-SUFFIX,mirror-media.xyz
 DOMAIN-SUFFIX,packd.liuxingbaoyu.xyz
 DOMAIN-SUFFIX,storage.withfabric.xyz
-DOMAIN-SUFFIX,int.qiniuyun15.xyz
 DOMAIN-SUFFIX,cdn.yinghuazy.xyz
+DOMAIN-SUFFIX,skyearth8.xyz
 DOMAIN-SUFFIX,imgmrplay.xyz
 DOMAIN-SUFFIX,rules2.clearurls.xyz
 DOMAIN-SUFFIX,rules1.clearurls.xyz
@@ -332,6 +333,7 @@ DOMAIN-SUFFIX,usercontent.one
 DOMAIN-SUFFIX,storageapi.fleek.one
 DOMAIN-SUFFIX,static.xns.one
 DOMAIN-SUFFIX,ipfs.jbb.one
+DOMAIN-SUFFIX,gold-usergeneratedcontent.net
 DOMAIN-SUFFIX,hubspotusercontent-na1.net
 DOMAIN-SUFFIX,hubspotusercontent-eu1.net
 DOMAIN-SUFFIX,hubspotusercontent40.net
@@ -348,6 +350,7 @@ DOMAIN-SUFFIX,assets.visioncritical.net
 DOMAIN-SUFFIX,vscode-sync-insiders.trafficmanager.net
 DOMAIN-SUFFIX,vscode-sync.trafficmanager.net
 DOMAIN-SUFFIX,msftauthimages.net
+DOMAIN-SUFFIX,media.minecraftforum.net
 DOMAIN-SUFFIX,licensebuttons.net
 DOMAIN-SUFFIX,headway-widget.net
 DOMAIN-SUFFIX,cdn.consentmanager.net
@@ -501,7 +504,6 @@ DOMAIN-SUFFIX,cdn.myfonts.net
 DOMAIN-SUFFIX,itsre-sumo.mozilla.net
 DOMAIN-SUFFIX,interactive-examples.mdn.mozilla.net
 DOMAIN-SUFFIX,cdn.mozilla.net
-DOMAIN-SUFFIX,opt.moovweb.net
 DOMAIN-SUFFIX,minotar.net
 DOMAIN-SUFFIX,jscloud.net
 DOMAIN-SUFFIX,pg2dhpc3p5ec22g3.jkforum.net
@@ -554,6 +556,7 @@ DOMAIN-SUFFIX,mjedge.net
 DOMAIN-SUFFIX,mercdn.net
 DOMAIN-SUFFIX,images.mattel.net
 DOMAIN-SUFFIX,fiddle.jshell.net
+DOMAIN-SUFFIX,ik.imgkit.net
 DOMAIN-SUFFIX,imgair.net
 DOMAIN-SUFFIX,images.idgesg.net
 DOMAIN-SUFFIX,alt.idgesg.net
@@ -785,6 +788,7 @@ DOMAIN-SUFFIX,js.hubspotfeedback.com
 DOMAIN-SUFFIX,howtogeekimages.com
 DOMAIN-SUFFIX,cache.hackedfreegames.com
 DOMAIN-SUFFIX,images.financemagnates.com
+DOMAIN-SUFFIX,customerioforms.com
 DOMAIN-SUFFIX,imgssl.constantcontact.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,shopify.cleverecommerce.com
@@ -865,6 +869,7 @@ DOMAIN-SUFFIX,3dna.nationbuilder.com
 DOMAIN-SUFFIX,mvnrepository.com
 DOMAIN-SUFFIX,mcusercontent.com
 DOMAIN-SUFFIX,asset.mansionglobal.com
+DOMAIN-SUFFIX,mangguo-youku.com
 DOMAIN-SUFFIX,highwinds-cdn.com
 DOMAIN-SUFFIX,sig.grumpybumpers.com
 DOMAIN-SUFFIX,app.groovefunnels.com
@@ -876,6 +881,7 @@ DOMAIN-SUFFIX,rts-static-prod.freshworksapi.com
 DOMAIN-SUFFIX,cdn.freebiesupply.com
 DOMAIN-SUFFIX,images.flightradar24.com
 DOMAIN-SUFFIX,envato-static.com
+DOMAIN-SUFFIX,cdn.earthroulette.com
 DOMAIN-SUFFIX,dropboxstatic.com
 DOMAIN-SUFFIX,discourse-cdn.com
 DOMAIN-SUFFIX,chat.digitalgenius.com
@@ -1257,7 +1263,6 @@ DOMAIN-SUFFIX,content.jwplatform.com
 DOMAIN-SUFFIX,ww2-secure.justanswer.com
 DOMAIN-SUFFIX,components.justanswer.com
 DOMAIN-SUFFIX,ww2.justanswer.com
-DOMAIN-SUFFIX,static.javatpoint.com
 DOMAIN-SUFFIX,media.inhumanity.com
 DOMAIN-SUFFIX,storage.infomaniak.com
 DOMAIN-SUFFIX,cloud2.influxdata.com
@@ -1286,6 +1291,7 @@ DOMAIN-SUFFIX,hips.hearstapps.com
 DOMAIN-SUFFIX,cdn.hackernoon.com
 DOMAIN-SUFFIX,assets.grooveapps.com
 DOMAIN-SUFFIX,content-storage-upload.googleapis.com
+DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
 DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
 DOMAIN-SUFFIX,optimizationguide-pa.googleapis.com
 DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
@@ -1333,6 +1339,8 @@ DOMAIN-SUFFIX,cdn.eu.contentful.com
 DOMAIN-SUFFIX,frames-commandbar-prod.commandbar.com
 DOMAIN-SUFFIX,cdn.commandbar.com
 DOMAIN-SUFFIX,static-assets.codecademy.com
+DOMAIN-SUFFIX,assets.cmcmarkets.com
+DOMAIN-SUFFIX,cdn.cmcmarkets.com
 DOMAIN-SUFFIX,ipfs0.sjc.cloudsigma.com
 DOMAIN-SUFFIX,cloudinary-res.cloudinary.com
 DOMAIN-SUFFIX,fiverr-res.cloudinary.com
@@ -1449,6 +1457,7 @@ DOMAIN-SUFFIX,jfe-cdn.qualtrics.com
 DOMAIN-SUFFIX,js.qualified.com
 DOMAIN-SUFFIX,vpncdn.protonweb.com
 DOMAIN-SUFFIX,cdnstatic.porno-cum.com
+DOMAIN-SUFFIX,static.polldaddy.com
 DOMAIN-SUFFIX,assets.pinterest.com
 DOMAIN-SUFFIX,storage-b.picacomic.com
 DOMAIN-SUFFIX,img.picacomic.com
@@ -1977,6 +1986,7 @@ DOMAIN-SUFFIX,pool.jortage.com
 DOMAIN-SUFFIX,assets.ipstack.com
 DOMAIN-SUFFIX,i.insider.com
 DOMAIN-SUFFIX,static.iris.informa.com
+DOMAIN-SUFFIX,go.imperva.com
 DOMAIN-SUFFIX,imgyzzy.com
 DOMAIN-SUFFIX,imgikzy.com
 DOMAIN-SUFFIX,s.imgflip.com
@@ -1997,6 +2007,7 @@ DOMAIN-SUFFIX,cf.hamreus.com
 DOMAIN-SUFFIX,i.hamreus.com
 DOMAIN-SUFFIX,public-files.gumroad.com
 DOMAIN-SUFFIX,assets.gumroad.com
+DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,connectivitycheck.gstatic.com
 DOMAIN-SUFFIX,encrypted-vtbn3.gstatic.com
 DOMAIN-SUFFIX,encrypted-vtbn2.gstatic.com
@@ -2182,7 +2193,6 @@ DOMAIN-SUFFIX,cdn.seondf.com
 DOMAIN-SUFFIX,vice-prod.sdiapi.com
 DOMAIN-SUFFIX,newfold.scene7.com
 DOMAIN-SUFFIX,ec-prod.scene7.com
-DOMAIN-SUFFIX,stbff.scene7.com
 DOMAIN-SUFFIX,s7d1.scene7.com
 DOMAIN-SUFFIX,sc-cdn.com
 DOMAIN-SUFFIX,embed.runkit.com
@@ -2374,6 +2384,7 @@ DOMAIN-SUFFIX,cdnstatic.w4nkr.com
 DOMAIN-SUFFIX,assets.volvo.com
 DOMAIN-SUFFIX,assets.vogue.com
 DOMAIN-SUFFIX,player.vimeo.com
+DOMAIN-SUFFIX,static.vanta.com
 DOMAIN-SUFFIX,uvcdn.com
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,twimg.com
@@ -2432,6 +2443,7 @@ DOMAIN-SUFFIX,cdn.ko-fi.com
 DOMAIN-SUFFIX,js.klarn.com
 DOMAIN-SUFFIX,static.jsbin.com
 DOMAIN-SUFFIX,null.jsbin.com
+DOMAIN-SUFFIX,cdn.javmg.com
 DOMAIN-SUFFIX,creator-image.javhd.com
 DOMAIN-SUFFIX,static.javhd.com
 DOMAIN-SUFFIX,i.ioiox.com
@@ -2570,9 +2582,15 @@ DOMAIN-SUFFIX,cdn.loom.com
 DOMAIN-SUFFIX,static.kobo.com
 DOMAIN-SUFFIX,cdn.kobo.com
 DOMAIN-SUFFIX,info.knak.com
+DOMAIN-SUFFIX,images.kick.com
+DOMAIN-SUFFIX,files.kick.com
+DOMAIN-SUFFIX,clips.kick.com
 DOMAIN-SUFFIX,assets.kagi.com
 DOMAIN-SUFFIX,cdn.hk01.com
 DOMAIN-SUFFIX,assets.habr.com
+DOMAIN-SUFFIX,cms-cdn.goat.com
+DOMAIN-SUFFIX,assets.goat.com
+DOMAIN-SUFFIX,image.goat.com
 DOMAIN-SUFFIX,fsdn.com
 DOMAIN-SUFFIX,images.dmca.com
 DOMAIN-SUFFIX,sf-coze-web-cdn.coze.com
@@ -2775,6 +2793,7 @@ DOMAIN-SUFFIX,jpg5.su
 DOMAIN-SUFFIX,0x0.st
 DOMAIN-SUFFIX,udata.namespace.so
 DOMAIN-SUFFIX,image-forwarder.notaku.so
+DOMAIN-SUFFIX,bucket1.notaku.so
 DOMAIN-SUFFIX,static.cohere.so
 DOMAIN-SUFFIX,cdn.circle.so
 DOMAIN-SUFFIX,cdn.birdie.so
@@ -2862,6 +2881,7 @@ DOMAIN-SUFFIX,static-cache.fboom.me
 DOMAIN-SUFFIX,static.fboom.me
 DOMAIN-SUFFIX,emoji-css.afeld.me
 DOMAIN-SUFFIX,pic.7mmtv.me
+DOMAIN-SUFFIX,cdn.123av.me
 DOMAIN-SUFFIX,rsms.me
 DOMAIN-SUFFIX,static.fbot.me
 DOMAIN-SUFFIX,media.e4le.me
@@ -2877,9 +2897,6 @@ DOMAIN-SUFFIX,cdn.plot.ly
 DOMAIN-SUFFIX,cdn.img.ly
 DOMAIN-SUFFIX,i.mt.lv
 DOMAIN-SUFFIX,media.webtoo.ls
-DOMAIN-SUFFIX,ltn.hitomi.la
-DOMAIN-SUFFIX,btn.hitomi.la
-DOMAIN-SUFFIX,atn.hitomi.la
 DOMAIN-SUFFIX,pomf2.lain.la
 DOMAIN-SUFFIX,ipfs.lain.la
 DOMAIN-SUFFIX,static.pfrt.yna.co.kr
@@ -2928,6 +2945,7 @@ DOMAIN-SUFFIX,pics.dmm.co.jp
 DOMAIN-SUFFIX,cdn.dap.dmm.co.jp
 DOMAIN-SUFFIX,osint.digitalside.it
 DOMAIN-SUFFIX,place-hold.it
+DOMAIN-SUFFIX,cdn.scaleflex.it
 DOMAIN-SUFFIX,unsplash.it
 DOMAIN-SUFFIX,cdn.download.it
 DOMAIN-SUFFIX,redd.it
@@ -2954,6 +2972,7 @@ DOMAIN-SUFFIX,ipfs.smartholdem.io
 DOMAIN-SUFFIX,readthedocs.io
 DOMAIN-SUFFIX,static.mytonwallet.io
 DOMAIN-SUFFIX,cdn.ip2location.io
+DOMAIN-SUFFIX,intercomcdn.io
 DOMAIN-SUFFIX,infura-ipfs.io
 DOMAIN-SUFFIX,cdn.imageengine.io
 DOMAIN-SUFFIX,badges.greenkeeper.io
@@ -3028,6 +3047,7 @@ DOMAIN-SUFFIX,ipfscdn.io
 DOMAIN-SUFFIX,cdn.icomoon.io
 DOMAIN-SUFFIX,assets.holopin.io
 DOMAIN-SUFFIX,files.gitbook.io
+DOMAIN-SUFFIX,geojson.io
 DOMAIN-SUFFIX,ipfs.eternum.io
 DOMAIN-SUFFIX,static.cracked.io
 DOMAIN-SUFFIX,cdn.concert.io
@@ -3063,6 +3083,7 @@ DOMAIN-SUFFIX,website-cdn.ipinfo.io
 DOMAIN-SUFFIX,cdn.ipinfo.io
 DOMAIN-SUFFIX,ipfs.infura.io
 DOMAIN-SUFFIX,packages.httpie.io
+DOMAIN-SUFFIX,gohugo.io
 DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,cdn-web.fydeos.io
@@ -3182,6 +3203,7 @@ DOMAIN-SUFFIX,cdn.ionos.de
 DOMAIN-SUFFIX,ipfs.slang.cx
 DOMAIN-SUFFIX,cdn-lfs-us-1.huggingface.co
 DOMAIN-SUFFIX,cdn-uploads.huggingface.co
+DOMAIN-SUFFIX,cdn-avatars.huggingface.co
 DOMAIN-SUFFIX,cdn-lfs.huggingface.co
 DOMAIN-SUFFIX,waitlisted.co
 DOMAIN-SUFFIX,widgets.listenlive.co
