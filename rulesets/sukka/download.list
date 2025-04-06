@@ -359,6 +359,7 @@ DOMAIN-SUFFIX,amupdatedl.microsoft.com
 DOMAIN-SUFFIX,packages.microsoft.com
 DOMAIN-SUFFIX,cdn.winget.microsoft.com
 DOMAIN-SUFFIX,download.prss.microsoft.com
+DOMAIN-SUFFIX,msdl.microsoft.com
 DOMAIN-SUFFIX,delivery.mp.microsoft.com
 DOMAIN-SUFFIX,packages.linuxmint.com
 DOMAIN-SUFFIX,download-cdn.jetbrains.com
@@ -682,6 +683,7 @@ DOMAIN-SUFFIX,download.snipaste.com
 DOMAIN-SUFFIX,updater.snipaste.com
 DOMAIN-SUFFIX,stats.snipaste.com
 DOMAIN-SUFFIX,dl.snipaste.com
+DOMAIN-SUFFIX,download.proxyman.com
 DOMAIN-SUFFIX,repo.powerdns.com
 DOMAIN-SUFFIX,cos.na-siliconvalley.myqcloud.com
 DOMAIN-SUFFIX,cos.eu-frankfurt.myqcloud.com
@@ -816,6 +818,7 @@ DOMAIN-SUFFIX,artifacts.ui.com
 DOMAIN-SUFFIX,dl.ui.com
 DOMAIN-SUFFIX,cdn.ea.com
 DOMAIN-SUFFIX,apache.cbox.biz
+DOMAIN-SUFFIX,su.virtualbuddy.app
 DOMAIN-SUFFIX,updates.istatmenus.app
 DOMAIN-SUFFIX,builds.parsec.app
 DOMAIN-SUFFIX,dl.motrix.app
