@@ -681,6 +681,7 @@ DOMAIN-SUFFIX,cos.ap-tokyo.myqcloud.com
 DOMAIN-SUFFIX,cos.ap-seoul.myqcloud.com
 DOMAIN-SUFFIX,download.mokeedev.com
 DOMAIN-SUFFIX,download.mikrotik.com
+DOMAIN-SUFFIX,downloads.majestic.com
 DOMAIN-SUFFIX,download.iboysoft.com
 DOMAIN-SUFFIX,download.gigabyte.com
 DOMAIN-SUFFIX,fuwamofu.com
@@ -755,6 +756,7 @@ DOMAIN-SUFFIX,dl.l.google.com
 DOMAIN-SUFFIX,codeload.github.com
 DOMAIN-SUFFIX,download.edovia.com
 DOMAIN-SUFFIX,updates.edovia.com
+DOMAIN-SUFFIX,download.eassos.com
 DOMAIN-SUFFIX,download.docker.com
 DOMAIN-SUFFIX,desktop.docker.com
 DOMAIN-SUFFIX,download.dlsite.com
