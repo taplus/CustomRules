@@ -84,7 +84,6 @@ DOMAIN-SUFFIX,httpd-mirror.sergal.org
 DOMAIN-SUFFIX,ftp-osl.osuosl.org
 DOMAIN-SUFFIX,ftp-nyc.osuosl.org
 DOMAIN-SUFFIX,ftp-chi.osuosl.org
-DOMAIN-SUFFIX,apache.osuosl.org
 DOMAIN-SUFFIX,ftp.osuosl.org
 DOMAIN-SUFFIX,mirrors.kernel.org
 DOMAIN-SUFFIX,mirrors.edge.kernel.org
@@ -155,6 +154,7 @@ DOMAIN-SUFFIX,ftp.sotirov-bg.net
 DOMAIN-SUFFIX,mirrors.de.sahilister.net
 DOMAIN-SUFFIX,dl2.discordapp.net
 DOMAIN-SUFFIX,dl.discordapp.net
+DOMAIN-SUFFIX,cloud.daporkchop.net
 DOMAIN-SUFFIX,mirror.webtastix.net
 DOMAIN-SUFFIX,mirrors.spacedump.net
 DOMAIN-SUFFIX,mirror.ossplanet.net
@@ -324,7 +324,6 @@ DOMAIN-SUFFIX,mirrors.rackhosting.com
 DOMAIN-SUFFIX,apache.mindstudios.com
 DOMAIN-SUFFIX,mirror.lyrahosting.com
 DOMAIN-SUFFIX,mirror.leitecastro.com
-DOMAIN-SUFFIX,update.kiwibrowser.com
 DOMAIN-SUFFIX,egdownload.fastly-edge.com
 DOMAIN-SUFFIX,mirrors.concertpass.com
 DOMAIN-SUFFIX,dl.cleverfiles.com
