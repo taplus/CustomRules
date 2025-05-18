@@ -1,8 +1,10 @@
+DOMAIN-SUFFIX,th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe
 DOMAIN-SUFFIX,fnbuilds.services
 DOMAIN-SUFFIX,nitro.download
 DOMAIN-SUFFIX,kali.download
 DOMAIN-SUFFIX,mirror.kumi.systems
 DOMAIN-SUFFIX,mirrors.gethosted.online
+DOMAIN-SUFFIX,dl.thorium.rocks
 DOMAIN-SUFFIX,jing.rocks
 DOMAIN-SUFFIX,repo.jing.rocks
 DOMAIN-SUFFIX,cloud-object-storage.appdomain.cloud
@@ -923,7 +925,6 @@ DOMAIN-SUFFIX,mirror.triple-it.nl
 DOMAIN-SUFFIX,apache.proserve.nl
 DOMAIN-SUFFIX,snt.utwente.nl
 DOMAIN-SUFFIX,ftp.snt.utwente.nl
-DOMAIN-SUFFIX,ftp.tudelft.nl
 DOMAIN-SUFFIX,ftp.surfnet.nl
 DOMAIN-SUFFIX,apache.redkiwi.nl
 DOMAIN-SUFFIX,mirror.nl
