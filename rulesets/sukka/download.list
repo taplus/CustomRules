@@ -165,6 +165,7 @@ DOMAIN-SUFFIX,libraries.minecraft.net
 DOMAIN-SUFFIX,textures.minecraft.net
 DOMAIN-SUFFIX,download.minecraft.net
 DOMAIN-SUFFIX,mirror.metrocast.net
+DOMAIN-SUFFIX,b2.mcarchive.net
 DOMAIN-SUFFIX,mirror.low-orbit.net
 DOMAIN-SUFFIX,ppa.launchpad.net
 DOMAIN-SUFFIX,debian.map.fastlydns.net
@@ -372,6 +373,7 @@ DOMAIN-SUFFIX,download-cdn.jetbrains.com
 DOMAIN-SUFFIX,download.jetbrains.com
 DOMAIN-SUFFIX,cdn.hyperbeam.com
 DOMAIN-SUFFIX,releases.hashicorp.com
+DOMAIN-SUFFIX,data.gameflare.com
 DOMAIN-SUFFIX,fastly-download.epicgames.com
 DOMAIN-SUFFIX,download4.epicgames.com
 DOMAIN-SUFFIX,download3.epicgames.com
@@ -771,6 +773,7 @@ DOMAIN-SUFFIX,download.mxfast.com
 DOMAIN-SUFFIX,redstone-launcher.mojang.com
 DOMAIN-SUFFIX,piston-meta.mojang.com
 DOMAIN-SUFFIX,piston-data.mojang.com
+DOMAIN-SUFFIX,launcher.mojang.com
 DOMAIN-SUFFIX,iterm2.com
 DOMAIN-SUFFIX,mirrors.hoobly.com
 DOMAIN-SUFFIX,download.tensorflow.google.com
@@ -818,6 +821,7 @@ DOMAIN-SUFFIX,cdn.kagi.com
 DOMAIN-SUFFIX,mirror.iweb.com
 DOMAIN-SUFFIX,edgedl.me.gvt1.com
 DOMAIN-SUFFIX,download.cnet.com
+DOMAIN-SUFFIX,cdn.azul.com
 DOMAIN-SUFFIX,dlcdnets.asus.com
 DOMAIN-SUFFIX,files.1drv.com
 DOMAIN-SUFFIX,cdn.ubi.com
