@@ -129,6 +129,7 @@ DOMAIN-SUFFIX,music.apple.com
 DOMAIN-SUFFIX,amp-api.media.apple.com
 DOMAIN-SUFFIX,ipcdn.apple.com
 DOMAIN-SUFFIX,cstat.apple.com
+DOMAIN-SUFFIX,certs.apple.com
 DOMAIN-SUFFIX,seed-swallow.siri.apple.com
 DOMAIN-SUFFIX,seed-sequoia.siri.apple.com
 DOMAIN-SUFFIX,probe.siri.apple.com

@@ -201,7 +201,6 @@ DOMAIN-SUFFIX,playgroundcdn.typescriptlang.org
 DOMAIN-SUFFIX,www.typescriptlang.org
 DOMAIN-SUFFIX,assets.squarewebsites.org
 DOMAIN-SUFFIX,rescript-lang.org
-DOMAIN-SUFFIX,meta.prismlauncher.org
 DOMAIN-SUFFIX,tile.openstreetmap.org
 DOMAIN-SUFFIX,assets.geeksforgeeks.org
 DOMAIN-SUFFIX,media.geeksforgeeks.org
@@ -2077,6 +2076,9 @@ DOMAIN-SUFFIX,videos2-h.sendvid.com
 DOMAIN-SUFFIX,thumbs2.sendvid.com
 DOMAIN-SUFFIX,cdn.segment.com
 DOMAIN-SUFFIX,ocsp.sectigo.com
+DOMAIN-SUFFIX,image-stgus.samsung.com
+DOMAIN-SUFFIX,image-us.samsung.com
+DOMAIN-SUFFIX,images.samsung.com
 DOMAIN-SUFFIX,cdn-b.saashub.com
 DOMAIN-SUFFIX,cdn.rollbar.com
 DOMAIN-SUFFIX,tools.refokus.com
@@ -2328,6 +2330,7 @@ DOMAIN-SUFFIX,img.xhacgn.com
 DOMAIN-SUFFIX,website-prod.cache.wpscdn.com
 DOMAIN-SUFFIX,frontend-apps.workos.com
 DOMAIN-SUFFIX,cdn.workos.com
+DOMAIN-SUFFIX,embed-cloudfront.wistia.com
 DOMAIN-SUFFIX,embed-ssl.wistia.com
 DOMAIN-SUFFIX,fast.wistia.com
 DOMAIN-SUFFIX,winudf.com
@@ -2451,6 +2454,7 @@ DOMAIN-SUFFIX,int.mwbbiz.com
 DOMAIN-SUFFIX,appassets.mvtdev.com
 DOMAIN-SUFFIX,img.mresou.com
 DOMAIN-SUFFIX,static-main.moovit.com
+DOMAIN-SUFFIX,static.moomoo.com
 DOMAIN-SUFFIX,launchercontent.mojang.com
 DOMAIN-SUFFIX,mngbcn.com
 DOMAIN-SUFFIX,mmtcdn.com
@@ -3326,6 +3330,7 @@ DOMAIN-SUFFIX,static.status.io
 DOMAIN-SUFFIX,image.status.io
 DOMAIN-SUFFIX,media.smooch.io
 DOMAIN-SUFFIX,cdn.smooch.io
+DOMAIN-SUFFIX,wire.shodan.io
 DOMAIN-SUFFIX,ingest.sentry.io
 DOMAIN-SUFFIX,ingest.us.sentry.io
 DOMAIN-SUFFIX,ingest.de.sentry.io
@@ -3421,6 +3426,7 @@ DOMAIN-SUFFIX,assets.monica.im
 DOMAIN-SUFFIX,img.majors.im
 DOMAIN-SUFFIX,badges.gitter.im
 DOMAIN-SUFFIX,sn-s3-cdn.angry.im
+DOMAIN-SUFFIX,img.toto.im
 DOMAIN-SUFFIX,polyfill-fe.toss.im
 DOMAIN-SUFFIX,static.toss.im
 DOMAIN-SUFFIX,static-cdn.spot.im

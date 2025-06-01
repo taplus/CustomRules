@@ -26,6 +26,8 @@ DOMAIN-SUFFIX,copr.fedorainfracloud.org
 DOMAIN-SUFFIX,download.pixelexperience.org
 DOMAIN-SUFFIX,get.pixelexperience.org
 DOMAIN-SUFFIX,mirrors.linux-bulgaria.org
+DOMAIN-SUFFIX,meta.prismlauncher.org
+DOMAIN-SUFFIX,i18n.prismlauncher.org
 DOMAIN-SUFFIX,nobara-images.nobaraproject.org
 DOMAIN-SUFFIX,mirrorservice.org
 DOMAIN-SUFFIX,registry.fedoraproject.org
