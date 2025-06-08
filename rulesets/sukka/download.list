@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,boot.netboot.xyz
 DOMAIN-SUFFIX,ghgo.xyz
 DOMAIN-SUFFIX,ghfast.top
 DOMAIN-SUFFIX,mirror.apad.pro
+DOMAIN-SUFFIX,files2.freedownloadmanager.org
 DOMAIN-SUFFIX,copr.fedorainfracloud.org
 DOMAIN-SUFFIX,download.pixelexperience.org
 DOMAIN-SUFFIX,get.pixelexperience.org
@@ -677,6 +678,7 @@ DOMAIN-SUFFIX,s3.dualstack.ap-east-1.amazonaws.com
 DOMAIN-SUFFIX,s3.ap-east-1.amazonaws.com
 DOMAIN-SUFFIX,s3-1.amazonaws.com
 DOMAIN-SUFFIX,s3.amazonaws.com
+DOMAIN-SUFFIX,allawnofs.com
 DOMAIN-SUFFIX,app-updates.agilebits.com
 DOMAIN-SUFFIX,cache.agilebits.com
 DOMAIN-SUFFIX,downloads.1password.com
@@ -835,9 +837,11 @@ DOMAIN-SUFFIX,cdn.ea.com
 DOMAIN-SUFFIX,apache.cbox.biz
 DOMAIN-SUFFIX,public.ecr.aws
 DOMAIN-SUFFIX,su.virtualbuddy.app
+DOMAIN-SUFFIX,cdn.organicmaps.app
 DOMAIN-SUFFIX,updates.istatmenus.app
 DOMAIN-SUFFIX,builds.parsec.app
 DOMAIN-SUFFIX,dl.motrix.app
+DOMAIN-SUFFIX,meta.omaps.app
 DOMAIN-SUFFIX,mirror.is.co.za
 DOMAIN-SUFFIX,apache.is.co.za
 DOMAIN-SUFFIX,ftp.is.co.za
