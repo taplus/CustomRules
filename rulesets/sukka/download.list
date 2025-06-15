@@ -171,6 +171,8 @@ DOMAIN-SUFFIX,mirror.metrocast.net
 DOMAIN-SUFFIX,b2.mcarchive.net
 DOMAIN-SUFFIX,mirror.low-orbit.net
 DOMAIN-SUFFIX,ppa.launchpad.net
+DOMAIN-SUFFIX,ota-cache1.googlezip.net
+DOMAIN-SUFFIX,ota.googlezip.net
 DOMAIN-SUFFIX,debian.map.fastlydns.net
 DOMAIN-SUFFIX,mirror.colo-serv.net
 DOMAIN-SUFFIX,pf-cdn-content-prod.azureedge.net
@@ -224,6 +226,12 @@ DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
 DOMAIN-SUFFIX,mirror.as43289.net
 DOMAIN-SUFFIX,ftp.twaren.net
 DOMAIN-SUFFIX,share.riseup.net
+DOMAIN-SUFFIX,download.osmand.net
+DOMAIN-SUFFIX,dl9.osmand.net
+DOMAIN-SUFFIX,dl8.osmand.net
+DOMAIN-SUFFIX,dl4.osmand.net
+DOMAIN-SUFFIX,dl3.osmand.net
+DOMAIN-SUFFIX,dl2.osmand.net
 DOMAIN-SUFFIX,az764295.vo.msecnd.net
 DOMAIN-SUFFIX,mirror-hk.koddos.net
 DOMAIN-SUFFIX,mirror.koddos.net

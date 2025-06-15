@@ -122,6 +122,7 @@ DOMAIN-SUFFIX,ipfs.drink.cafe
 DOMAIN-SUFFIX,assets.toot.cafe
 DOMAIN-SUFFIX,avatars.micro.blog
 DOMAIN-SUFFIX,cdn.micro.blog
+DOMAIN-SUFFIX,i.111666.best
 DOMAIN-SUFFIX,i.loli.best
 DOMAIN-SUFFIX,image.nmb.best
 DOMAIN-SUFFIX,porn5.asia
@@ -167,6 +168,7 @@ DOMAIN-SUFFIX,wimg.rule34.xxx
 DOMAIN-SUFFIX,api.allorigins.win
 DOMAIN-SUFFIX,imglink.win
 DOMAIN-SUFFIX,www.10086.win
+DOMAIN-SUFFIX,cdn.violet.vin
 DOMAIN-SUFFIX,assets.orz.uno
 DOMAIN-SUFFIX,media.orz.uno
 DOMAIN-SUFFIX,filecunhua.top
@@ -580,6 +582,8 @@ DOMAIN-SUFFIX,components.trynow.net
 DOMAIN-SUFFIX,sftcdn.net
 DOMAIN-SUFFIX,rspcdn.net
 DOMAIN-SUFFIX,poecdn.net
+DOMAIN-SUFFIX,maptile.osmand.net
+DOMAIN-SUFFIX,data.osmand.net
 DOMAIN-SUFFIX,attachments.office.net
 DOMAIN-SUFFIX,nel.measure.office.net
 DOMAIN-SUFFIX,support.content.office.net
@@ -1582,6 +1586,7 @@ DOMAIN-SUFFIX,siteintercept.qualtrics.com
 DOMAIN-SUFFIX,jfe-cdn.qualtrics.com
 DOMAIN-SUFFIX,js.qualified.com
 DOMAIN-SUFFIX,vpncdn.protonweb.com
+DOMAIN-SUFFIX,content.powerapps.com
 DOMAIN-SUFFIX,cdnstatic.porno-cum.com
 DOMAIN-SUFFIX,static.polldaddy.com
 DOMAIN-SUFFIX,assets.polarbyte.com
@@ -1666,6 +1671,7 @@ DOMAIN-SUFFIX,assetscdn-wchat.eu.freshchat.com
 DOMAIN-SUFFIX,framercdn.com
 DOMAIN-SUFFIX,forbesimg.com
 DOMAIN-SUFFIX,cdn.fontshare.com
+DOMAIN-SUFFIX,api.fontshare.com
 DOMAIN-SUFFIX,fncstatic.com
 DOMAIN-SUFFIX,fiverrcdn.com
 DOMAIN-SUFFIX,static.filehorse.com
@@ -1826,6 +1832,7 @@ DOMAIN-SUFFIX,thumbs.onlyfans.com
 DOMAIN-SUFFIX,static.onlyfans.com
 DOMAIN-SUFFIX,cdn3.onlyfans.com
 DOMAIN-SUFFIX,cdn2.onlyfans.com
+DOMAIN-SUFFIX,edge.nodeseek.com
 DOMAIN-SUFFIX,nitrocdn.com
 DOMAIN-SUFFIX,cdn.accounts.nintendo.com
 DOMAIN-SUFFIX,assets.nintendo.com
@@ -1906,6 +1913,7 @@ DOMAIN-SUFFIX,scripts.gatorapi.com
 DOMAIN-SUFFIX,gammacdn.com
 DOMAIN-SUFFIX,media.gamestop.com
 DOMAIN-SUFFIX,assets.frontegg.com
+DOMAIN-SUFFIX,frontapp.com
 DOMAIN-SUFFIX,badges.frapsoft.com
 DOMAIN-SUFFIX,filestore.fortinet.com
 DOMAIN-SUFFIX,resizing.flixster.com
@@ -2293,6 +2301,7 @@ DOMAIN-SUFFIX,blobcdn.com
 DOMAIN-SUFFIX,organizer.bizzabo.com
 DOMAIN-SUFFIX,static.news.bitcoin.com
 DOMAIN-SUFFIX,api.bintray.com
+DOMAIN-SUFFIX,affportal.bhphoto.com
 DOMAIN-SUFFIX,bfzypic.com
 DOMAIN-SUFFIX,bftuvip.com
 DOMAIN-SUFFIX,promotions.betfair.com
@@ -2430,6 +2439,7 @@ DOMAIN-SUFFIX,pxgcdn.com
 DOMAIN-SUFFIX,js.pusher.com
 DOMAIN-SUFFIX,cdn.pubnub.com
 DOMAIN-SUFFIX,static.probit.com
+DOMAIN-SUFFIX,prhcdn.com
 DOMAIN-SUFFIX,assets.pixlee.com
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,phncdn.com
@@ -2818,6 +2828,7 @@ DOMAIN-SUFFIX,cdn.sedo.com
 DOMAIN-SUFFIX,www.s81c.com
 DOMAIN-SUFFIX,pictures-cdn.porn.com
 DOMAIN-SUFFIX,assets-cdn.porn.com
+DOMAIN-SUFFIX,static.nyse.com
 DOMAIN-SUFFIX,nv7s.com
 DOMAIN-SUFFIX,sdata.ndtv.com
 DOMAIN-SUFFIX,edata.ndtv.com
@@ -3156,6 +3167,7 @@ DOMAIN-SUFFIX,emoji-css.afeld.me
 DOMAIN-SUFFIX,pic.7mmtv.me
 DOMAIN-SUFFIX,cdn.123av.me
 DOMAIN-SUFFIX,rsms.me
+DOMAIN-SUFFIX,img.jjbb.me
 DOMAIN-SUFFIX,s4.itho.me
 DOMAIN-SUFFIX,static.fbot.me
 DOMAIN-SUFFIX,media.e4le.me
