@@ -325,6 +325,7 @@ DOMAIN-SUFFIX,vfat.classicreload.com
 DOMAIN-SUFFIX,cdn77-storage.com
 DOMAIN-SUFFIX,updates-cdn.bravesoftware.com
 DOMAIN-SUFFIX,updates.bravesoftware.com
+DOMAIN-SUFFIX,www2.aomeisoftware.com
 DOMAIN-SUFFIX,vultrobjects.com
 DOMAIN-SUFFIX,update.code.visualstudio.com
 DOMAIN-SUFFIX,content-origin.steampowered.com
@@ -995,6 +996,7 @@ DOMAIN-SUFFIX,ctan.um.ac.ir
 DOMAIN-SUFFIX,download.projectbluefin.io
 DOMAIN-SUFFIX,packagecloud.io
 DOMAIN-SUFFIX,assets-production.packagecloud.io
+DOMAIN-SUFFIX,download.ameliorated.io
 DOMAIN-SUFFIX,dl.elementary.io
 DOMAIN-SUFFIX,docker.cloudsmith.io
 DOMAIN-SUFFIX,dl.cloudsmith.io
