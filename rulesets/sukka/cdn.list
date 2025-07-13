@@ -202,9 +202,11 @@ DOMAIN-SUFFIX,static.freedownloadmanager.org
 DOMAIN-SUFFIX,rawmarkdown.cloudflareaccess.org
 DOMAIN-SUFFIX,someonewhocares.org
 DOMAIN-SUFFIX,i.creativecommons.org
+DOMAIN-SUFFIX,wmfusercontent.org
 DOMAIN-SUFFIX,playgroundcdn.typescriptlang.org
 DOMAIN-SUFFIX,www.typescriptlang.org
 DOMAIN-SUFFIX,assets.squarewebsites.org
+DOMAIN-SUFFIX,sdk.privacy-center.org
 DOMAIN-SUFFIX,rescript-lang.org
 DOMAIN-SUFFIX,tile.openstreetmap.org
 DOMAIN-SUFFIX,assets.geeksforgeeks.org
@@ -230,9 +232,11 @@ DOMAIN-SUFFIX,schemastore.org
 DOMAIN-SUFFIX,qbittorrent.org
 DOMAIN-SUFFIX,stream.publicradio.org
 DOMAIN-SUFFIX,play.publicradio.org
+DOMAIN-SUFFIX,tiles.openfreemap.org
 DOMAIN-SUFFIX,ipfs.genenetwork.org
 DOMAIN-SUFFIX,app.backinstock.org
 DOMAIN-SUFFIX,easylist-downloads.adblockplus.org
+DOMAIN-SUFFIX,tiles.versatiles.org
 DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,media.themoviedb.org
 DOMAIN-SUFFIX,design.mayoclinic.org
@@ -457,6 +461,8 @@ DOMAIN-SUFFIX,futurecdn.net
 DOMAIN-SUFFIX,flagpedia.net
 DOMAIN-SUFFIX,cache-05.filehippo.net
 DOMAIN-SUFFIX,static.eroterest.net
+DOMAIN-SUFFIX,cdnmedia.ero-video.net
+DOMAIN-SUFFIX,jnmedia.ero-video.net
 DOMAIN-SUFFIX,doppiocdn.net
 DOMAIN-SUFFIX,ctfassets.net
 DOMAIN-SUFFIX,searchg2-assets.crownpeak.net
@@ -515,6 +521,7 @@ DOMAIN-SUFFIX,connect.facebook.net
 DOMAIN-SUFFIX,static.esimplus.net
 DOMAIN-SUFFIX,pub.creaders.net
 DOMAIN-SUFFIX,assets.bitstamp.net
+DOMAIN-SUFFIX,cdn.beacondb.net
 DOMAIN-SUFFIX,damassets.autodesk.net
 DOMAIN-SUFFIX,jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 DOMAIN-SUFFIX,prod.public.atl-paas.net
@@ -959,7 +966,6 @@ DOMAIN-SUFFIX,assets.nationbuilder.com
 DOMAIN-SUFFIX,3dna.nationbuilder.com
 DOMAIN-SUFFIX,mcusercontent.com
 DOMAIN-SUFFIX,asset.mansionglobal.com
-DOMAIN-SUFFIX,mangguo-youku.com
 DOMAIN-SUFFIX,livemediahost.com
 DOMAIN-SUFFIX,pbs-prod.linustechtips.com
 DOMAIN-SUFFIX,highwinds-cdn.com
@@ -2459,6 +2465,7 @@ DOMAIN-SUFFIX,js.stripe.com
 DOMAIN-SUFFIX,heatmap-external-a.strava.com
 DOMAIN-SUFFIX,web-assets.strava.com
 DOMAIN-SUFFIX,content-a.strava.com
+DOMAIN-SUFFIX,cdn-1.strava.com
 DOMAIN-SUFFIX,ss-cdn.com
 DOMAIN-SUFFIX,sndimg.com
 DOMAIN-SUFFIX,sndcdn.com
@@ -3640,6 +3647,8 @@ DOMAIN-SUFFIX,s.gishan.cc
 DOMAIN-SUFFIX,bigcdn.cc
 DOMAIN-SUFFIX,pics.vpdmm.cc
 DOMAIN-SUFFIX,resize-image.vocus.cc
+DOMAIN-SUFFIX,ti2.knews.cc
+DOMAIN-SUFFIX,ti1.knews.cc
 DOMAIN-SUFFIX,ungh.cc
 DOMAIN-SUFFIX,t4.picb.cc
 DOMAIN-SUFFIX,t3.picb.cc
