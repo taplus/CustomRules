@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe
+DOMAIN-SUFFIX,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN-SUFFIX,static.microsoft
 DOMAIN-SUFFIX,cdn.arcade.software
 DOMAIN-SUFFIX,media.infosec.exchange
@@ -38,6 +38,8 @@ DOMAIN-SUFFIX,pics.javhd.today
 DOMAIN-SUFFIX,eth.sucks
 DOMAIN-SUFFIX,vanilla-extract.style
 DOMAIN-SUFFIX,eslint.style
+DOMAIN-SUFFIX,shoppulse88.store
+DOMAIN-SUFFIX,surrit.store
 DOMAIN-SUFFIX,cdn.one.store
 DOMAIN-SUFFIX,pstorage.space
 DOMAIN-SUFFIX,cdn.hiive.space
@@ -120,7 +122,6 @@ DOMAIN-SUFFIX,ymq.cool
 DOMAIN-SUFFIX,cdn.kinopio.club
 DOMAIN-SUFFIX,storage.crisp.chat
 DOMAIN-SUFFIX,image.crisp.chat
-DOMAIN-SUFFIX,ipfs.drink.cafe
 DOMAIN-SUFFIX,assets.toot.cafe
 DOMAIN-SUFFIX,avatars.micro.blog
 DOMAIN-SUFFIX,cdn.micro.blog
@@ -281,6 +282,7 @@ DOMAIN-SUFFIX,lichess1.org
 DOMAIN-SUFFIX,api.indexnow.org
 DOMAIN-SUFFIX,assets.exercism.org
 DOMAIN-SUFFIX,david-dm.org
+DOMAIN-SUFFIX,design.codeberg.org
 DOMAIN-SUFFIX,fonts.codeberg.org
 DOMAIN-SUFFIX,static.aizanmei.org
 DOMAIN-SUFFIX,ziglang.org
@@ -421,6 +423,7 @@ DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,ungrounded.net
 DOMAIN-SUFFIX,businessunitprofile-cdn.trustpilot.net
 DOMAIN-SUFFIX,consumersite-assets.trustpilot.net
+DOMAIN-SUFFIX,categoriespages-cdn.trustpilot.net
 DOMAIN-SUFFIX,consumersiteimages.trustpilot.net
 DOMAIN-SUFFIX,cdn.trustpilot.net
 DOMAIN-SUFFIX,nelreports.net
@@ -725,6 +728,7 @@ DOMAIN-SUFFIX,cdn.skk.moe
 DOMAIN-SUFFIX,objects.hit.moe
 DOMAIN-SUFFIX,cloudflare.ltd
 DOMAIN-SUFFIX,static.coinall.ltd
+DOMAIN-SUFFIX,image.acg.lol
 DOMAIN-SUFFIX,cdn.cbd.int
 DOMAIN-SUFFIX,cthd.icu
 DOMAIN-SUFFIX,images-assets.nasa.gov
@@ -918,6 +922,7 @@ DOMAIN-SUFFIX,kc-usercontent.com
 DOMAIN-SUFFIX,content.kaspersky-labs.com
 DOMAIN-SUFFIX,isitmaintained.com
 DOMAIN-SUFFIX,code.ionicframework.com
+DOMAIN-SUFFIX,icons.internetbrands.com
 DOMAIN-SUFFIX,intercomassets.com
 DOMAIN-SUFFIX,img.huffingtonpost.com
 DOMAIN-SUFFIX,cdn.gethypervisual.com
@@ -944,6 +949,7 @@ DOMAIN-SUFFIX,js.verygoodvault.com
 DOMAIN-SUFFIX,transcend-cdn.com
 DOMAIN-SUFFIX,bundle.thimatic-apps.com
 DOMAIN-SUFFIX,cdn.stellarhosted.com
+DOMAIN-SUFFIX,steemitimages.com
 DOMAIN-SUFFIX,assets.static-upwork.com
 DOMAIN-SUFFIX,slidesharecdn.com
 DOMAIN-SUFFIX,cdn.sitesearch360.com
@@ -1122,7 +1128,6 @@ DOMAIN-SUFFIX,widgets.zohosalesiq.com
 DOMAIN-SUFFIX,images.youracclaim.com
 DOMAIN-SUFFIX,bookface-static.ycombinator.com
 DOMAIN-SUFFIX,xvideos-cdn.com
-DOMAIN-SUFFIX,img2.xiangbinjun.com
 DOMAIN-SUFFIX,storage.windiscover.com
 DOMAIN-SUFFIX,webpkgcache.com
 DOMAIN-SUFFIX,static.webclicks24.com
@@ -1391,7 +1396,6 @@ DOMAIN-SUFFIX,images1.cmp.optimizely.com
 DOMAIN-SUFFIX,cdn.optimizely.com
 DOMAIN-SUFFIX,static-www.onlyoffice.com
 DOMAIN-SUFFIX,nincontent.com
-DOMAIN-SUFFIX,netdna-ssl.com
 DOMAIN-SUFFIX,cdn.nerdschalk.com
 DOMAIN-SUFFIX,cdn.app.neononepay.com
 DOMAIN-SUFFIX,media.nbcnewyork.com
@@ -1424,6 +1428,7 @@ DOMAIN-SUFFIX,w2.influxdata.com
 DOMAIN-SUFFIX,jssocdn.indiatimes.com
 DOMAIN-SUFFIX,imgikuncdn.com
 DOMAIN-SUFFIX,cdn-thumbs.imagevenue.com
+DOMAIN-SUFFIX,imagetwist.com
 DOMAIN-SUFFIX,imagizer.imageshack.com
 DOMAIN-SUFFIX,cdn5.iconfinder.com
 DOMAIN-SUFFIX,cdn4.iconfinder.com
@@ -1462,6 +1467,7 @@ DOMAIN-SUFFIX,fonts.googleapis.com
 DOMAIN-SUFFIX,chart.googleapis.com
 DOMAIN-SUFFIX,ajax.googleapis.com
 DOMAIN-SUFFIX,sync.getpublica.com
+DOMAIN-SUFFIX,connect.getflowbox.com
 DOMAIN-SUFFIX,assets.fxnetworks.com
 DOMAIN-SUFFIX,euc-widget.freshworks.com
 DOMAIN-SUFFIX,widget.freshworks.com
@@ -1634,6 +1640,7 @@ DOMAIN-SUFFIX,content.powerapps.com
 DOMAIN-SUFFIX,cdnstatic.porno-cum.com
 DOMAIN-SUFFIX,static.polldaddy.com
 DOMAIN-SUFFIX,assets.polarbyte.com
+DOMAIN-SUFFIX,widgets.pinterest.com
 DOMAIN-SUFFIX,assets.pinterest.com
 DOMAIN-SUFFIX,storage-b.picacomic.com
 DOMAIN-SUFFIX,img.picacomic.com
@@ -2006,6 +2013,7 @@ DOMAIN-SUFFIX,api.dicebear.com
 DOMAIN-SUFFIX,dditscdn.com
 DOMAIN-SUFFIX,dditsadn.com
 DOMAIN-SUFFIX,cdn.datacamp.com
+DOMAIN-SUFFIX,script.custobar.com
 DOMAIN-SUFFIX,cdn.credible.com
 DOMAIN-SUFFIX,assets.controld.com
 DOMAIN-SUFFIX,img.connatix.com
@@ -2262,6 +2270,7 @@ DOMAIN-SUFFIX,js-eu1.hubspot.com
 DOMAIN-SUFFIX,js.hubspot.com
 DOMAIN-SUFFIX,perf-na1.hsforms.com
 DOMAIN-SUFFIX,perf.hsforms.com
+DOMAIN-SUFFIX,static.hosting.com
 DOMAIN-SUFFIX,hgimg00.com
 DOMAIN-SUFFIX,static.heavy-r.com
 DOMAIN-SUFFIX,public.hare200.com
@@ -2395,6 +2404,7 @@ DOMAIN-SUFFIX,static.4shared.com
 DOMAIN-SUFFIX,r2.1hanime.com
 DOMAIN-SUFFIX,1a-1791.com
 DOMAIN-SUFFIX,img.177pica.com
+DOMAIN-SUFFIX,public.zoorix.com
 DOMAIN-SUFFIX,assets.zilliz.com
 DOMAIN-SUFFIX,service-icons.zeabur.com
 DOMAIN-SUFFIX,icons.zeabur.com
@@ -2518,6 +2528,7 @@ DOMAIN-SUFFIX,pics.paypal.com
 DOMAIN-SUFFIX,cdn.paddle.com
 DOMAIN-SUFFIX,media.owcnow.com
 DOMAIN-SUFFIX,ipfs.overpi.com
+DOMAIN-SUFFIX,brandwidgets.outtra.com
 DOMAIN-SUFFIX,static.oracle.com
 DOMAIN-SUFFIX,cdn.openai.com
 DOMAIN-SUFFIX,static.oklink.com
@@ -3124,7 +3135,6 @@ DOMAIN-SUFFIX,assets-cdn.jable.tv
 DOMAIN-SUFFIX,assetscdn.jable.tv
 DOMAIN-SUFFIX,assets.jable.tv
 DOMAIN-SUFFIX,i.iwara.tv
-DOMAIN-SUFFIX,7mmtv.tv
 DOMAIN-SUFFIX,cdn.18jav.tv
 DOMAIN-SUFFIX,s-cdnstatic.svc.litv.tv
 DOMAIN-SUFFIX,p-cdnstatic.svc.litv.tv
@@ -3406,6 +3416,7 @@ DOMAIN-SUFFIX,cdn.pagefly.io
 DOMAIN-SUFFIX,pagecdn.io
 DOMAIN-SUFFIX,static.opensea.io
 DOMAIN-SUFFIX,favicons.nextdns.io
+DOMAIN-SUFFIX,cdn.logbase.io
 DOMAIN-SUFFIX,media.lantern.io
 DOMAIN-SUFFIX,ipfscdn.io
 DOMAIN-SUFFIX,cdn.icomoon.io
@@ -3524,6 +3535,7 @@ DOMAIN-SUFFIX,static.snaptube.in
 DOMAIN-SUFFIX,cdn.imgeng.in
 DOMAIN-SUFFIX,object.innei.in
 DOMAIN-SUFFIX,cloudfront.net.in
+DOMAIN-SUFFIX,yygimg.im
 DOMAIN-SUFFIX,assets.monica.im
 DOMAIN-SUFFIX,img.majors.im
 DOMAIN-SUFFIX,badges.gitter.im
@@ -3636,6 +3648,7 @@ DOMAIN-SUFFIX,ipfs.xoqq.ch
 DOMAIN-SUFFIX,cdn2.turboviplay.cc
 DOMAIN-SUFFIX,pravatar.cc
 DOMAIN-SUFFIX,imagehub.cc
+DOMAIN-SUFFIX,media.tailfin.cc
 DOMAIN-SUFFIX,postimg.cc
 DOMAIN-SUFFIX,aayinltcs.arduino.cc
 DOMAIN-SUFFIX,content.arduino.cc
@@ -3688,6 +3701,7 @@ DOMAIN-SUFFIX,cdn2.suno.ai
 DOMAIN-SUFFIX,cdn1.suno.ai
 DOMAIN-SUFFIX,metrics.kapa.ai
 DOMAIN-SUFFIX,widget.kapa.ai
+DOMAIN-SUFFIX,cdn.fera.ai
 DOMAIN-SUFFIX,assets.dify.ai
 DOMAIN-SUFFIX,limitless.cmax.ai
 DOMAIN-SUFFIX,cdn.s7s.ai

@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe
+DOMAIN-SUFFIX,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN-SUFFIX,fnbuilds.services
 DOMAIN-SUFFIX,nitro.download
 DOMAIN-SUFFIX,kali.download
@@ -304,6 +304,7 @@ DOMAIN-SUFFIX,mirrors.standaloneinstaller.com
 DOMAIN-SUFFIX,mirror.yannic-bonenberger.com
 DOMAIN-SUFFIX,dl.dropboxusercontent.com
 DOMAIN-SUFFIX,digitaloceanspaces.com
+DOMAIN-SUFFIX,release-assets.githubusercontent.com
 DOMAIN-SUFFIX,pkg-containers.githubusercontent.com
 DOMAIN-SUFFIX,objects.githubusercontent.com
 DOMAIN-SUFFIX,cloudflarestorage.com
@@ -848,6 +849,7 @@ DOMAIN-SUFFIX,public.ecr.aws
 DOMAIN-SUFFIX,su.virtualbuddy.app
 DOMAIN-SUFFIX,cdn.organicmaps.app
 DOMAIN-SUFFIX,updates.istatmenus.app
+DOMAIN-SUFFIX,dl.vanadium.app
 DOMAIN-SUFFIX,builds.parsec.app
 DOMAIN-SUFFIX,dl.motrix.app
 DOMAIN-SUFFIX,meta.omaps.app
@@ -1000,6 +1002,7 @@ DOMAIN-SUFFIX,download.ameliorated.io
 DOMAIN-SUFFIX,dl.elementary.io
 DOMAIN-SUFFIX,docker.cloudsmith.io
 DOMAIN-SUFFIX,dl.cloudsmith.io
+DOMAIN-SUFFIX,registry.terraform.io
 DOMAIN-SUFFIX,release.runcloud.io
 DOMAIN-SUFFIX,repo.nextdns.io
 DOMAIN-SUFFIX,jitpack.io
