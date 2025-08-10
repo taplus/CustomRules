@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,artifacts.electronjs.org
 DOMAIN-SUFFIX,downloads.wordpress.org
 DOMAIN-SUFFIX,dl.wireshark.org
 DOMAIN-SUFFIX,releases.whatpulse.org
+DOMAIN-SUFFIX,charts.verdaccio.org
 DOMAIN-SUFFIX,ftp.ubuntu-tw.org
 DOMAIN-SUFFIX,static.rust-lang.org
 DOMAIN-SUFFIX,mirrors.rpmfusion.org
@@ -371,6 +372,7 @@ DOMAIN-SUFFIX,mirrors.mivocloud.com
 DOMAIN-SUFFIX,software-download.microsoft.com
 DOMAIN-SUFFIX,download.visualstudio.microsoft.com
 DOMAIN-SUFFIX,officecdnmac.microsoft.com
+DOMAIN-SUFFIX,edgeupdates.microsoft.com
 DOMAIN-SUFFIX,amupdatedl5.microsoft.com
 DOMAIN-SUFFIX,amupdatedl4.microsoft.com
 DOMAIN-SUFFIX,amupdatedl3.microsoft.com
@@ -839,6 +841,7 @@ DOMAIN-SUFFIX,download.cnet.com
 DOMAIN-SUFFIX,cdn.azul.com
 DOMAIN-SUFFIX,dlcdnets.asus.com
 DOMAIN-SUFFIX,files.1drv.com
+DOMAIN-SUFFIX,oss.ypt.com
 DOMAIN-SUFFIX,cdn.ubi.com
 DOMAIN-SUFFIX,gog-cdn-fastly-cp77.gog.com
 DOMAIN-SUFFIX,gog-cdn-fastly.gog.com
