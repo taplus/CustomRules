@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,s3-website.nl-ams.scw.cloud
 DOMAIN-SUFFIX,s3.nl-ams.scw.cloud
 DOMAIN-SUFFIX,s3-website.fr-par.scw.cloud
 DOMAIN-SUFFIX,s3.fr-par.scw.cloud
+DOMAIN-SUFFIX,cdn-builds.paw.cloud
 DOMAIN-SUFFIX,mirror.globo.tech
 DOMAIN-SUFFIX,gimp.ip-connect.info
 DOMAIN-SUFFIX,1fichier.info
@@ -815,10 +816,8 @@ DOMAIN-SUFFIX,mirrors.aliyun.com
 DOMAIN-SUFFIX,downloads.xrite.com
 DOMAIN-SUFFIX,downloads.x-wrt.com
 DOMAIN-SUFFIX,cdn-patch.swtor.com
-DOMAIN-SUFFIX,static-production.npmjs.com
 DOMAIN-SUFFIX,replicate.npmjs.com
 DOMAIN-SUFFIX,registry.npmjs.com
-DOMAIN-SUFFIX,static.npmjs.com
 DOMAIN-SUFFIX,skimdb.npmjs.com
 DOMAIN-SUFFIX,mirror.kakao.com
 DOMAIN-SUFFIX,addins.deepl.com
