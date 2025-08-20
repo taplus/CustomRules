@@ -52,7 +52,7 @@ def time_label():
 
 
 def main():
-    for filename in ['apple_cdn','cdn','download','icloud_private_relay']:
+    for filename in ['apple_cdn','cdn','download','icloud_private_relay','game-download']:
         download_file(filename)
         rewrite_file(filename)
     time_label()
