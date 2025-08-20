@@ -33,6 +33,8 @@ def rewrite_file(filename):
             # 跳过包含 'this_ruleset_is_made_by_sukkaw' 的行
             if re.search(r'this_ruleset_is_made_by_sukkaw', line):
                 continue  # 跳过此行
+            if re.search(r'7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe', line):
+                continue  # 跳过此行
             # 删除每行 '+.' ，并在每一行的开头添加 "Domain-suffix"
             line = re.sub(r'^\+\.', '', line.strip())
             if re.search(r'\w', line):
