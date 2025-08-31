@@ -71,7 +71,6 @@ DOMAIN-SUFFIX,artfiles.org
 DOMAIN-SUFFIX,s3.teckids.org
 DOMAIN-SUFFIX,iso.reactos.org
 DOMAIN-SUFFIX,downloads.openwrt.org
-DOMAIN-SUFFIX,aus2-community.mozilla.org
 DOMAIN-SUFFIX,download.mozilla.org
 DOMAIN-SUFFIX,versioncheck-bg.addons.mozilla.org
 DOMAIN-SUFFIX,versioncheck.addons.mozilla.org
@@ -116,6 +115,7 @@ DOMAIN-SUFFIX,downloads.xiph.org
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,ftp.ktug.org
 DOMAIN-SUFFIX,cdimage.kali.org
+DOMAIN-SUFFIX,archive.kali.org
 DOMAIN-SUFFIX,http.kali.org
 DOMAIN-SUFFIX,download.gimp.org
 DOMAIN-SUFFIX,tug.ctan.org
@@ -149,7 +149,6 @@ DOMAIN-SUFFIX,piotrkosoft.net
 DOMAIN-SUFFIX,ftp.piotrkosoft.net
 DOMAIN-SUFFIX,finkmirrors.net
 DOMAIN-SUFFIX,cpan.excellmedia.net
-DOMAIN-SUFFIX,ftp.download-by.net
 DOMAIN-SUFFIX,apache.communilink.net
 DOMAIN-SUFFIX,mirror.za.web4africa.net
 DOMAIN-SUFFIX,packages.virtfusion.net
@@ -238,12 +237,9 @@ DOMAIN-SUFFIX,mirror-hk.koddos.net
 DOMAIN-SUFFIX,mirror.koddos.net
 DOMAIN-SUFFIX,mirror.gtcomm.net
 DOMAIN-SUFFIX,cloudfront.debian.net
-DOMAIN-SUFFIX,httpupdate127.cpanel.net
-DOMAIN-SUFFIX,httpupdate118.cpanel.net
 DOMAIN-SUFFIX,mirrors.coreix.net
 DOMAIN-SUFFIX,dl3.xmind.net
 DOMAIN-SUFFIX,dl2.xmind.net
-DOMAIN-SUFFIX,apache.volia.net
 DOMAIN-SUFFIX,mirrors.sonic.net
 DOMAIN-SUFFIX,mirror.pregi.net
 DOMAIN-SUFFIX,mirrors.netix.net
@@ -367,7 +363,6 @@ DOMAIN-SUFFIX,desktop.parallels.com
 DOMAIN-SUFFIX,update.parallels.com
 DOMAIN-SUFFIX,mirrors.omnilance.com
 DOMAIN-SUFFIX,mirror.navercorp.com
-DOMAIN-SUFFIX,mirrors.namecheap.com
 DOMAIN-SUFFIX,mirrors.mivocloud.com
 DOMAIN-SUFFIX,software-download.microsoft.com
 DOMAIN-SUFFIX,download.visualstudio.microsoft.com
@@ -380,6 +375,7 @@ DOMAIN-SUFFIX,amupdatedl2.microsoft.com
 DOMAIN-SUFFIX,amupdatedl.microsoft.com
 DOMAIN-SUFFIX,packages.microsoft.com
 DOMAIN-SUFFIX,cdn.winget.microsoft.com
+DOMAIN-SUFFIX,update.microsoft.com
 DOMAIN-SUFFIX,download.prss.microsoft.com
 DOMAIN-SUFFIX,msdl.microsoft.com
 DOMAIN-SUFFIX,delivery.mp.microsoft.com
@@ -920,7 +916,6 @@ DOMAIN-SUFFIX,mirrors.xservers.ro
 DOMAIN-SUFFIX,mirrors.m247.ro
 DOMAIN-SUFFIX,mirrors.nav.ro
 DOMAIN-SUFFIX,ftp.lug.ro
-DOMAIN-SUFFIX,cpan.perl.pt
 DOMAIN-SUFFIX,cpan.zbr.pt
 DOMAIN-SUFFIX,mirrors.up.pt
 DOMAIN-SUFFIX,ftp.eq.uc.pt
@@ -994,7 +989,6 @@ DOMAIN-SUFFIX,ftp.jaist.ac.jp
 DOMAIN-SUFFIX,it.apache.contactlab.it
 DOMAIN-SUFFIX,ftp.eutelia.it
 DOMAIN-SUFFIX,mirror.nohup.it
-DOMAIN-SUFFIX,ftp.panu.it
 DOMAIN-SUFFIX,mirror.garr.it
 DOMAIN-SUFFIX,ctan.yazd.ac.ir
 DOMAIN-SUFFIX,ctan.um.ac.ir
