@@ -505,6 +505,7 @@ DOMAIN-SUFFIX,edgestorewebcdn.azureedge.net
 DOMAIN-SUFFIX,xpaywalletcdn.azureedge.net
 DOMAIN-SUFFIX,claritystatic.azureedge.net
 DOMAIN-SUFFIX,mobilecenter.azureedge.net
+DOMAIN-SUFFIX,trekcdnprod.azureedge.net
 DOMAIN-SUFFIX,typescript.azureedge.net
 DOMAIN-SUFFIX,edgestatic.azureedge.net
 DOMAIN-SUFFIX,ni-assets.azureedge.net
@@ -555,7 +556,7 @@ DOMAIN-SUFFIX,pub.creaders.net
 DOMAIN-SUFFIX,assets.bitstamp.net
 DOMAIN-SUFFIX,cdn.beacondb.net
 DOMAIN-SUFFIX,damassets.autodesk.net
-DOMAIN-SUFFIX,jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
+DOMAIN-SUFFIX,prod-east.frontend.public.atl-paas.net
 DOMAIN-SUFFIX,prod.public.atl-paas.net
 DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
 DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
@@ -717,6 +718,7 @@ DOMAIN-SUFFIX,todoist.b-cdn.net
 DOMAIN-SUFFIX,divhunt.b-cdn.net
 DOMAIN-SUFFIX,dh-site.b-cdn.net
 DOMAIN-SUFFIX,cdntube.b-cdn.net
+DOMAIN-SUFFIX,c-bin.b-cdn.net
 DOMAIN-SUFFIX,amp.azure.net
 DOMAIN-SUFFIX,s3.arkjp.net
 DOMAIN-SUFFIX,img3.acsta.net
@@ -756,7 +758,6 @@ DOMAIN-SUFFIX,touchgal-image.moyu.moe
 DOMAIN-SUFFIX,ovo.wxw.moe
 DOMAIN-SUFFIX,hv-monsterdb-data.skk.moe
 DOMAIN-SUFFIX,latency-test.skk.moe
-DOMAIN-SUFFIX,ruleset.skk.moe
 DOMAIN-SUFFIX,pic.skk.moe
 DOMAIN-SUFFIX,latency-test.lab.skk.moe
 DOMAIN-SUFFIX,img.skk.moe
@@ -1221,7 +1222,9 @@ DOMAIN-SUFFIX,assets.squarespace.com
 DOMAIN-SUFFIX,splunkcloud.com
 DOMAIN-SUFFIX,assets.speedvitals.com
 DOMAIN-SUFFIX,skypeassets.com
+DOMAIN-SUFFIX,shoplineimg.com
 DOMAIN-SUFFIX,img.shoplineapp.com
+DOMAIN-SUFFIX,cdn.shoplineapp.com
 DOMAIN-SUFFIX,cdn.servicebell.com
 DOMAIN-SUFFIX,files.scamadviser.com
 DOMAIN-SUFFIX,assets.salesmartly.com
@@ -1242,6 +1245,7 @@ DOMAIN-SUFFIX,api.producthunt.com
 DOMAIN-SUFFIX,s3.producthunt.com
 DOMAIN-SUFFIX,cdn.pricespider.com
 DOMAIN-SUFFIX,pplusstatic.com
+DOMAIN-SUFFIX,public-assets.postmarkapp.com
 DOMAIN-SUFFIX,newsletter.postmarkapp.com
 DOMAIN-SUFFIX,rebound.postmarkapp.com
 DOMAIN-SUFFIX,porndudecdn.com
@@ -1455,6 +1459,7 @@ DOMAIN-SUFFIX,media.nbcnewyork.com
 DOMAIN-SUFFIX,media.nationwide.com
 DOMAIN-SUFFIX,tags.nationwide.com
 DOMAIN-SUFFIX,myspacecdn.com
+DOMAIN-SUFFIX,r2cdn.myshopline.com
 DOMAIN-SUFFIX,myshopapps.com
 DOMAIN-SUFFIX,myfilebase.com
 DOMAIN-SUFFIX,msftstatic.com
@@ -1743,6 +1748,7 @@ DOMAIN-SUFFIX,lowendbox.com
 DOMAIN-SUFFIX,scdn.line-apps.com
 DOMAIN-SUFFIX,cdn.lgrckt-in.com
 DOMAIN-SUFFIX,kinja-img.com
+DOMAIN-SUFFIX,cdn.joypixels.com
 DOMAIN-SUFFIX,cdn.joinhoney.com
 DOMAIN-SUFFIX,jisuimage.com
 DOMAIN-SUFFIX,cdn.jetphotos.com
@@ -1836,8 +1842,10 @@ DOMAIN-SUFFIX,upos-sz-mirroralibstar1.bilivideo.com
 DOMAIN-SUFFIX,secure.beer7live.com
 DOMAIN-SUFFIX,cdn.babylonjs.com
 DOMAIN-SUFFIX,awsstatic.com
+DOMAIN-SUFFIX,atl-global.atlassian.com
 DOMAIN-SUFFIX,media-cdn.atlassian.com
 DOMAIN-SUFFIX,wac-cdn.atlassian.com
+DOMAIN-SUFFIX,api.media.atlassian.com
 DOMAIN-SUFFIX,assettype.com
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,appmifile.com
@@ -1926,6 +1934,7 @@ DOMAIN-SUFFIX,roseimgs.com
 DOMAIN-SUFFIX,cdn.roboflow.com
 DOMAIN-SUFFIX,app.roboflow.com
 DOMAIN-SUFFIX,api.roboflow.com
+DOMAIN-SUFFIX,staticsource1.redotpay.com
 DOMAIN-SUFFIX,redircdn.com
 DOMAIN-SUFFIX,radix-ui.com
 DOMAIN-SUFFIX,quriobot.com
@@ -2046,6 +2055,7 @@ DOMAIN-SUFFIX,filestore.fortinet.com
 DOMAIN-SUFFIX,resizing.flixster.com
 DOMAIN-SUFFIX,static-assets-web.flixcart.com
 DOMAIN-SUFFIX,cdn-share-sprites.flaticon.com
+DOMAIN-SUFFIX,cdn-icons-png.flaticon.com
 DOMAIN-SUFFIX,cdn-uicons.flaticon.com
 DOMAIN-SUFFIX,media.flaticon.com
 DOMAIN-SUFFIX,cdn.firebase.com
@@ -2414,6 +2424,7 @@ DOMAIN-SUFFIX,static.doujins.com
 DOMAIN-SUFFIX,cdn.docsbot.com
 DOMAIN-SUFFIX,global.divhunt.com
 DOMAIN-SUFFIX,s1.divhunt.com
+DOMAIN-SUFFIX,cdn.devdojo.com
 DOMAIN-SUFFIX,denopkg.com
 DOMAIN-SUFFIX,dellcdn.com
 DOMAIN-SUFFIX,import-cdn.default.com
@@ -2645,6 +2656,7 @@ DOMAIN-SUFFIX,glyph.medium.com
 DOMAIN-SUFFIX,miro.medium.com
 DOMAIN-SUFFIX,twemoji.maxcdn.com
 DOMAIN-SUFFIX,static-assets.mapbox.com
+DOMAIN-SUFFIX,tiles.mapbox.com
 DOMAIN-SUFFIX,sato.manyse.com
 DOMAIN-SUFFIX,cdn2-imgix.macpaw.com
 DOMAIN-SUFFIX,api-lytics.macpaw.com
@@ -2770,11 +2782,14 @@ DOMAIN-SUFFIX,assets.adidas.com
 DOMAIN-SUFFIX,glass.adidas.com
 DOMAIN-SUFFIX,9cache.com
 DOMAIN-SUFFIX,static.zuora.com
+DOMAIN-SUFFIX,barracuda-assets.zoovu.com
+DOMAIN-SUFFIX,barracuda-cdn.zoovu.com
 DOMAIN-SUFFIX,hello.zonos.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,cdn-yotpo-images-production.yotpo.com
 DOMAIN-SUFFIX,cdn-widgetsrepository.yotpo.com
 DOMAIN-SUFFIX,cdn-swell-assets.yotpo.com
+DOMAIN-SUFFIX,cdn-loyalty.yotpo.com
 DOMAIN-SUFFIX,staticw2.yotpo.com
 DOMAIN-SUFFIX,yep.video.yahoo.com
 DOMAIN-SUFFIX,xhcdn.com
@@ -2952,6 +2967,7 @@ DOMAIN-SUFFIX,lcdn-locator.apple.com
 DOMAIN-SUFFIX,news-assets.apple.com
 DOMAIN-SUFFIX,events-live.apple.com
 DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,time.apple.com
 DOMAIN-SUFFIX,pba.apple.com
 DOMAIN-SUFFIX,vsmarketplacebadge.apphb.com
 DOMAIN-SUFFIX,ahcdn.com
@@ -3710,6 +3726,7 @@ DOMAIN-SUFFIX,placehold.co
 DOMAIN-SUFFIX,before.good-apps.co
 DOMAIN-SUFFIX,static.convertio.co
 DOMAIN-SUFFIX,ipfs.tribecap.co
+DOMAIN-SUFFIX,supabase.co
 DOMAIN-SUFFIX,smilecdn.co
 DOMAIN-SUFFIX,ipfs.sloppyta.co
 DOMAIN-SUFFIX,assets.jolipage.co

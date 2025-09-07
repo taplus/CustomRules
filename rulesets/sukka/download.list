@@ -265,6 +265,10 @@ DOMAIN-SUFFIX,mirror.cat.net
 DOMAIN-SUFFIX,releases.arc.net
 DOMAIN-SUFFIX,mirror.internode.on.net
 DOMAIN-SUFFIX,catbox.moe
+DOMAIN-SUFFIX,ruleset.skk.moe
+DOMAIN-SUFFIX,speedtest-net-servers.cdn.skk.moe
+DOMAIN-SUFFIX,chnroutes2.cdn.skk.moe
+DOMAIN-SUFFIX,filters.cdn.skk.moe
 DOMAIN-SUFFIX,ctan.math.washington.edu
 DOMAIN-SUFFIX,apache.uniminuto.edu
 DOMAIN-SUFFIX,ctan.math.illinois.edu
