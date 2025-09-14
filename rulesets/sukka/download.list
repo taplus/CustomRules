@@ -345,6 +345,7 @@ DOMAIN-SUFFIX,egdownload.fastly-edge.com
 DOMAIN-SUFFIX,mirrors.concertpass.com
 DOMAIN-SUFFIX,dl.cleverfiles.com
 DOMAIN-SUFFIX,s3.us-west-002.backblazeb2.com
+DOMAIN-SUFFIX,bigfiles.virustotal.com
 DOMAIN-SUFFIX,mirror.team-cymru.com
 DOMAIN-SUFFIX,pixeldrain.com
 DOMAIN-SUFFIX,download.onlyoffice.com
@@ -729,6 +730,9 @@ DOMAIN-SUFFIX,fuwamofu.com
 DOMAIN-SUFFIX,mirror.constant.com
 DOMAIN-SUFFIX,mirror.cogentco.com
 DOMAIN-SUFFIX,dl.circleci.com
+DOMAIN-SUFFIX,ftpdownloads.broadcom.com
+DOMAIN-SUFFIX,downloads2.broadcom.com
+DOMAIN-SUFFIX,downloads.broadcom.com
 DOMAIN-SUFFIX,level3.blizzard.com
 DOMAIN-SUFFIX,dist.blizzard.com
 DOMAIN-SUFFIX,cdn.blizzard.com
@@ -935,7 +939,6 @@ DOMAIN-SUFFIX,ftp.ps.pl
 DOMAIN-SUFFIX,mirror.rise.ph
 DOMAIN-SUFFIX,mirror.squ.edu.om
 DOMAIN-SUFFIX,mega.nz
-DOMAIN-SUFFIX,cpan.catalyst.net.nz
 DOMAIN-SUFFIX,cpan.inspire.net.nz
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,ftp.auckland.ac.nz
