@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,s3.nl-ams.scw.cloud
 DOMAIN-SUFFIX,s3-website.fr-par.scw.cloud
 DOMAIN-SUFFIX,s3.fr-par.scw.cloud
 DOMAIN-SUFFIX,cdn-builds.paw.cloud
+DOMAIN-SUFFIX,repo.sleeping.town
 DOMAIN-SUFFIX,mirror.globo.tech
 DOMAIN-SUFFIX,gimp.ip-connect.info
 DOMAIN-SUFFIX,1fichier.info
@@ -164,6 +165,7 @@ DOMAIN-SUFFIX,mirror.webtastix.net
 DOMAIN-SUFFIX,mirrors.spacedump.net
 DOMAIN-SUFFIX,mirror.ossplanet.net
 DOMAIN-SUFFIX,mirror.olnevhost.net
+DOMAIN-SUFFIX,maven.neoforged.net
 DOMAIN-SUFFIX,libraries.minecraft.net
 DOMAIN-SUFFIX,textures.minecraft.net
 DOMAIN-SUFFIX,download.minecraft.net
@@ -184,6 +186,7 @@ DOMAIN-SUFFIX,epicgames-download1.akamaized.net
 DOMAIN-SUFFIX,steampipe-partner.akamaized.net
 DOMAIN-SUFFIX,steampipe-kr.akamaized.net
 DOMAIN-SUFFIX,steampipe.akamaized.net
+DOMAIN-SUFFIX,dw.uptodown.net
 DOMAIN-SUFFIX,wup.eshop.nintendo.net
 DOMAIN-SUFFIX,wup.shop.nintendo.net
 DOMAIN-SUFFIX,cdn.nintendo.net
@@ -269,6 +272,7 @@ DOMAIN-SUFFIX,ruleset.skk.moe
 DOMAIN-SUFFIX,speedtest-net-servers.cdn.skk.moe
 DOMAIN-SUFFIX,chnroutes2.cdn.skk.moe
 DOMAIN-SUFFIX,filters.cdn.skk.moe
+DOMAIN-SUFFIX,maven.is-quite.gay
 DOMAIN-SUFFIX,ctan.math.washington.edu
 DOMAIN-SUFFIX,apache.uniminuto.edu
 DOMAIN-SUFFIX,ctan.math.illinois.edu
