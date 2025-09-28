@@ -731,6 +731,7 @@ DOMAIN-SUFFIX,todoist.b-cdn.net
 DOMAIN-SUFFIX,divhunt.b-cdn.net
 DOMAIN-SUFFIX,dh-site.b-cdn.net
 DOMAIN-SUFFIX,cdntube.b-cdn.net
+DOMAIN-SUFFIX,r34xyz.b-cdn.net
 DOMAIN-SUFFIX,c-bin.b-cdn.net
 DOMAIN-SUFFIX,amp.azure.net
 DOMAIN-SUFFIX,s3.arkjp.net
@@ -780,6 +781,7 @@ DOMAIN-SUFFIX,cloudflare.ltd
 DOMAIN-SUFFIX,static.coinall.ltd
 DOMAIN-SUFFIX,image.acg.lol
 DOMAIN-SUFFIX,cdn.cbd.int
+DOMAIN-SUFFIX,tile2.intervals.icu
 DOMAIN-SUFFIX,cthd.icu
 DOMAIN-SUFFIX,time-a.nist.gov
 DOMAIN-SUFFIX,images-assets.nasa.gov
@@ -1630,6 +1632,7 @@ DOMAIN-SUFFIX,cdn-spurit.com
 DOMAIN-SUFFIX,public-pages.cbinsights.com
 DOMAIN-SUFFIX,rtcg-access.bytevcloud.com
 DOMAIN-SUFFIX,static.buydomains.com
+DOMAIN-SUFFIX,media.bundlehunt.com
 DOMAIN-SUFFIX,cdn.britannica.com
 DOMAIN-SUFFIX,player.interactivity.brightcove.com
 DOMAIN-SUFFIX,app.brightback.com
@@ -3290,6 +3293,7 @@ DOMAIN-SUFFIX,vbmspic.video.friday.tw
 DOMAIN-SUFFIX,megapx-assets.dcard.tw
 DOMAIN-SUFFIX,pimg.tw
 DOMAIN-SUFFIX,news-data.pts.org.tw
+DOMAIN-SUFFIX,img-fnc.ebc.net.tw
 DOMAIN-SUFFIX,cw-image-resizer.cwg.tw
 DOMAIN-SUFFIX,cdn.ready-market.com.tw
 DOMAIN-SUFFIX,avatar2.bahamut.com.tw
@@ -3358,6 +3362,7 @@ DOMAIN-SUFFIX,bucket1.notaku.so
 DOMAIN-SUFFIX,static.cohere.so
 DOMAIN-SUFFIX,cdn.circle.so
 DOMAIN-SUFFIX,cdn.birdie.so
+DOMAIN-SUFFIX,storage.tally.so
 DOMAIN-SUFFIX,assets-v2.super.so
 DOMAIN-SUFFIX,sites.super.so
 DOMAIN-SUFFIX,images.spr.so
@@ -3885,6 +3890,8 @@ DOMAIN-SUFFIX,images.tg.cc
 DOMAIN-SUFFIX,img.tg.cc
 DOMAIN-SUFFIX,1passwordusercontent.ca
 DOMAIN-SUFFIX,cdn.adsninja.ca
+DOMAIN-SUFFIX,components.cyclingfactory.be
+DOMAIN-SUFFIX,images.cyclingfactory.be
 DOMAIN-SUFFIX,abc-cdn.net.au
 DOMAIN-SUFFIX,res.abc.net.au
 DOMAIN-SUFFIX,styleguide-assets.shannons.com.au
