@@ -1023,6 +1023,7 @@ DOMAIN-SUFFIX,download.typora.io
 DOMAIN-SUFFIX,packages.httpie.io
 DOMAIN-SUFFIX,store1.gofile.io
 DOMAIN-SUFFIX,download.fydeos.io
+DOMAIN-SUFFIX,registry-1.docker.io
 DOMAIN-SUFFIX,crates.io
 DOMAIN-SUFFIX,rpm.xpipe.io
 DOMAIN-SUFFIX,apt.xpipe.io
