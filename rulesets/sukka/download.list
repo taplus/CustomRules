@@ -866,6 +866,7 @@ DOMAIN-SUFFIX,dl.vanadium.app
 DOMAIN-SUFFIX,builds.parsec.app
 DOMAIN-SUFFIX,dl.motrix.app
 DOMAIN-SUFFIX,meta.omaps.app
+DOMAIN-SUFFIX,fdisk.5play.app
 DOMAIN-SUFFIX,mirror.is.co.za
 DOMAIN-SUFFIX,apache.is.co.za
 DOMAIN-SUFFIX,ftp.is.co.za
@@ -896,6 +897,8 @@ DOMAIN-SUFFIX,apache.stu.edu.tw
 DOMAIN-SUFFIX,cpan.stu.edu.tw
 DOMAIN-SUFFIX,ftp.stu.edu.tw
 DOMAIN-SUFFIX,ftp.tc.edu.tw
+DOMAIN-SUFFIX,mirrors.yuntu.com.tw
+DOMAIN-SUFFIX,cisco.yuntu.com.tw
 DOMAIN-SUFFIX,mirror.twds.com.tw
 DOMAIN-SUFFIX,cpan.ulak.net.tr
 DOMAIN-SUFFIX,repository.su
@@ -1014,6 +1017,7 @@ DOMAIN-SUFFIX,dl.elementary.io
 DOMAIN-SUFFIX,docker.cloudsmith.io
 DOMAIN-SUFFIX,dl.cloudsmith.io
 DOMAIN-SUFFIX,registry.terraform.io
+DOMAIN-SUFFIX,update.cyberduck.io
 DOMAIN-SUFFIX,release.runcloud.io
 DOMAIN-SUFFIX,repo.nextdns.io
 DOMAIN-SUFFIX,jitpack.io
