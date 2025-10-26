@@ -712,6 +712,7 @@ DOMAIN-SUFFIX,i.hkepc.net
 DOMAIN-SUFFIX,ftcdn.net
 DOMAIN-SUFFIX,fonts.net
 DOMAIN-SUFFIX,fmcdn.net
+DOMAIN-SUFFIX,flsrv.net
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,epimg.net
 DOMAIN-SUFFIX,dwcdn.net
@@ -1352,6 +1353,7 @@ DOMAIN-SUFFIX,media.graphassets.com
 DOMAIN-SUFFIX,static.gettyimages.com
 DOMAIN-SUFFIX,media.gettyimages.com
 DOMAIN-SUFFIX,cdn.getfeedback.com
+DOMAIN-SUFFIX,gauthstatic.com
 DOMAIN-SUFFIX,stories.freepiklabs.com
 DOMAIN-SUFFIX,static.foxbusiness.com
 DOMAIN-SUFFIX,use.fortawesome.com
@@ -2787,6 +2789,7 @@ DOMAIN-SUFFIX,iggcdn.com
 DOMAIN-SUFFIX,cdn.ifixit.com
 DOMAIN-SUFFIX,img.icons8.com
 DOMAIN-SUFFIX,bst.icons8.com
+DOMAIN-SUFFIX,statici.icloud.com
 DOMAIN-SUFFIX,hugoal.com
 DOMAIN-SUFFIX,static.hotjar.com
 DOMAIN-SUFFIX,hommec.com
@@ -3411,6 +3414,7 @@ DOMAIN-SUFFIX,cdn.birdie.so
 DOMAIN-SUFFIX,storage.tally.so
 DOMAIN-SUFFIX,assets-v2.super.so
 DOMAIN-SUFFIX,sites.super.so
+DOMAIN-SUFFIX,assets.cello.so
 DOMAIN-SUFFIX,images.spr.so
 DOMAIN-SUFFIX,cdn-zlib.sk
 DOMAIN-SUFFIX,registry.gitplac.si
@@ -3584,6 +3588,7 @@ DOMAIN-SUFFIX,assets.garr.it
 DOMAIN-SUFFIX,lib.arvancloud.ir
 DOMAIN-SUFFIX,cdn.applicationinsights.io
 DOMAIN-SUFFIX,typescript-eslint.io
+DOMAIN-SUFFIX,cdn.insightmediagroup.io
 DOMAIN-SUFFIX,polyfill-fastly.io
 DOMAIN-SUFFIX,images.microcms-assets.io
 DOMAIN-SUFFIX,assets-next.mattersprotocol.io

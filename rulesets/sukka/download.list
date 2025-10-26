@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,mirror.globo.tech
 DOMAIN-SUFFIX,gimp.ip-connect.info
 DOMAIN-SUFFIX,1fichier.info
 DOMAIN-SUFFIX,dist.creeper.host
+DOMAIN-SUFFIX,download.delta.chat
 DOMAIN-SUFFIX,boot.netboot.xyz
 DOMAIN-SUFFIX,ghgo.xyz
 DOMAIN-SUFFIX,ghfast.top
@@ -1020,6 +1021,7 @@ DOMAIN-SUFFIX,registry.terraform.io
 DOMAIN-SUFFIX,update.cyberduck.io
 DOMAIN-SUFFIX,release.runcloud.io
 DOMAIN-SUFFIX,repo.nextdns.io
+DOMAIN-SUFFIX,pkgs.netbird.io
 DOMAIN-SUFFIX,jitpack.io
 DOMAIN-SUFFIX,download.cypress.io
 DOMAIN-SUFFIX,cdn.cypress.io
