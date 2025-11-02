@@ -1664,6 +1664,8 @@ DOMAIN-SUFFIX,cdnb.artstation.com
 DOMAIN-SUFFIX,cdna.artstation.com
 DOMAIN-SUFFIX,cdn.artstation.com
 DOMAIN-SUFFIX,wa.arounddeal.com
+DOMAIN-SUFFIX,gamemedia.armorgames.com
+DOMAIN-SUFFIX,quests.armorgames.com
 DOMAIN-SUFFIX,files.armorgames.com
 DOMAIN-SUFFIX,cache.armorgames.com
 DOMAIN-SUFFIX,agi.armorgames.com
@@ -2270,6 +2272,7 @@ DOMAIN-SUFFIX,api.weather.com
 DOMAIN-SUFFIX,wdfiles.com
 DOMAIN-SUFFIX,vox-cdn.com
 DOMAIN-SUFFIX,images.voguehk.com
+DOMAIN-SUFFIX,gdb.voanews.com
 DOMAIN-SUFFIX,cdn.viglink.com
 DOMAIN-SUFFIX,assets.vidyard.com
 DOMAIN-SUFFIX,play.vidyard.com
@@ -3556,6 +3559,7 @@ DOMAIN-SUFFIX,resize.blogsys.jp
 DOMAIN-SUFFIX,livedoor.blogimg.jp
 DOMAIN-SUFFIX,mangaz-static.j-comi.jp
 DOMAIN-SUFFIX,mangaz-books.j-comi.jp
+DOMAIN-SUFFIX,ismcdn.jp
 DOMAIN-SUFFIX,image.gyutto.jp
 DOMAIN-SUFFIX,c.fantia.jp
 DOMAIN-SUFFIX,img.dlsite.jp
@@ -3825,6 +3829,7 @@ DOMAIN-SUFFIX,cdn.unwire.hk
 DOMAIN-SUFFIX,newsstatic.rthk.hk
 DOMAIN-SUFFIX,image.hkhl.hk
 DOMAIN-SUFFIX,img.openshop.com.hk
+DOMAIN-SUFFIX,img.gs
 DOMAIN-SUFFIX,cdn.sc.gl
 DOMAIN-SUFFIX,cms-cdn.now.gg
 DOMAIN-SUFFIX,cdn.now.gg
