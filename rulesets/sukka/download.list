@@ -63,6 +63,8 @@ DOMAIN-SUFFIX,ftp.harukasan.org
 DOMAIN-SUFFIX,cdn.cocoapods.org
 DOMAIN-SUFFIX,mirror.apache-kr.org
 DOMAIN-SUFFIX,tmpfiles.org
+DOMAIN-SUFFIX,rubygems.org
+DOMAIN-SUFFIX,index.rubygems.org
 DOMAIN-SUFFIX,static.redox-os.org
 DOMAIN-SUFFIX,download.opensuse.org
 DOMAIN-SUFFIX,cdn.opensuse.org
