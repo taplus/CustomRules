@@ -94,6 +94,7 @@ DOMAIN-SUFFIX,ftp-osl.osuosl.org
 DOMAIN-SUFFIX,ftp-nyc.osuosl.org
 DOMAIN-SUFFIX,ftp-chi.osuosl.org
 DOMAIN-SUFFIX,ftp.osuosl.org
+DOMAIN-SUFFIX,cdn.oneget.org
 DOMAIN-SUFFIX,mirrors.kernel.org
 DOMAIN-SUFFIX,mirrors.edge.kernel.org
 DOMAIN-SUFFIX,plugins-artifacts.gradle.org
@@ -314,6 +315,7 @@ DOMAIN-SUFFIX,mirrors.standaloneinstaller.com
 DOMAIN-SUFFIX,mirror.yannic-bonenberger.com
 DOMAIN-SUFFIX,dl.dropboxusercontent.com
 DOMAIN-SUFFIX,digitaloceanspaces.com
+DOMAIN-SUFFIX,cdn.powershellgallery.com
 DOMAIN-SUFFIX,release-assets.githubusercontent.com
 DOMAIN-SUFFIX,pkg-containers.githubusercontent.com
 DOMAIN-SUFFIX,objects.githubusercontent.com
