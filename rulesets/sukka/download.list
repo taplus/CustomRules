@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,ossmirror.mycloud.services
 DOMAIN-SUFFIX,nitro.download
 DOMAIN-SUFFIX,kali.download
 DOMAIN-SUFFIX,mirror.kumi.systems
+DOMAIN-SUFFIX,mirror.level66.network
 DOMAIN-SUFFIX,mirror.hostiko.network
 DOMAIN-SUFFIX,mirror.nishi.network
 DOMAIN-SUFFIX,mirrors.esto.network
@@ -233,6 +234,7 @@ DOMAIN-SUFFIX,gpl.savoirfairelinux.net
 DOMAIN-SUFFIX,ctan.mc1.root.project-creative.net
 DOMAIN-SUFFIX,debian-archive.trafficmanager.net
 DOMAIN-SUFFIX,mirrors.lucidnetworks.net
+DOMAIN-SUFFIX,fdroid.tetaneutral.net
 DOMAIN-SUFFIX,ctan.tetaneutral.net
 DOMAIN-SUFFIX,cpan.tetaneutral.net
 DOMAIN-SUFFIX,apt.tetaneutral.net
