@@ -668,6 +668,8 @@ DOMAIN-SUFFIX,static.vocadb.net
 DOMAIN-SUFFIX,images1.vinted.net
 DOMAIN-SUFFIX,craftassets.unraid.net
 DOMAIN-SUFFIX,components.trynow.net
+DOMAIN-SUFFIX,lzd-img-global.slatic.net
+DOMAIN-SUFFIX,icms-image.slatic.net
 DOMAIN-SUFFIX,sftcdn.net
 DOMAIN-SUFFIX,rspcdn.net
 DOMAIN-SUFFIX,redcdn.net
@@ -2359,6 +2361,7 @@ DOMAIN-SUFFIX,cdnl.tnaflix.com
 DOMAIN-SUFFIX,artworks.thetvdb.com
 DOMAIN-SUFFIX,cdn.termius.com
 DOMAIN-SUFFIX,nel.teo-rum.com
+DOMAIN-SUFFIX,upload.teftera.com
 DOMAIN-SUFFIX,wpmedia.tealium.com
 DOMAIN-SUFFIX,cdn.svgator.com
 DOMAIN-SUFFIX,stripst.com
@@ -2852,6 +2855,7 @@ DOMAIN-SUFFIX,lodash.com
 DOMAIN-SUFFIX,locimg.com
 DOMAIN-SUFFIX,staging-pubfeed.linkby.com
 DOMAIN-SUFFIX,ledger-wp-website-s3-prd.ledger.com
+DOMAIN-SUFFIX,lazcdn.com
 DOMAIN-SUFFIX,assets-cms.kraken.com
 DOMAIN-SUFFIX,assets.kraken.com
 DOMAIN-SUFFIX,public.komiic.com
@@ -3252,6 +3256,7 @@ DOMAIN-SUFFIX,assets.goat.com
 DOMAIN-SUFFIX,image.goat.com
 DOMAIN-SUFFIX,fsdn.com
 DOMAIN-SUFFIX,images.dmca.com
+DOMAIN-SUFFIX,website-media.deel.com
 DOMAIN-SUFFIX,sf-coze-web-cdn.coze.com
 DOMAIN-SUFFIX,zephr-templates.cnbc.com
 DOMAIN-SUFFIX,production-cmp.isgprivacy.cbsi.com
