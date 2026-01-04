@@ -143,6 +143,7 @@ DOMAIN-SUFFIX,mirror.krfoss.org
 DOMAIN-SUFFIX,http.krfoss.org
 DOMAIN-SUFFIX,mirrors.kernel.org
 DOMAIN-SUFFIX,mirrors.edge.kernel.org
+DOMAIN-SUFFIX,eu.edge.kernel.org
 DOMAIN-SUFFIX,mirrors.us.kernel.org
 DOMAIN-SUFFIX,plugins-artifacts.gradle.org
 DOMAIN-SUFFIX,repo.gradle.org
@@ -202,10 +203,13 @@ DOMAIN-SUFFIX,repository.jboss.org
 DOMAIN-SUFFIX,www.gnupg.org
 DOMAIN-SUFFIX,ftp.gnome.org
 DOMAIN-SUFFIX,cdn.fwupd.org
+DOMAIN-SUFFIX,eclats.crans.org
 DOMAIN-SUFFIX,ftpmirror.your.org
 DOMAIN-SUFFIX,downloads.xiph.org
 DOMAIN-SUFFIX,kebo.vlsm.org
 DOMAIN-SUFFIX,mirrors.tino.org
+DOMAIN-SUFFIX,packages.sury.org
+DOMAIN-SUFFIX,deb.sury.org
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,ftp.ktug.org
 DOMAIN-SUFFIX,cdimage.kali.org
@@ -272,6 +276,7 @@ DOMAIN-SUFFIX,debian-mirror.behostings.net
 DOMAIN-SUFFIX,mirrors.centos.behostings.net
 DOMAIN-SUFFIX,mirror.webtastix.net
 DOMAIN-SUFFIX,ftp.ubuntu-tw.net
+DOMAIN-SUFFIX,mirror.steadfast.net
 DOMAIN-SUFFIX,mirrors.spacedump.net
 DOMAIN-SUFFIX,mirror.shastacoe.net
 DOMAIN-SUFFIX,ubuntu.pishgaman.net
@@ -544,6 +549,7 @@ DOMAIN-SUFFIX,mirror.mythic-beasts.com
 DOMAIN-SUFFIX,mvnrepository.com
 DOMAIN-SUFFIX,mirror.liquidtelecom.com
 DOMAIN-SUFFIX,linodeobjects.com
+DOMAIN-SUFFIX,mirror.dimensiondata.com
 DOMAIN-SUFFIX,vfat.classicreload.com
 DOMAIN-SUFFIX,cdn77-storage.com
 DOMAIN-SUFFIX,updates-cdn.bravesoftware.com
@@ -606,6 +612,7 @@ DOMAIN-SUFFIX,mirror.famaserver.com
 DOMAIN-SUFFIX,mirror.downloadvn.com
 DOMAIN-SUFFIX,linux.domainesia.com
 DOMAIN-SUFFIX,cpan.develooper.com
+DOMAIN-SUFFIX,mirror.datapacket.com
 DOMAIN-SUFFIX,mirror.nl.datapacket.com
 DOMAIN-SUFFIX,pkg.cloudflare.com
 DOMAIN-SUFFIX,swupdate.chaosgroup.com
@@ -1223,6 +1230,7 @@ DOMAIN-SUFFIX,mirror.timkevin.us
 DOMAIN-SUFFIX,cdn.zoom.us
 DOMAIN-SUFFIX,mirrors.xtom.us
 DOMAIN-SUFFIX,mirror.xtom.us
+DOMAIN-SUFFIX,mirror.quickhost.uk
 DOMAIN-SUFFIX,mirror.yuki.net.uk
 DOMAIN-SUFFIX,rsync.yuki.net.uk
 DOMAIN-SUFFIX,mirror.freethought-internet.co.uk
@@ -1250,6 +1258,7 @@ DOMAIN-SUFFIX,opensource.nchc.org.tw
 DOMAIN-SUFFIX,free.nchc.org.tw
 DOMAIN-SUFFIX,debian.cs.nycu.edu.tw
 DOMAIN-SUFFIX,ubuntu.cs.nctu.edu.tw
+DOMAIN-SUFFIX,linux.cs.nctu.edu.tw
 DOMAIN-SUFFIX,ubuntu.ccns.ncku.edu.tw
 DOMAIN-SUFFIX,debian.ccns.ncku.edu.tw
 DOMAIN-SUFFIX,ftp.tku.edu.tw
@@ -1467,6 +1476,7 @@ DOMAIN-SUFFIX,ftp.sakura.ad.jp
 DOMAIN-SUFFIX,ftp.tsukuba.wide.ad.jp
 DOMAIN-SUFFIX,ftp.nara.wide.ad.jp
 DOMAIN-SUFFIX,ftp.iij.ad.jp
+DOMAIN-SUFFIX,linux2.yz.yamagata-u.ac.jp
 DOMAIN-SUFFIX,linux.yz.yamagata-u.ac.jp
 DOMAIN-SUFFIX,ftp.yz.yamagata-u.ac.jp
 DOMAIN-SUFFIX,ubuntutym.u-toyama.ac.jp
@@ -1621,6 +1631,7 @@ DOMAIN-SUFFIX,ftp.univ-pau.fr
 DOMAIN-SUFFIX,distrib-coffee.ipsl.jussieu.fr
 DOMAIN-SUFFIX,mirror.its-tps.fr
 DOMAIN-SUFFIX,apache.crihan.fr
+DOMAIN-SUFFIX,ftp.crihan.fr
 DOMAIN-SUFFIX,ubuntu.syxpi.fr
 DOMAIN-SUFFIX,debian.obspm.fr
 DOMAIN-SUFFIX,mirrors.ircam.fr
@@ -1767,6 +1778,7 @@ DOMAIN-SUFFIX,mirror.solnet.ch
 DOMAIN-SUFFIX,mirror.siati.ch
 DOMAIN-SUFFIX,mirror.iway.ch
 DOMAIN-SUFFIX,ubuntu.ethz.ch
+DOMAIN-SUFFIX,mirror.ethz.ch
 DOMAIN-SUFFIX,debian.ethz.ch
 DOMAIN-SUFFIX,rsync-linuxsoft.cern.ch
 DOMAIN-SUFFIX,linuxsoft.cern.ch
@@ -1778,6 +1790,7 @@ DOMAIN-SUFFIX,mirror.csclub.uwaterloo.ca
 DOMAIN-SUFFIX,mirror.dsrg.utoronto.ca
 DOMAIN-SUFFIX,mirror.cpsc.ucalgary.ca
 DOMAIN-SUFFIX,download.mersenne.ca
+DOMAIN-SUFFIX,mirrors.switch.ca
 DOMAIN-SUFFIX,mirror.estone.ca
 DOMAIN-SUFFIX,mirror.rafal.ca
 DOMAIN-SUFFIX,muug.ca
@@ -1824,8 +1837,7 @@ DOMAIN-SUFFIX,mirror.unix-solutions.be
 DOMAIN-SUFFIX,ctan.space-pro.be
 DOMAIN-SUFFIX,ftp.belnet.be
 DOMAIN-SUFFIX,lib.ugent.be
-DOMAIN-SUFFIX,apache.cu.be
-DOMAIN-SUFFIX,kde.cu.be
+DOMAIN-SUFFIX,mirrors.cu.be
 DOMAIN-SUFFIX,mirror.visiontech.com.bd
 DOMAIN-SUFFIX,mirror.amberit.com.bd
 DOMAIN-SUFFIX,ubuntu-mirror.bhtelecom.ba
@@ -1860,7 +1872,6 @@ DOMAIN-SUFFIX,debian.mur.at
 DOMAIN-SUFFIX,ubuntu.uni-klu.ac.at
 DOMAIN-SUFFIX,ftp.tu-graz.ac.at
 DOMAIN-SUFFIX,mirrors.sarak.as
-DOMAIN-SUFFIX,mirrors.dc.clear.net.ar
 DOMAIN-SUFFIX,debian.unnoba.edu.ar
 DOMAIN-SUFFIX,ubuntu.unc.edu.ar
 DOMAIN-SUFFIX,cpan.mmgdesigns.com.ar

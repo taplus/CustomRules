@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,static.domains
 DOMAIN-SUFFIX,bcdn.starapps.studio
 DOMAIN-SUFFIX,cdn.starapps.studio
 DOMAIN-SUFFIX,public.flourish.studio
+DOMAIN-SUFFIX,assets.unicorn.studio
 DOMAIN-SUFFIX,static.zenn.studio
 DOMAIN-SUFFIX,embed.zenn.studio
 DOMAIN-SUFFIX,mstdn-s3.o3o.studio
@@ -90,7 +91,7 @@ DOMAIN-SUFFIX,ipfs.litnet.work
 DOMAIN-SUFFIX,static.frame.work
 DOMAIN-SUFFIX,tn.txxx.tube
 DOMAIN-SUFFIX,js.txxx.tube
-DOMAIN-SUFFIX,ipfs.d.tube
+DOMAIN-SUFFIX,media.d.tube
 DOMAIN-SUFFIX,media.remax-prod.eng.remax.tech
 DOMAIN-SUFFIX,static.pepy.tech
 DOMAIN-SUFFIX,packages.jetbrains.team
@@ -222,6 +223,7 @@ DOMAIN-SUFFIX,pichost.top
 DOMAIN-SUFFIX,gitcdn.top
 DOMAIN-SUFFIX,balley.top
 DOMAIN-SUFFIX,akidoo.top
+DOMAIN-SUFFIX,dget.top
 DOMAIN-SUFFIX,css.4jpg.top
 DOMAIN-SUFFIX,cktu01.sbs
 DOMAIN-SUFFIX,bundle.run
@@ -322,6 +324,7 @@ DOMAIN-SUFFIX,open-vsx.org
 DOMAIN-SUFFIX,demotiles.maplibre.org
 DOMAIN-SUFFIX,lichess1.org
 DOMAIN-SUFFIX,design.keyoxide.org
+DOMAIN-SUFFIX,modules.kernelsu.org
 DOMAIN-SUFFIX,api.indexnow.org
 DOMAIN-SUFFIX,assets.exercism.org
 DOMAIN-SUFFIX,david-dm.org
@@ -632,7 +635,6 @@ DOMAIN-SUFFIX,cdn.mozilla.net
 DOMAIN-SUFFIX,minotar.net
 DOMAIN-SUFFIX,jscloud.net
 DOMAIN-SUFFIX,pg2dhpc3p5ec22g3.jkforum.net
-DOMAIN-SUFFIX,play.izanmei.net
 DOMAIN-SUFFIX,file.izanmei.net
 DOMAIN-SUFFIX,cdn-img3.iporntv.net
 DOMAIN-SUFFIX,cdn-img2.iporntv.net
@@ -771,6 +773,7 @@ DOMAIN-SUFFIX,img3.acsta.net
 DOMAIN-SUFFIX,img2.acsta.net
 DOMAIN-SUFFIX,img1.acsta.net
 DOMAIN-SUFFIX,cdn.ywxi.net
+DOMAIN-SUFFIX,static.wwto.net
 DOMAIN-SUFFIX,fonts.sony.net
 DOMAIN-SUFFIX,www-static.ripe.net
 DOMAIN-SUFFIX,static.plus.net
@@ -820,6 +823,7 @@ DOMAIN-SUFFIX,static.coinall.ltd
 DOMAIN-SUFFIX,image.acg.lol
 DOMAIN-SUFFIX,cdn.cbd.int
 DOMAIN-SUFFIX,tile2.intervals.icu
+DOMAIN-SUFFIX,static.izanmei.icu
 DOMAIN-SUFFIX,cthd.icu
 DOMAIN-SUFFIX,time-a.nist.gov
 DOMAIN-SUFFIX,images-assets.nasa.gov
@@ -836,6 +840,10 @@ DOMAIN-SUFFIX,cdn-web.orbstack.dev
 DOMAIN-SUFFIX,logos.composio.dev
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,skypack.dev
+DOMAIN-SUFFIX,latam.orbitor.dev
+DOMAIN-SUFFIX,ipfs.orbitor.dev
+DOMAIN-SUFFIX,apac.orbitor.dev
+DOMAIN-SUFFIX,eu.orbitor.dev
 DOMAIN-SUFFIX,angular.dev
 DOMAIN-SUFFIX,vercel.dev
 DOMAIN-SUFFIX,stats.setapp.macpaw.dev
@@ -919,6 +927,7 @@ DOMAIN-SUFFIX,chargebeestaticv2.com
 DOMAIN-SUFFIX,b5x-sentry.1passwordservices.com
 DOMAIN-SUFFIX,telemetry.1passwordservices.com
 DOMAIN-SUFFIX,cdn.virtuoussoftware.com
+DOMAIN-SUFFIX,thecontentserver.com
 DOMAIN-SUFFIX,superhumanstatic.com
 DOMAIN-SUFFIX,superfiliate-cdn.com
 DOMAIN-SUFFIX,steamusercontent.com
@@ -1189,7 +1198,6 @@ DOMAIN-SUFFIX,meteorclient.com
 DOMAIN-SUFFIX,meetupstatic.com
 DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,cdn.manageengine.com
-DOMAIN-SUFFIX,player.louisvuitton.com
 DOMAIN-SUFFIX,assets.lemonsqueezy.com
 DOMAIN-SUFFIX,cdn.lemonsqueezy.com
 DOMAIN-SUFFIX,unsubscribe-imgs.leavemealone.com
@@ -1720,6 +1728,7 @@ DOMAIN-SUFFIX,player.interactivity.brightcove.com
 DOMAIN-SUFFIX,app.brightback.com
 DOMAIN-SUFFIX,static.prd.borderfree.com
 DOMAIN-SUFFIX,boomio-cdn.com
+DOMAIN-SUFFIX,cdn.boldmethod.com
 DOMAIN-SUFFIX,cdn-www.bluestacks.com
 DOMAIN-SUFFIX,bestjavcdn.com
 DOMAIN-SUFFIX,widgets.automizely.com
@@ -1911,6 +1920,7 @@ DOMAIN-SUFFIX,assets.grammarly.com
 DOMAIN-SUFFIX,image.send.grammarly.com
 DOMAIN-SUFFIX,widget.gotolstoy.com
 DOMAIN-SUFFIX,play.gotolstoy.com
+DOMAIN-SUFFIX,media.glassdoor.com
 DOMAIN-SUFFIX,gitmirror.com
 DOMAIN-SUFFIX,assets.getpocket.com
 DOMAIN-SUFFIX,i.geekflare.com
@@ -2186,6 +2196,7 @@ DOMAIN-SUFFIX,modulous.huffpost.com
 DOMAIN-SUFFIX,fastporndelivery.hqporner.com
 DOMAIN-SUFFIX,cdn.hinative.com
 DOMAIN-SUFFIX,hgagecdn.com
+DOMAIN-SUFFIX,cdn.hero-sms.com
 DOMAIN-SUFFIX,newassets.hcaptcha.com
 DOMAIN-SUFFIX,imgs3.hcaptcha.com
 DOMAIN-SUFFIX,cdn.hashnode.com
@@ -2201,7 +2212,6 @@ DOMAIN-SUFFIX,cdn.getkoala.com
 DOMAIN-SUFFIX,assets.getkirby.com
 DOMAIN-SUFFIX,geoip-js.com
 DOMAIN-SUFFIX,maps.geoapify.com
-DOMAIN-SUFFIX,img4.gelbooru.com
 DOMAIN-SUFFIX,img2.gelbooru.com
 DOMAIN-SUFFIX,scripts.gatorapi.com
 DOMAIN-SUFFIX,gammacdn.com
@@ -2226,6 +2236,7 @@ DOMAIN-SUFFIX,favicone.com
 DOMAIN-SUFFIX,images.fandango.com
 DOMAIN-SUFFIX,graph.facebook.com
 DOMAIN-SUFFIX,static.euronews.com
+DOMAIN-SUFFIX,images.euronews.com
 DOMAIN-SUFFIX,assets.euractiv.com
 DOMAIN-SUFFIX,cdn.equalweb.com
 DOMAIN-SUFFIX,aff.equalweb.com
@@ -2238,6 +2249,7 @@ DOMAIN-SUFFIX,cdn4.edgedatg.com
 DOMAIN-SUFFIX,cdn3.edgedatg.com
 DOMAIN-SUFFIX,cdn2.edgedatg.com
 DOMAIN-SUFFIX,cdn1.edgedatg.com
+DOMAIN-SUFFIX,ipfs.ecolatam.com
 DOMAIN-SUFFIX,vip.dytt-img.com
 DOMAIN-SUFFIX,drivecdn.com
 DOMAIN-SUFFIX,cdn.dribbble.com
@@ -2263,7 +2275,6 @@ DOMAIN-SUFFIX,dynamic-assets.coinbase.com
 DOMAIN-SUFFIX,static-assets.coinbase.com
 DOMAIN-SUFFIX,assets.coinbase.com
 DOMAIN-SUFFIX,assets.codeguru.com
-DOMAIN-SUFFIX,logo.clearbit.com
 DOMAIN-SUFFIX,assets-growth-common.circleci.com
 DOMAIN-SUFFIX,assets-docs.circleci.com
 DOMAIN-SUFFIX,cdn-assets.circleci.com
@@ -2434,6 +2445,8 @@ DOMAIN-SUFFIX,image.prntscr.com
 DOMAIN-SUFFIX,st.prntscr.com
 DOMAIN-SUFFIX,cdn.privacy.com
 DOMAIN-SUFFIX,app-static.eu.posthog.com
+DOMAIN-SUFFIX,us-assets.i.posthog.com
+DOMAIN-SUFFIX,eu-assets.i.posthog.com
 DOMAIN-SUFFIX,cdn77-t.pornoxo.com
 DOMAIN-SUFFIX,cdn77.pornoxo.com
 DOMAIN-SUFFIX,pics.pornfhd.com
@@ -2840,6 +2853,7 @@ DOMAIN-SUFFIX,cdn.openai.com
 DOMAIN-SUFFIX,static.oklink.com
 DOMAIN-SUFFIX,odycdn.com
 DOMAIN-SUFFIX,od-cdn.com
+DOMAIN-SUFFIX,assets.nypost.com
 DOMAIN-SUFFIX,pbc.nypost.com
 DOMAIN-SUFFIX,images.nvidia.com
 DOMAIN-SUFFIX,npmcdn.com
@@ -2879,7 +2893,8 @@ DOMAIN-SUFFIX,miro.medium.com
 DOMAIN-SUFFIX,twemoji.maxcdn.com
 DOMAIN-SUFFIX,static-assets.mapbox.com
 DOMAIN-SUFFIX,tiles.mapbox.com
-DOMAIN-SUFFIX,sato.manyse.com
+DOMAIN-SUFFIX,test.manyse.com
+DOMAIN-SUFFIX,img.manyse.com
 DOMAIN-SUFFIX,cdn2-imgix.macpaw.com
 DOMAIN-SUFFIX,api-lytics.macpaw.com
 DOMAIN-SUFFIX,cdn2.macpaw.com
@@ -2916,6 +2931,8 @@ DOMAIN-SUFFIX,img.icons8.com
 DOMAIN-SUFFIX,bst.icons8.com
 DOMAIN-SUFFIX,statici.icloud.com
 DOMAIN-SUFFIX,icfcdn.com
+DOMAIN-SUFFIX,assets-v2.i-scmp.com
+DOMAIN-SUFFIX,cdn.i-scmp.com
 DOMAIN-SUFFIX,hugoal.com
 DOMAIN-SUFFIX,static.hotjar.com
 DOMAIN-SUFFIX,hommec.com
@@ -3375,6 +3392,7 @@ DOMAIN-SUFFIX,st6-20.vk.com
 DOMAIN-SUFFIX,static-secure-uploads.ui.com
 DOMAIN-SUFFIX,secure-uploads.ui.com
 DOMAIN-SUFFIX,img.community.ui.com
+DOMAIN-SUFFIX,media.identity.ui.com
 DOMAIN-SUFFIX,status.ui.com
 DOMAIN-SUFFIX,static.ui.com
 DOMAIN-SUFFIX,assets.ecomm.ui.com
@@ -3557,8 +3575,6 @@ DOMAIN-SUFFIX,2024cdn.sx
 DOMAIN-SUFFIX,video2.7mmtv.sx
 DOMAIN-SUFFIX,video1.7mmtv.sx
 DOMAIN-SUFFIX,piccdn.7mmtv.sx
-DOMAIN-SUFFIX,img.kemono.su
-DOMAIN-SUFFIX,img.coomer.su
 DOMAIN-SUFFIX,jpg5.su
 DOMAIN-SUFFIX,0x0.st
 DOMAIN-SUFFIX,udata.namespace.so
@@ -3830,6 +3846,7 @@ DOMAIN-SUFFIX,widget.intercom.io
 DOMAIN-SUFFIX,ik.imagekit.io
 DOMAIN-SUFFIX,icon.icepanel.io
 DOMAIN-SUFFIX,cdn.hackaday.io
+DOMAIN-SUFFIX,ipfs.filebase.io
 DOMAIN-SUFFIX,ipfs.denarius.io
 DOMAIN-SUFFIX,rum.cronitor.io
 DOMAIN-SUFFIX,cdn.commento.io
@@ -4124,12 +4141,14 @@ DOMAIN-SUFFIX,images.tg.cc
 DOMAIN-SUFFIX,img.tg.cc
 DOMAIN-SUFFIX,1passwordusercontent.ca
 DOMAIN-SUFFIX,cdn.adsninja.ca
+DOMAIN-SUFFIX,cdn4.focus.bg
 DOMAIN-SUFFIX,components.cyclingfactory.be
 DOMAIN-SUFFIX,images.cyclingfactory.be
 DOMAIN-SUFFIX,abc-cdn.net.au
 DOMAIN-SUFFIX,res.abc.net.au
 DOMAIN-SUFFIX,styleguide-assets.shannons.com.au
 DOMAIN-SUFFIX,newscdn.com.au
+DOMAIN-SUFFIX,subscriptions.news.com.au
 DOMAIN-SUFFIX,tags.news.com.au
 DOMAIN-SUFFIX,ipfs.greyh.at
 DOMAIN-SUFFIX,i.snap.as
@@ -4142,6 +4161,7 @@ DOMAIN-SUFFIX,assets.cloudpilot.ai
 DOMAIN-SUFFIX,api.instantly.ai
 DOMAIN-SUFFIX,sdk.customfit.ai
 DOMAIN-SUFFIX,static.returngo.ai
+DOMAIN-SUFFIX,file.xiaohai.ai
 DOMAIN-SUFFIX,prod-cdn.webtune.ai
 DOMAIN-SUFFIX,widget.docsbot.ai
 DOMAIN-SUFFIX,cdn.aimerce.ai
@@ -4149,6 +4169,7 @@ DOMAIN-SUFFIX,vetted.ai
 DOMAIN-SUFFIX,static.netify.ai
 DOMAIN-SUFFIX,r2.leadsy.ai
 DOMAIN-SUFFIX,cdn.fellou.ai
+DOMAIN-SUFFIX,play.xiaoh.ai
 DOMAIN-SUFFIX,tag.tvads.ai
 DOMAIN-SUFFIX,s3.masto.ai
 DOMAIN-SUFFIX,participants.evolv.ai
