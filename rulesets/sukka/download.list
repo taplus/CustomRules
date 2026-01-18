@@ -32,7 +32,6 @@ DOMAIN-SUFFIX,s3.nl-ams.scw.cloud
 DOMAIN-SUFFIX,s3-website.fr-par.scw.cloud
 DOMAIN-SUFFIX,s3.fr-par.scw.cloud
 DOMAIN-SUFFIX,cdn-builds.paw.cloud
-DOMAIN-SUFFIX,mirror.0-1.cloud
 DOMAIN-SUFFIX,repo.sleeping.town
 DOMAIN-SUFFIX,mirror.globo.tech
 DOMAIN-SUFFIX,centos-stream.ip-connect.info
@@ -280,7 +279,6 @@ DOMAIN-SUFFIX,ftp.ubuntu-tw.net
 DOMAIN-SUFFIX,mirror.steadfast.net
 DOMAIN-SUFFIX,mirrors.spacedump.net
 DOMAIN-SUFFIX,mirror.shastacoe.net
-DOMAIN-SUFFIX,ubuntu.pishgaman.net
 DOMAIN-SUFFIX,mirror.ossplanet.net
 DOMAIN-SUFFIX,mirror.fi.ossplanet.net
 DOMAIN-SUFFIX,mirror.eu.ossplanet.net
@@ -381,7 +379,6 @@ DOMAIN-SUFFIX,mirror.bahnhof.net
 DOMAIN-SUFFIX,mirror.as43289.net
 DOMAIN-SUFFIX,mirror.as35701.net
 DOMAIN-SUFFIX,mirror.as29550.net
-DOMAIN-SUFFIX,mirror.as24220.net
 DOMAIN-SUFFIX,download.amelabs.net
 DOMAIN-SUFFIX,mirror.alwyzon.net
 DOMAIN-SUFFIX,mirrors.zagrio.net
@@ -519,6 +516,7 @@ DOMAIN-SUFFIX,packages-cf.termux.dev
 DOMAIN-SUFFIX,packages.termux.dev
 DOMAIN-SUFFIX,ubuntu.gjolly.dev
 DOMAIN-SUFFIX,releases.warp.dev
+DOMAIN-SUFFIX,pkg.dev
 DOMAIN-SUFFIX,r2.dev
 DOMAIN-SUFFIX,onepluscommunityserver.com
 DOMAIN-SUFFIX,mirrors.standaloneinstaller.com
@@ -655,7 +653,6 @@ DOMAIN-SUFFIX,msdl.microsoft.com
 DOMAIN-SUFFIX,delivery.mp.microsoft.com
 DOMAIN-SUFFIX,mirrors.liquidweb.com
 DOMAIN-SUFFIX,packages.linuxmint.com
-DOMAIN-SUFFIX,ubuntu-mirror.kimiahost.com
 DOMAIN-SUFFIX,download-cdn.jetbrains.com
 DOMAIN-SUFFIX,download.jetbrains.com
 DOMAIN-SUFFIX,cdn.hyperbeam.com
@@ -1086,7 +1083,6 @@ DOMAIN-SUFFIX,dl.devmate.com
 DOMAIN-SUFFIX,mirror.coganng.com
 DOMAIN-SUFFIX,mirror.bacloud.com
 DOMAIN-SUFFIX,download.anydesk.com
-DOMAIN-SUFFIX,mirror.aminidc.com
 DOMAIN-SUFFIX,mirror.alastyr.com
 DOMAIN-SUFFIX,static.adguard.com
 DOMAIN-SUFFIX,pkg.adfinis.com
@@ -1242,7 +1238,6 @@ DOMAIN-SUFFIX,mirrors.nublue.co.uk
 DOMAIN-SUFFIX,anorien.csc.warwick.ac.uk
 DOMAIN-SUFFIX,mirror.ox.ac.uk
 DOMAIN-SUFFIX,mirror.renu.ac.ug
-DOMAIN-SUFFIX,mirror.ucu.ac.ug
 DOMAIN-SUFFIX,ubuntu.org.ua
 DOMAIN-SUFFIX,ftp.gnu.org.ua
 DOMAIN-SUFFIX,alpha-gnu-org.ip-connect.vn.ua
@@ -1500,9 +1495,6 @@ DOMAIN-SUFFIX,mirror.arvancloud.ir
 DOMAIN-SUFFIX,ubuntu.petiak.ir
 DOMAIN-SUFFIX,debian.petiak.ir
 DOMAIN-SUFFIX,mirror.kernel.ir
-DOMAIN-SUFFIX,ctan.yazd.ac.ir
-DOMAIN-SUFFIX,repo.iut.ac.ir
-DOMAIN-SUFFIX,ctan.um.ac.ir
 DOMAIN-SUFFIX,download.projectbluefin.io
 DOMAIN-SUFFIX,go.opentelemetry.io
 DOMAIN-SUFFIX,packagecloud.io
@@ -1791,7 +1783,6 @@ DOMAIN-SUFFIX,mirror.csclub.uwaterloo.ca
 DOMAIN-SUFFIX,mirror.dsrg.utoronto.ca
 DOMAIN-SUFFIX,mirror.cpsc.ucalgary.ca
 DOMAIN-SUFFIX,download.mersenne.ca
-DOMAIN-SUFFIX,mirrors.switch.ca
 DOMAIN-SUFFIX,mirror.estone.ca
 DOMAIN-SUFFIX,mirror.rafal.ca
 DOMAIN-SUFFIX,muug.ca
