@@ -67,6 +67,7 @@ DOMAIN-SUFFIX,fedorapeople.org
 DOMAIN-SUFFIX,mirror.ubuntu.serverforge.org
 DOMAIN-SUFFIX,mirror.mci-1.serverforge.org
 DOMAIN-SUFFIX,getcomposer.org
+DOMAIN-SUFFIX,cdn.evolution-x.org
 DOMAIN-SUFFIX,mirror.cyberchains.org
 DOMAIN-SUFFIX,cpan.cpantesters.org
 DOMAIN-SUFFIX,dl-cdn.alpinelinux.org
