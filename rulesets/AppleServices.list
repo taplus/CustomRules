@@ -11,6 +11,7 @@ DOMAIN,apple.comscoreresearch.com
 DOMAIN,news-assets.apple.com
 DOMAIN,news-client.apple.com
 DOMAIN-SUFFIX,apple.news
+DOMAIN-REGEX,^(?=.*apple)(?=.*news).*
 # iCloud Private Relay
 DOMAIN,mask.apple-dns.net
 DOMAIN,canary.mask.apple-dns.net
