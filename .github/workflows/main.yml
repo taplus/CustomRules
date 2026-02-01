@@ -28,7 +28,7 @@ jobs:
 
       - name: Run
         run: |
-          python ./rulesets/sukka/convert.py
+          # python ./rulesets/sukka/convert.py
           python ./rulesets/custom_list/merge.py
 
       - name: Commit
