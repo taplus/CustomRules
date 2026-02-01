@@ -756,6 +756,7 @@ DOMAIN-SUFFIX,s3-accesspoint.us-gov-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.us-gov-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint-fips.dualstack.us-gov-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.dualstack.us-gov-west-1.amazonaws.com
+DOMAIN-SUFFIX,s3-website.dualstack.us-gov-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-fips.dualstack.us-gov-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3.dualstack.us-gov-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-fips.us-gov-west-1.amazonaws.com
@@ -766,6 +767,7 @@ DOMAIN-SUFFIX,s3-accesspoint.us-gov-east-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.us-gov-east-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint-fips.dualstack.us-gov-east-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.dualstack.us-gov-east-1.amazonaws.com
+DOMAIN-SUFFIX,s3-website.dualstack.us-gov-east-1.amazonaws.com
 DOMAIN-SUFFIX,s3-fips.dualstack.us-gov-east-1.amazonaws.com
 DOMAIN-SUFFIX,s3.dualstack.us-gov-east-1.amazonaws.com
 DOMAIN-SUFFIX,s3-fips.us-gov-east-1.amazonaws.com
@@ -1509,6 +1511,7 @@ DOMAIN-SUFFIX,registry.terraform.io
 DOMAIN-SUFFIX,ubuntu.letscloud.io
 DOMAIN-SUFFIX,mirror.letscloud.io
 DOMAIN-SUFFIX,mirror.datamossa.io
+DOMAIN-SUFFIX,version.cyberduck.io
 DOMAIN-SUFFIX,update.cyberduck.io
 DOMAIN-SUFFIX,release.runcloud.io
 DOMAIN-SUFFIX,mirror.katapult.io
@@ -1751,6 +1754,7 @@ DOMAIN-SUFFIX,builds.paranoidandroid.co
 DOMAIN-SUFFIX,mirrors.pardisco.co
 DOMAIN-SUFFIX,mirrors.atlas.net.co
 DOMAIN-SUFFIX,mirror.unimagdalena.edu.co
+DOMAIN-SUFFIX,cas-bridge.xethub.hf.co
 DOMAIN-SUFFIX,elmirror.cl
 DOMAIN-SUFFIX,ubuntu-mirror.puq.apoapsis.cl
 DOMAIN-SUFFIX,debian-mirror.puq.apoapsis.cl
