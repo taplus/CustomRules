@@ -1,4 +1,6 @@
 # Apple News
+DOMAIN,gateway.icloud.com
+DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,gsp-ssl.ls.apple.com
 DOMAIN,newsletter-edge.apple.com
 DOMAIN,news-app-events.apple.com
