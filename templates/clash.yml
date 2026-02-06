@@ -1,4 +1,4 @@
-# update time 2026-02-02 19:18:51
+# update time 2026-02-06 23:30:51
 allow-lan: true
 dns:
   default-nameserver:
@@ -157,6 +157,7 @@ dns:
   - epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
   - ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
   - ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org
+  - .eu.org
   fake-ip-filter-mode: blacklist
   fallback:
   - https://cloudflare-dns.com/dns-query
