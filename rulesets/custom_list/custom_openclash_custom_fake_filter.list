@@ -1,11 +1,13 @@
 # Google VPN                                                                                                                                                                                         
-+.cloud.cupronickel.goog                                                                                                                                                                                        
-+.googleapis.com                                                                                                                                                                                                
-na.b.g-tun.com                                                                                                                                                                                                    
-connectivitycheck.gstatic.com                                                                                                                                                                                                                                                                                                                                                                                
+"+.cloud.cupronickel.goog"                                                                                                                                                                                      
+"+.googleapis.com"                                                                                                                                                                                                
+"na.b.g-tun.com"                                                                                                                                                                                                    
+"connectivitycheck.gstatic.com"                                                                                                                                                                                                                                                                                                                                                                                
 # Vodafone
-gsp-ssl.ls.apple.com
-gspe1-ssl.ls.apple.com                                                                                                                                                                                           
-epdg.epc.mnc015.mcc234.pub.3gppnetwork.org                                                                                                                                                                  
-ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org                                                                                                                                                            
-ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org
+"gsp-ssl.ls.apple.com"
+"gspe1-ssl.ls.apple.com"                                                                                                                                                                                           
+"epdg.epc.mnc015.mcc234.pub.3gppnetwork.org"                                                                                                                                                                  
+"ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org"                                                                                                                                                            
+"ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org"
+# Custom
+".eu.org"
