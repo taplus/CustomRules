@@ -201,10 +201,7 @@ dns:
   proxy-server-nameserver:
   - https://doh.pub/dns-query
   respect-rules: true
-  use-hosts: true
 external-controller: 0.0.0.0:9596
-hosts:
-  www.asusrouter.com: 192.168.0.1
 log-level: silent
 mode: Rule
 port: 7890
