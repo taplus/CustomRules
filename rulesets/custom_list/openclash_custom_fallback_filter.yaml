@@ -1,4 +1,4 @@
-# update time 2026-02-08 10:01:39
+# update time 2026-02-15 09:46:38
 # If IP addresses resolved with servers in `nameservers` are in the specified
 # subnets below, they are considered invalid and results from `fallback`
 # servers are used instead.
