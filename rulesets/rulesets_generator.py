@@ -64,13 +64,51 @@ def download_and_transform():
         try:
             with open(output_path, 'w', encoding='utf-8') as f:
                 f.write(time_label())
-                f.write("# Cited from Sukka's Ruleset with Thanks\n")
+                f.write("# Cited from Sukka's Rulesets with Thanks\n")
                 f.write("payload:\n")
                 for rule in clean_rules.keys():
                     f.write(f"  - '{rule}'\n")
         except Exception as e:
             continue
 
+def extrafile_transform():
+    # 堆成屎了，不要看~~~
+    extra_url = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.list"
+    # SSL 配置
+    ctx = ssl.create_default_context()
+    ctx.check_hostname = False
+    ctx.verify_mode = ssl.CERT_NONE
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+    output_path = f"{os.getcwd()}/rulesets/sukka/non_ip/{os.path.splitext(os.path.basename(extra_url))[0]}.yaml"
+    # 创建目录
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    try:
+        req = urllib.request.Request(extra_url, headers=headers)
+        with urllib.request.urlopen(req, context=ctx) as response:
+            content = response.read().decode('utf-8')
+    except Exception as e:
+        raise ConnectionError
+    # 按行分割并处理
+    clean_rules={}
+    for line in content.splitlines():
+        clean_line = line.strip()
+        # 过滤掉空行和以 # 开头的注释行
+        if not clean_line or clean_line.startswith('#'):
+            continue
+        # 去掉重复
+        if clean_line not in clean_rules:
+            clean_rules[clean_line] = None
+    # 写入 YAML 文件
+    try:
+        with open(output_path, 'w', encoding='utf-8') as f:
+            f.write(time_label())
+            f.write("# Cited from Blackmatrix7 Rulesets with Thanks\n")
+            f.write("payload:\n")
+            for rule in clean_rules.keys():
+                f.write(f"  - '{rule}'\n")
+    except Exception as e:
+        raise SyntaxError
 
 if __name__ == "__main__":
     download_and_transform()
+    extrafile_transform()
