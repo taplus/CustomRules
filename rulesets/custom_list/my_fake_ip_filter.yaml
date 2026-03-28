@@ -1,4 +1,5 @@
 # update time 2026-03-28 16:33:21
+payload:
  - '+.m2m'
  - '+.bogon'
  - 'local.adguard.org'
