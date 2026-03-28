@@ -79,7 +79,7 @@ def extrafile_transform():
     ctx.check_hostname = False
     ctx.verify_mode = ssl.CERT_NONE
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
-    output_path = f"{os.getcwd()}/rulesets/sukka/non_ip/{os.path.splitext(os.path.basename(extra_url))[0]}.yaml"
+    output_path = f"{os.getcwd()}/rulesets/sukka/non_ip/{os.path.splitext(os.path.basename(extra_url))[0].lower()}.yaml"
     # 创建目录
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     try:
