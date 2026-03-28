@@ -1,5 +1,5 @@
-# Update Time 2026-03-28 21:13:44
-# Cited from Sukka's Ruleset with Thanks
+# Update Time 2026-03-28 21:51:08
+# Cited from Sukka's Rulesets with Thanks
 payload:
   - '+.static.microsoft'
   - 'cdn.arcade.software'
@@ -2492,6 +2492,7 @@ payload:
   - 'web-assets.zendesk.com'
   - 'assets.zendesk.com'
   - 'img.youtube.com'
+  - 'abre-videos.youjizz.com'
   - 'cdne-pics.youjizz.com'
   - '+.yelpcdn.com'
   - 'cdn.yamibuy.com'
