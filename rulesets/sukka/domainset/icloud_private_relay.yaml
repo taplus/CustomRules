@@ -1,0 +1,9 @@
+# Update Time 2026-03-28 21:13:44
+# Cited from Sukka's Ruleset with Thanks
+payload:
+  - 'mask.apple-dns.net'
+  - 'canary.mask.apple-dns.net'
+  - 'mask-canary.icloud.com'
+  - 'mask-api.icloud.com'
+  - 'mask-h2.icloud.com'
+  - 'mask.icloud.com'

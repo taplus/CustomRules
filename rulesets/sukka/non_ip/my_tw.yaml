@@ -1,0 +1,15 @@
+# Update Time 2026-03-28 21:13:47
+# Cited from Sukka's Ruleset with Thanks
+payload:
+  - 'DOMAIN,av.jkforum.net'
+  - 'DOMAIN-SUFFIX,cdn.hinet.net'
+  - 'DOMAIN,www.manhuagui.com'
+  - 'DOMAIN,yymanhua.com'
+  - 'DOMAIN,www.yymanhua.com'
+  - 'DOMAIN,avbebe.com'
+  - 'DOMAIN,mhgui.com'
+  - 'DOMAIN,hanime1.me'
+  - 'DOMAIN-WILDCARD,*.ffzy-online?.com'
+  - 'DOMAIN-WILDCARD,*.ffzy-play?.com'
+  - 'DOMAIN-WILDCARD,*.lz-cdn?.com'
+  - 'DOMAIN-WILDCARD,*.lz-cdn??.com'

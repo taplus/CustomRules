@@ -1,0 +1,8 @@
+# Update Time 2026-03-28 21:13:51
+# Cited from Sukka's Ruleset with Thanks
+payload:
+  - 'IP-ASN,62041'
+  - 'IP-ASN,62014'
+  - 'IP-ASN,59930'
+  - 'IP-ASN,44907'
+  - 'IP-ASN,211157'

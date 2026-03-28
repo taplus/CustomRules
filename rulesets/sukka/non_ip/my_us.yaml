@@ -1,0 +1,10 @@
+# Update Time 2026-03-28 21:13:48
+# Cited from Sukka's Ruleset with Thanks
+payload:
+  - 'DOMAIN,copymanga.site'
+  - 'DOMAIN,jav.guru'
+  - 'DOMAIN-SUFFIX,crunchyroll.com'
+  - 'DOMAIN,www.coinbase.com'
+  - 'DOMAIN-SUFFIX,mandaom.com'
+  - 'DOMAIN,javdb.com'
+  - 'DOMAIN,cableav.tv'
