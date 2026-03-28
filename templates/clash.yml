@@ -55,6 +55,6 @@ rule-providers:
   my_fake_ip_filter:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/my_fake_ip_filter.yaml"
+    url: "https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/custom_list/my_fake_ip_filter.yaml"
     path: ./providers/rule-provider_my_fake_ip_filter.yaml
     interval: 86400
