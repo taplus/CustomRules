@@ -1,4 +1,4 @@
-# Update Time 2026-03-28 23:21:28
+# Update Time 2026-03-29 09:53:22
 # Cited from Sukka's Rulesets with Thanks
 payload:
   - 'net-ookla-dc.p.foundation'
@@ -191,6 +191,7 @@ payload:
   - 'speedtest.premieronline.net'
   - 'speedtest.gretna.myriverstreet.net'
   - 'speedtest.cenosnetworks.net'
+  - 'speedtest-iowa.airstreamcomm.net'
   - 'speedtest-zl-1.zoominternet.net'
   - 'speedtest-rs-1.zoominternet.net'
   - 'speedtest-rd-1.zoominternet.net'
@@ -2128,6 +2129,7 @@ payload:
   - 'speed.catlabroadband.in'
   - 'dehradun.blueskynetwork.in'
   - 'speedtest1.nexabroadband.in'
+  - 'st2.mtplbroadband.in'
   - 'speedtest.maxnetdigital.in'
   - 'speedtest.apexbroadband.in'
   - 'sp1-mum.youbroadband.in'
