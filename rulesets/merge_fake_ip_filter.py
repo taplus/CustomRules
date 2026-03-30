@@ -25,10 +25,10 @@ def merge_rules():
     # 去掉重复行
     merged_rules = {}
 
-    # 创建一个未验证的 SSL 上下文，防止某些网络环境下报 SSL 证书错误
     ctx = ssl.create_default_context()
-    ctx.check_hostname = False
-    ctx.verify_mode = ssl.CERT_NONE
+    # 创建一个未验证的 SSL 上下文，防止某些网络环境下报 SSL 证书错误
+    # ctx.check_hostname = False
+    # ctx.verify_mode = ssl.CERT_NONE
 
     for url in urls:
         try:
@@ -48,7 +48,8 @@ def merge_rules():
                     if clean_line not in merged_rules:
                         merged_rules[clean_line] = None
         except Exception as e:
-            raise ConnectionError
+            print(f"[ERROR] Failed to fetch {url}: {e}")
+            continue
 
     # 将去重后的规则进行字母排序，方便查阅
     # merged_rules = list(merged_rules)
@@ -62,10 +63,12 @@ def merge_rules():
         with open(output_filename, 'w', encoding='utf-8') as f:
             f.write(time_label())
             f.write("payload:\n")
-            for rule in merged_rules.keys():
-                f.write(f"  - '{rule}'\n")
+            for rule in merged_rules.keys():                
+                safe_rule = rule.replace("'", "''")
+                f.write(f"  - '{safe_rule}'\n")
         
     except Exception as e:
+        print(f"[ERROR] Failed to write file: {e}")
         raise FileExistsError
 
 if __name__ == "__main__":
