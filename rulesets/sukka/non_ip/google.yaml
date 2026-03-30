@@ -1,5 +1,5 @@
-# Update Time 2026-03-29 15:37:54
-# Cited from Blackmatrix7 Rulesets with Thanks
+# Update Time 2026-03-30 15:22:10
+# Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN,voice.telephony.goog'
   - 'DOMAIN-SUFFIX,0emm.com'

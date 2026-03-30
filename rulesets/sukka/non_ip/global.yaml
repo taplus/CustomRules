@@ -1,5 +1,5 @@
-# Update Time 2026-03-29 15:37:52
-# Cited from Sukka's Rulesets with Thanks
+# Update Time 2026-03-30 15:22:06
+# Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN-SUFFIX,community'
   - 'DOMAIN-SUFFIX,network'

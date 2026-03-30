@@ -1,5 +1,5 @@
-# Update Time 2026-03-29 15:37:51
-# Cited from Sukka's Rulesets with Thanks
+# Update Time 2026-03-30 15:22:05
+# Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'net-ookla-dc.p.foundation'
   - 'speedtest.kouten.barcelona'
@@ -2303,6 +2303,7 @@ payload:
   - 'testdebithom.enes.fr'
   - 'speedtest.dscw.fr'
   - 'ooklaserver.aryk.fr'
+  - 'www.librespeed.fi'
   - 'speedtest1-qupra-ams-nl.ebgp.fi'
   - 'ookla.cozycritters.eu'
   - 'speedtest.konverto.eu'
