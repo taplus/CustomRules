@@ -1,4 +1,4 @@
-# Update Time 2026-03-30 15:22:04
+# Update Time 2026-04-05 09:55:02
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.fnbuilds.services'
@@ -254,6 +254,7 @@ payload:
   - 'apache.website-solution.net'
   - 'gpl.savoirfairelinux.net'
   - 'ctan.mc1.root.project-creative.net'
+  - '+.launchpadcontent.net'
   - 'debian-archive.trafficmanager.net'
   - '+.mirrors.lucidnetworks.net'
   - 'fdroid.tetaneutral.net'
@@ -604,6 +605,7 @@ payload:
   - 'mirrors.usinternet.com'
   - '+.mirror.thegigabit.com'
   - 'mirror.pit.teraswitch.com'
+  - 'download.technitium.com'
   - 'mirror.team-cymru.com'
   - 'downloads.slack-edge.com'
   - 'mirror.plusserver.com'
@@ -1145,6 +1147,9 @@ payload:
   - 'dl.google.com'
   - 'dl.l.google.com'
   - 'codeload.github.com'
+  - 'omtmapupdate.garmin.com'
+  - 'worldwide.omtmapupdate.garmin.com'
+  - 'download.garmin.com'
   - 'download.edovia.com'
   - 'updates.edovia.com'
   - 'download.eassos.com'
@@ -1172,6 +1177,7 @@ payload:
   - 'addins.deepl.com'
   - 'download.cpuid.com'
   - '+.swupdate.chaos.com'
+  - 'extensionupdater.brave.com'
   - 'componentupdater.brave.com'
   - 'go-updater.brave.com'
   - '+.s3.brave.com'
