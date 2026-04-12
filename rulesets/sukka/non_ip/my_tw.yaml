@@ -1,4 +1,4 @@
-# Update Time 2026-04-05 09:55:04
+# Update Time 2026-04-12 09:59:55
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN,av.jkforum.net'
@@ -8,6 +8,7 @@ payload:
   - 'DOMAIN,www.yymanhua.com'
   - 'DOMAIN,avbebe.com'
   - 'DOMAIN,mhgui.com'
+  - 'DOMAIN,javdb.com'
   - 'DOMAIN,hanime1.me'
   - 'DOMAIN-WILDCARD,*.ffzy-online?.com'
   - 'DOMAIN-WILDCARD,*.ffzy-play?.com'

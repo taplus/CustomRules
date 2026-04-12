@@ -1,4 +1,4 @@
-# Update Time 2026-04-05 09:55:02
+# Update Time 2026-04-12 09:59:52
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.fnbuilds.services'
@@ -687,6 +687,7 @@ payload:
   - 'mirror.biznetgio.com'
   - 'product-downloads.atlassian.com'
   - 'gnu.askapache.com'
+  - 'release.arcboxcdn.com'
   - 'boot.arcboxcdn.com'
   - 'downloadr2.apkmirror.com'
   - '+.s3-website-ap-southeast-2.amazonaws.com'
@@ -1216,6 +1217,7 @@ payload:
   - '+.public.ecr.aws'
   - 'su.virtualbuddy.app'
   - 'cdn.organicmaps.app'
+  - 'dl.vibeisland.app'
   - 'updates.istatmenus.app'
   - 'dl.vanadium.app'
   - 'releases.landrop.app'
@@ -1908,5 +1910,6 @@ payload:
   - 'updates.64gr.am'
   - '+.mirror.gnc.am'
   - '+.mirror.homacloud.ai'
+  - 'downloads.claude.ai'
   - 'mirror.host.ag'
   - 'mirror.bg.host.ag'

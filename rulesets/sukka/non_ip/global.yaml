@@ -1,4 +1,4 @@
-# Update Time 2026-04-05 09:55:04
+# Update Time 2026-04-12 09:59:54
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN-SUFFIX,community'
@@ -279,6 +279,7 @@ payload:
   - 'DOMAIN-SUFFIX,mil'
   - 'DOMAIN-SUFFIX,hsex.men'
   - 'DOMAIN-SUFFIX,lol'
+  - 'DOMAIN-SUFFIX,intervals.icu'
   - 'DOMAIN-SUFFIX,gov'
   - 'DOMAIN-SUFFIX,gle'
   - 'DOMAIN-SUFFIX,libgen.fun'
@@ -815,6 +816,7 @@ payload:
   - 'DOMAIN-SUFFIX,github.com'
   - 'DOMAIN-SUFFIX,getchu.com'
   - 'DOMAIN-SUFFIX,genius.com'
+  - 'DOMAIN-SUFFIX,garmin.com'
   - 'DOMAIN-SUFFIX,framer.com'
   - 'DOMAIN-SUFFIX,forbes.com'
   - 'DOMAIN-SUFFIX,flickr.com'
