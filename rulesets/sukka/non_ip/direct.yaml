@@ -1,4 +1,4 @@
-# Update Time 2026-04-12 09:59:54
+# Update Time 2026-04-19 10:04:22
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN-SUFFIX,localdomain'
@@ -96,7 +96,7 @@ payload:
   - 'DOMAIN-SUFFIX,pthome.net'
   - 'DOMAIN-SUFFIX,nicept.net'
   - 'DOMAIN-SUFFIX,joyhd.net'
-  - 'DOMAIN,127.atlas.skk.moe'
+  - 'DOMAIN,127.skk.moe'
   - 'DOMAIN-SUFFIX,m2m'
   - 'DOMAIN-SUFFIX,lan'
   - 'DOMAIN,homerouter.cpe'

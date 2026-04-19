@@ -1,4 +1,4 @@
-# Update Time 2026-04-12 09:59:53
+# Update Time 2026-04-19 10:04:21
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'net-ookla-dc.p.foundation'
@@ -11,6 +11,7 @@ payload:
   - 'mia01.screenshot.download'
   - 'lax01.screenshot.download'
   - 'speedtest-net-fra.dispaisy.systems'
+  - 'speed-mix.dispaisy.systems'
   - 'ams-speedtest.isp.htb.systems'
   - 'skynet.level3.support'
   - 'ookla-speedtest.starverse.network'
@@ -382,6 +383,7 @@ payload:
   - 'ookla.mia.teracast.net'
   - 'speedtest.telmekom.net'
   - 'speedtest.supranet.net'
+  - 'speedtest.princemj.net'
   - 'speedtest.previder.net'
   - 'speedtest.polycomm.net'
   - '+.speedtest.ozarksgo.net'
@@ -947,6 +949,7 @@ payload:
   - 'speedtest.spectrumvoip.com'
   - 'mobile.shunicomtest.com'
   - 'chi-speedtest.shifthosting.com'
+  - 'atl-speedtest.shifthosting.com'
   - 'speedtest.serverpronto.com'
   - 'speedtest.roweinternet.com'
   - 'speedtest.osnbroadband.com'
@@ -1084,6 +1087,7 @@ payload:
   - 'chicago.speedtest.brightspeed.com'
   - 'speedtest001.bfinetworks.com'
   - 'speedtest-tr.atakanozban.com'
+  - 'speedtestnorthpointe.arkdnacloud.com'
   - 'speedtesttucson.arkdnacloud.com'
   - 'speedtestmarion.arkdnacloud.com'
   - 'ookla-1.aerioncloud.com'
@@ -1200,6 +1204,7 @@ payload:
   - 'speedtest.stratoone.com'
   - 'speedtest1.stgscloud.com'
   - 'speedtest.stgscloud.com'
+  - 'speed.stgscloud.com'
   - 'speedtest.stellarbb.com'
   - 'speedtest.springcom.com'
   - 'speedtest.spacelink.com'
@@ -1760,6 +1765,7 @@ payload:
   - 'speedtest.host.com.tw'
   - '+.speedtest.aptg.com.tw'
   - 'speedtest.vee.com.tw'
+  - 'speedtest.15.com.tw'
   - 'speedtestwa1.sweet.tv'
   - 'gigenet.tstt.net.tt'
   - 'turknet16.residential.tr'
