@@ -1,4 +1,4 @@
-# Update Time 2026-04-19 10:04:20
+# Update Time 2026-04-26 10:07:05
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.static.microsoft'
@@ -115,6 +115,7 @@ payload:
   - '+.am-cdn.pics'
   - '+.codeberg.page'
   - '+.instant.page'
+  - 'images.status.page'
   - '+.kinsta.page'
   - 'statics-prod.mirrordaily.news'
   - 'assets-next.matters.news'
@@ -349,6 +350,9 @@ payload:
   - 'proxy.spigotmc.org'
   - '+.rollupjs.org'
   - '+.recharts.org'
+  - 'gis.pinkbike.org'
+  - 'ep1.pinkbike.org'
+  - 'es.pinkbike.org'
   - '+.parceljs.org'
   - 'static.opensuse.org'
   - 'open-vsx.org'
@@ -1134,7 +1138,7 @@ payload:
   - 'js.verygoodvault.com'
   - 'cdn.tvpagewidgets.com'
   - '+.transcend-cdn.com'
-  - 'tile.thunderforest.com'
+  - '+.tile.thunderforest.com'
   - '+.bundle.thimatic-apps.com'
   - 'cdn.thewirecutter.com'
   - 'files.thehackernews.com'
@@ -1615,6 +1619,7 @@ payload:
   - 'statics.streamable.com'
   - '+.sthlstatic.com'
   - 'cdn.staticswin.com'
+  - 'tiles-eu.stadiamaps.com'
   - 'tiles.stadiamaps.com'
   - 's3.stackabuse.com'
   - 'img.sparknotes.com'
@@ -2902,6 +2907,7 @@ payload:
   - 'website-prod.cache.wpscdn.com'
   - 'frontend-apps.workos.com'
   - 'cdn.workos.com'
+  - '+.wklcdn.com'
   - 'embed-cloudfront.wistia.com'
   - 'embed-ssl.wistia.com'
   - 'fast.wistia.com'
@@ -3043,6 +3049,7 @@ payload:
   - 'assets.nypost.com'
   - 'pbc.nypost.com'
   - 'images.nvidia.com'
+  - 'brand-assets.cne.ngc.nvidia.com'
   - '+.npmcdn.com'
   - 'images.now-tv.com'
   - 'i.niupic.com'
