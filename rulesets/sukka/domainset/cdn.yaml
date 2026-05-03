@@ -1,4 +1,4 @@
-# Update Time 2026-04-26 10:07:05
+# Update Time 2026-05-03 10:14:02
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.static.microsoft'
@@ -245,6 +245,7 @@ payload:
   - 'css.4jpg.top'
   - '+.cktu01.sbs'
   - '+.bundle.run'
+  - 'cdn.mer.run'
   - '+.esm.run'
   - 'content.any.run'
   - 'i.mij.rip'
@@ -329,6 +330,7 @@ payload:
   - 'creativajs.altervista.org'
   - 'intake-logging.wikimedia.org'
   - 'upload.wikimedia.org'
+  - 'maps.wikimedia.org'
   - 'cdn.travis-ci.org'
   - 'light.spicegems.org'
   - 'user-uploads.perchance.org'
