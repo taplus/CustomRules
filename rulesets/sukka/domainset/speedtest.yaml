@@ -1,4 +1,4 @@
-# Update Time 2026-05-05 14:31:44
+# Update Time 2026-05-10 10:26:05
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'net-ookla-dc.p.foundation'
@@ -244,6 +244,7 @@ payload:
   - '+.speedtest.windstream.net'
   - 'speedtest.twinvalley.net'
   - 'dal-speedtest.transtelco.net'
+  - 'speed.tnahosting.net'
   - 'speedtest.tcaexpress.net'
   - 'speedtest31.suddenlink.net'
   - 'speedtest27.suddenlink.net'
@@ -1968,6 +1969,7 @@ payload:
   - 'nl.itdatatelecom.ro'
   - 'speedtest.byteshield.ro'
   - 'speed.uk.lon.m247.ro'
+  - 'jp.speedtest.bug.pw'
   - 'smtest.supermedia.pl'
   - 'speed2.fiberlink.pl'
   - 'war-o1.speedtest.orange.pl'
@@ -2197,6 +2199,8 @@ payload:
   - 'speedtest.igennetworks.in'
   - 'stmum.estointernet.in'
   - 'sp1.denbroadband.in'
+  - 'stladhuka.cncbroadband.in'
+  - 'speedtest.cncbroadband.in'
   - 'stest.broadstarnet.in'
   - 'speedtest.sgbroadband.in'
   - 'sp1.mnetconnect.in'
@@ -2216,6 +2220,7 @@ payload:
   - 'speedtest.csfibernet.in'
   - 'speedtestmumbai.chatsignal.in'
   - 'sp.atcinfocom.in'
+  - 'ns1.anlnetwork.in'
   - 'speedtest.willaegis.in'
   - 'ookla.speedking.in'
   - 'guwahati.neconnect.in'
@@ -2295,7 +2300,9 @@ payload:
   - 'speedtest.ssnetcom.co.in'
   - 'speed.lazygone.co.in'
   - 'speedtest.rpworld.co.in'
+  - 'speedtestjld.netplus.co.in'
   - 'speedtestchd.netplus.co.in'
+  - 'speedtest.netplus.co.in'
   - 'test.geocity.co.in'
   - 'speedtest.echonet.co.in'
   - 'speedtestmum.citynet.co.in'

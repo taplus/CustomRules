@@ -1,4 +1,4 @@
-# Update Time 2026-05-05 14:31:44
+# Update Time 2026-05-10 10:26:05
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN-SUFFIX,apple.news'
@@ -17,7 +17,6 @@ payload:
   - 'DOMAIN-SUFFIX,me.com'
   - 'DOMAIN-SUFFIX,appsto.re'
   - 'DOMAIN-SUFFIX,apple.co'
-  - 'PROCESS-NAME,netbiosd'
   - 'PROCESS-NAME,com.apple.geod'
   - 'PROCESS-NAME,mapspushd'
   - 'PROCESS-NAME,com.apple.Maps'
@@ -26,3 +25,4 @@ payload:
   - 'PROCESS-NAME,findmydevice-user-agent'
   - 'PROCESS-NAME,CoreLocationAgent'
   - 'PROCESS-NAME,WeatherWidget'
+  - 'IP-CIDR,17.0.0.0/8,no-resolve'

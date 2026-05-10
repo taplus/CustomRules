@@ -1,4 +1,4 @@
-# Update Time 2026-05-05 14:31:44
+# Update Time 2026-05-10 10:26:04
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.static.microsoft'
@@ -366,6 +366,7 @@ payload:
   - 'api.indexnow.org'
   - 'assets.exercism.org'
   - 'david-dm.org'
+  - 'get-it-on.codeberg.org'
   - 'design.codeberg.org'
   - 'fonts.codeberg.org'
   - 'static.aizanmei.org'
@@ -906,6 +907,7 @@ payload:
   - 'biomejs.dev'
   - '+.angular.dev'
   - '+.vercel.dev'
+  - 'shields.rbtlog.dev'
   - 'stats.setapp.macpaw.dev'
   - 'lucide.dev'
   - 'assets.github.dev'
@@ -4425,6 +4427,7 @@ payload:
   - 'solve-widget.forethought.ai'
   - '+.shortpixel.ai'
   - 'pplx-next-static-public.perplexity.ai'
+  - 'frontend-cdn.perplexity.ai'
   - 'r2cdn.perplexity.ai'
   - 'cdn.engagement.ai'
   - 'assets.cloudpilot.ai'
