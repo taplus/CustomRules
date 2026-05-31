@@ -1,4 +1,4 @@
-# Update Time 2026-05-24 10:40:59
+# Update Time 2026-05-31 10:50:23
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'net-ookla-dc.p.foundation'
@@ -1165,6 +1165,7 @@ payload:
   - 'speedtesttucson.arkdnacloud.com'
   - 'speedtestmarion.arkdnacloud.com'
   - 'speedtest.altamahaemc.com'
+  - 'ookla-estepona.aerioncloud.com'
   - 'ookla-toronto.aerioncloud.com'
   - 'ookla-1.aerioncloud.com'
   - 'speedtest.zoomtelcom.com'
@@ -1420,6 +1421,7 @@ payload:
   - 'txg-speedtest.infinirc.com'
   - 'speedtest.infinirc.com'
   - 'speed.inet-isp.com'
+  - 'velocidade.hrcfiber.com'
   - 'tr.hostligo.com'
   - 'speedtest.hostimux.com'
   - 'speedtest.hlinknet.com'
@@ -1455,6 +1457,7 @@ payload:
   - 'babeltik.com'
   - 'speedtest.3jglobal.com'
   - 'speedtest.0dayhost.com'
+  - 'siliguri.zitatel.com'
   - 'speed.x-idleb.com'
   - 'speedtest01.wowrack.com'
   - '+.wifiman.com'
@@ -2858,6 +2861,7 @@ payload:
   - 'ookla.amazoniasat-isp.com.br'
   - 'speedtest.albatroznetwork.com.br'
   - 'speedtest.agilityparacuru.com.br'
+  - 'teste.wnettecnologia.com.br'
   - 'velocidade.webzoomtelecom.com.br'
   - 'teste.topnetservices.com.br'
   - 'speedtest.saidnettelecom.com.br'

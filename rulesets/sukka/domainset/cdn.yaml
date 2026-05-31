@@ -1,4 +1,4 @@
-# Update Time 2026-05-24 10:40:58
+# Update Time 2026-05-31 10:50:21
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.static.microsoft'
@@ -418,6 +418,7 @@ payload:
   - 'tileserver.gnome.org'
   - 'static.gnome.org'
   - '+.eggjs.org'
+  - 'error.c.cdn77.org'
   - '+.hits.b3log.org'
   - 'static.arxiv.org'
   - '+.91pic.org'
@@ -3400,6 +3401,7 @@ payload:
   - '+.fbsbx.com'
   - '+.fbcdn.com'
   - 'cdn.faire.com'
+  - '+.f-cdn.com'
   - 'img.etimg.com'
   - 'dz2cdn1.dzone.com'
   - '+.drtst.com'
@@ -4110,6 +4112,7 @@ payload:
   - '+.ipfs.denarius.io'
   - 'assets.customer.io'
   - '+.rum.cronitor.io'
+  - '+.fonts.coollabs.io'
   - '+.cloudimg.io'
   - 'static.assetlab.io'
   - 'code.upscope.io'
@@ -4451,6 +4454,7 @@ payload:
   - 'static.returngo.ai'
   - 'prod-cdn.webtune.ai'
   - 'cms.mistral.ai'
+  - 'widget.prod.equally.ai'
   - 'widget.docsbot.ai'
   - 'cdn.aimerce.ai'
   - 'static.zanmei.ai'
@@ -4470,6 +4474,7 @@ payload:
   - 'cdn.roof.ai'
   - 'metrics.kapa.ai'
   - 'widget.kapa.ai'
+  - 'cdn.gist.ai'
   - 'cdn.fera.ai'
   - 'assets-docs.dify.ai'
   - 'assets.dify.ai'

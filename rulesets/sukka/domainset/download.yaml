@@ -1,4 +1,4 @@
-# Update Time 2026-05-24 10:40:58
+# Update Time 2026-05-31 10:50:21
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.fnbuilds.services'
@@ -1111,6 +1111,8 @@ payload:
   - 'mirrors.evoluso.com'
   - '+.mirror.edgeuno.com'
   - 'mirror.dewabiz.com'
+  - 'updateinfo.devmate.com'
+  - 'updates.devmate.com'
   - 'dl.devmate.com'
   - '+.mirror.coganng.com'
   - 'mirror.bacloud.com'
