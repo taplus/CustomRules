@@ -1,4 +1,4 @@
-# Update Time 2026-05-31 10:50:23
+# Update Time 2026-06-01 18:12:30
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'net-ookla-dc.p.foundation'
@@ -1720,6 +1720,7 @@ payload:
   - 'speedtest.telfs.com'
   - 'speedtest.sptel.com'
   - 'sp1.socen.com'
+  - 'speedtest.s3rdv.com'
   - 'rsghost.rsgsn.com'
   - 'speedtest.rlimn.com'
   - 'speedtest.pendc.com'
