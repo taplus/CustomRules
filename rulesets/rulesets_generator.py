@@ -78,8 +78,16 @@ def download_and_transform():
         exclude_list = [
             "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
             "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe"
-        ]        
-        clean_rules = clean_content(content, exclude_list)
+        ]
+        # Reject 规则中需要额外删除的规则
+        extra_exclude_list = [
+            "+.substack.com"
+            ]
+        reject_exclude_list = exclude_list + extra_exclude_list
+        if url in ["https://ruleset.skk.moe/Clash/domainset/reject.txt"]:
+            clean_rules = clean_content(content, reject_exclude_list)
+        else:
+            clean_rules = clean_content(content, exclude_list)
 
         # 写入 YAML 文件       
         filename = os.path.splitext(path_parts[-1])[0].lower()
