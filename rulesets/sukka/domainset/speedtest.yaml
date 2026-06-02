@@ -1,4 +1,4 @@
-# Update Time 2026-06-01 18:12:30
+# Update Time 2026-06-02 21:07:26
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'net-ookla-dc.p.foundation'
@@ -93,6 +93,7 @@ payload:
   - 'teste.oriontelecom.link'
   - 'speedtestfl.frantic.link'
   - 'speedtest.frantic.link'
+  - 'sp.corce.link'
   - 'ivry.testdebit.info'
   - '77.testdebit.info'
   - 'speedtest1.fleetinfo.info'
@@ -803,6 +804,7 @@ payload:
   - 'speedtest.gsu.edu'
   - 'speedtest.fit.edu'
   - 'speedtest.oc.edu'
+  - 'speedtest.voiceone.dev'
   - 'speedtest.lazco.dev'
   - 'albuquerque-speedtest.sacredwindcommunications.com'
   - 'speedtest.mifflincountywireless.com'
@@ -2465,6 +2467,7 @@ payload:
   - 'www.librespeed.fi'
   - 'speedtest1-qupra-ams-nl.ebgp.fi'
   - 'ookla.cozycritters.eu'
+  - 'argalasti.skoultsos.eu'
   - 'speedtest.konverto.eu'
   - 'ookla-speedtest.e-ports.eu'
   - 'speedtest.battern.eu'

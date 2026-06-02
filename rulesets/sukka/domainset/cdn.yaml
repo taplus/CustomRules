@@ -1,4 +1,4 @@
-# Update Time 2026-06-01 18:12:29
+# Update Time 2026-06-02 21:07:25
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.static.microsoft'
@@ -1687,6 +1687,7 @@ payload:
   - '+.myspacecdn.com'
   - 'r2cdn.myshopline.com'
   - '+.myshopapps.com'
+  - 'cdn.myopenpass.com'
   - 'cdn.myfutanari.com'
   - '+.myfilebase.com'
   - '+.msftstatic.com'
