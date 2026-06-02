@@ -3,3 +3,4 @@ SRC-IP-CIDR,192.168.139.65/32,DIRECT
 # koolearn
 DOMAIN-SUFFIX,koolearn.com
 DOMAIN-SUFFIX,koocdn.com
+DOMAIN-SUFFIX,xdf.cn
