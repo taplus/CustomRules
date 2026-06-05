@@ -28,7 +28,8 @@ def get_url():
     }
  
     extra_url = ["https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.list",
-                 "https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/custom_list/custom_direct_list"]
+                 "https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/custom_list/custom_direct_list",
+                 "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/steam.list"]
 
     full_url = [f"{sukka_base_url}{k}/{v}.txt" for k, vs in sukka_extend_url.items() for v in vs]
     full_url.extend(extra_url)
@@ -69,7 +70,10 @@ def download_and_transform():
         # URL 子字符串转换为如["domainset",applecdn.txt"]的列表
         path_parts = urlparse(url).path.strip('/').split('/')
         # extend_url 的文件放到 non_ip 目录
-        category = path_parts[-2] if path_parts[-2] in ["domainset","non_ip","ip"] else "non_ip"
+        if path_parts[-2] in ["domainset","non_ip","ip"]:
+            category = path_parts[-2]
+        else:
+            category = "custom"
         # 创建目录
         output_dir = os.path.join(os.getcwd(),"rulesets","sukka",category)
         os.makedirs(output_dir, exist_ok=True)
