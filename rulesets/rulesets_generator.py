@@ -29,7 +29,8 @@ def get_url():
  
     extra_url = ["https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.list",
                  "https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/custom_list/custom_direct_list",
-                 "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/steam.list"]
+                 "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/steam.list",
+                 "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/epicgames.list"]
 
     full_url = [f"{sukka_base_url}{k}/{v}.txt" for k, vs in sukka_extend_url.items() for v in vs]
     full_url.extend(extra_url)
