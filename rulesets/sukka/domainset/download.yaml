@@ -1,4 +1,4 @@
-# Update Time 2026-06-02 21:52:42
+# Update Time 2026-06-05 22:39:09
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.fnbuilds.services'
@@ -319,6 +319,7 @@ payload:
   - 'pf-cdn-content-prod.azureedge.net'
   - 'playwright-akamai.azureedge.net'
   - 'playwright.azureedge.net'
+  - 'cdn-ota.azureedge.net'
   - 'mirror.applebred.net'
   - 'gamedownloads-rockstargames-com.akamaized.net'
   - 'officecdn-microsoft-com.akamaized.net'
@@ -528,6 +529,7 @@ payload:
   - 'cdn-updates.orbstack.dev'
   - 'api-updates.orbstack.dev'
   - 'cdn-images.orbstack.dev'
+  - 'mirror.tejas101k.workers.dev'
   - '+.mirrors.utermux.dev'
   - 'packages-cf.termux.dev'
   - 'packages.termux.dev'
@@ -1204,6 +1206,7 @@ payload:
   - '+.mirrors.pair.com'
   - 'cpan.pair.com'
   - 'cdnorg.d.miui.com'
+  - 'bn.d.miui.com'
   - 'download01.logi.com'
   - 'cdn.kagi.com'
   - '+.mirror.iweb.com'

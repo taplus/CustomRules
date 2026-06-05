@@ -1,4 +1,4 @@
-# Update Time 2026-06-02 21:52:42
+# Update Time 2026-06-05 22:39:08
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.static.microsoft'
@@ -358,6 +358,7 @@ payload:
   - 'es.pinkbike.org'
   - '+.parceljs.org'
   - 'static.opensuse.org'
+  - 'assets.openlogi.org'
   - 'open-vsx.org'
   - 'images.mobilism.org'
   - 'demotiles.maplibre.org'

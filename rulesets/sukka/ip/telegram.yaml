@@ -1,4 +1,4 @@
-# Update Time 2026-06-02 21:53:00
+# Update Time 2026-06-05 22:39:16
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'IP-CIDR,91.105.192.0/23,no-resolve'

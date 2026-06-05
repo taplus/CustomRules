@@ -1,0 +1,7 @@
+# Update Time 2026-06-05 22:39:16
+# Cited from https://ruleset.skk.moe/ with Thanks
+payload:
+  - 'SRC-IP-CIDR,192.168.139.65/32,DIRECT'
+  - 'DOMAIN-SUFFIX,koolearn.com'
+  - 'DOMAIN-SUFFIX,koocdn.com'
+  - 'DOMAIN-SUFFIX,xdf.cn'
