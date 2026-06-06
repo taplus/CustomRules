@@ -1,4 +1,4 @@
-# Update Time 2026-06-05 23:01:56
+# Update Time 2026-06-06 10:27:34
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'net-ookla-dc.p.foundation'
@@ -919,6 +919,7 @@ payload:
   - 'speedtest.hytekcomputers.com'
   - 'speedtest-ottawa.hivedatacenter.com'
   - 'speedtest.hivedatacenter.com'
+  - 'speed.haefeleconnect.com'
   - 'speedtest.giganetesmejor.com'
   - 'speedtestda.fiberfasthomes.com'
   - 'speed1.directnet7star.com'
@@ -2480,6 +2481,7 @@ payload:
   - 'ooklaspeed.ttron.eu'
   - 'speedtest.nsxt.eu'
   - 'speedtest.redesopticassalmantinas.es'
+  - 'speedtest.amgtelecomunicaciones.es'
   - 'speed.telecablecartaya.es'
   - 'speedtest.antisatelecom.es'
   - 'speedtest2.sistelfibra.es'
@@ -3085,6 +3087,7 @@ payload:
   - 'spd1.claro.com.br'
   - 'speedtest.bemol.com.br'
   - 'velocidade.4wnet.com.br'
+  - 'speedtest.zeer.com.br'
   - 'speedtestfla.tely.com.br'
   - 'speedtest1.axes.com.br'
   - 'velocimetro-spt.akto.com.br'
