@@ -1,5 +1,7 @@
 # leigod router
 SRC-IP-CIDR,192.168.139.65/32,DIRECT
+# deepseek
+DOMAIN-SUFFIX,deepseek.com
 # koolearn
 DOMAIN-SUFFIX,koolearn.com
 DOMAIN-SUFFIX,koocdn.com
