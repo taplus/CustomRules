@@ -1,8 +1,20 @@
-# Update Time 2026-06-06 11:30:36
+# Update Time 2026-06-06 11:45:28
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'SRC-IP-CIDR,192.168.139.65/32,DIRECT'
   - 'DOMAIN-SUFFIX,deepseek.com'
+  - 'DOMAIN-SUFFIX,deepseek.cn'
+  - 'DOMAIN-SUFFIX,kimi.com'
+  - 'DOMAIN-SUFFIX,moonshot.cn'
+  - 'DOMAIN-SUFFIX,minimax.com'
+  - 'DOMAIN-SUFFIX,minimax.com.cn'
+  - 'DOMAIN-SUFFIX,minimax.io'
+  - 'DOMAIN-SUFFIX,minimax.chat'
+  - 'DOMAIN-SUFFIX,bigmodel.cn'
+  - 'DOMAIN-SUFFIX,chatglm.cn'
+  - 'DOMAIN-SUFFIX,zhipuai.cn'
+  - 'DOMAIN-SUFFIX,z.ai'
+  - 'DOMAIN-SUFFIX,zhipu.ai'
   - 'DOMAIN-SUFFIX,koolearn.com'
   - 'DOMAIN-SUFFIX,koocdn.com'
   - 'DOMAIN-SUFFIX,xdf.cn'
