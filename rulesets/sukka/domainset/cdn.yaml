@@ -1,4 +1,4 @@
-# Update Time 2026-06-06 11:45:24
+# Update Time 2026-06-07 10:54:14
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.static.microsoft'
@@ -1007,6 +1007,7 @@ payload:
   - '+.spreadshirtmedia.com'
   - 'static2.sharepointonline.com'
   - 'cdn.seonintelligence.com'
+  - 'uploadcare.mwcglobalprofile.com'
   - 'assets4.mist-train-girls.com'
   - 'hubspotonwebflow.com'
   - '+.hsbrowserreports.com'
@@ -2326,6 +2327,7 @@ payload:
   - 'media.maptiler.com'
   - 'cdn.maptiler.com'
   - 'tiles.mapilion.com'
+  - 'b.manufact.com'
   - 'imag.malavida.com'
   - 'img-api.mac4ever.com'
   - '+.lowescdn.com'
@@ -3779,6 +3781,8 @@ payload:
   - 'starlight.nebula.tv'
   - 'images.nebula.tv'
   - 'f.upanh.tv'
+  - 'walter-r2.trakt.tv'
+  - 'media.trakt.tv'
   - 'static.tella.tv'
   - 'static-homepage-en.pluto.tv'
   - 'images.pluto.tv'
