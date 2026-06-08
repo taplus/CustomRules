@@ -1,4 +1,4 @@
-# Update Time 2026-06-08 11:58:45
+# Update Time 2026-06-08 19:26:54
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.static.microsoft'
@@ -2922,7 +2922,7 @@ payload:
   - 'img.xbooru.com'
   - 'website-prod.cache.wpscdn.com'
   - 'frontend-apps.workos.com'
-  - 'cdn.workos.com'
+  - '+.cdn.workos.com'
   - '+.wklcdn.com'
   - 'embed-cloudfront.wistia.com'
   - 'embed-ssl.wistia.com'
