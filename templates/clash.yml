@@ -11,20 +11,18 @@ dns:
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter-mode: blacklist
   fake-ip-filter:
-    - "rule-set:my_fake_ip_filter"
+    - 'rule-set:my_fake_ip_filter'
   nameserver:
     - https://cloudflare-dns.com/dns-query#match
     - https://dns.google/dns-query#match
   proxy-server-nameserver:
     - https://223.5.5.5/dns-query
   direct-nameserver:
-    - https://223.5.5.5/dns-query
-    - https://doh.pub/dns-query  
-
+    - system
 rule-providers:
   my_fake_ip_filter:
     type: http
     behavior: domain
     url: "https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/custom_list/my_fake_ip_filter.yaml"
-    path: ./providers/rule-provider_my_fake_ip_filter.yaml
+    path: ./my_fake_ip_filter.yaml
     interval: 86400
