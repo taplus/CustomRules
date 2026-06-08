@@ -1,4 +1,4 @@
-# Update Time 2026-06-07 23:29:04
+# Update Time 2026-06-08 11:58:45
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.static.microsoft'
@@ -3191,6 +3191,7 @@ payload:
   - 's1.feedly.com'
   - 'assets.fastly.com'
   - '+.ezocdn.com'
+  - 'cdn.evgnet.com'
   - 's3.envato.com'
   - 'creative.eizzih.com'
   - 'videos2.edclub.com'
