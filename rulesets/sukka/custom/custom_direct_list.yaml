@@ -1,4 +1,4 @@
-# Update Time 2026-06-07 23:29:10
+# Update Time 2026-06-08 11:58:51
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'SRC-IP-CIDR,192.168.139.65/32,DIRECT'
