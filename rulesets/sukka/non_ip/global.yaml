@@ -1,4 +1,4 @@
-# Update Time 2026-06-08 19:26:56
+# Update Time 2026-06-14 10:58:29
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN-SUFFIX,community'
@@ -126,6 +126,7 @@ payload:
   - 'DOMAIN-SUFFIX,pornhub.org'
   - 'DOMAIN-SUFFIX,openwrt.org'
   - 'DOMAIN-SUFFIX,mozilla.org'
+  - 'DOMAIN-SUFFIX,flathub.org'
   - 'DOMAIN-SUFFIX,f-droid.org'
   - 'DOMAIN-SUFFIX,astrill.org'
   - 'DOMAIN-SUFFIX,archive.org'
@@ -168,6 +169,7 @@ payload:
   - 'DOMAIN-SUFFIX,cfr.org'
   - 'DOMAIN-SUFFIX,ao3.org'
   - 'DOMAIN-SUFFIX,eu.org'
+  - 'DOMAIN-SUFFIX,ap.org'
   - 'DOMAIN-SUFFIX,one'
   - 'DOMAIN-SUFFIX,new'
   - 'DOMAIN-SUFFIX,minecraft-services.net'
