@@ -1,4 +1,4 @@
-# Update Time 2026-06-14 10:58:27
+# Update Time 2026-06-17 19:29:17
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.static.microsoft'
@@ -1196,6 +1196,7 @@ payload:
   - 'telemetry.business.githubcopilot.com'
   - '+.gamesgamescdn.com'
   - '+.gadgets360cdn.com'
+  - 'fullstackopen.com'
   - 'rts-static-prod.freshworksapi.com'
   - 'cdn.freebiesupply.com'
   - 'images.flightradar24.com'
@@ -1297,6 +1298,7 @@ payload:
   - 'clientsdk.launchdarkly.com'
   - 'static.launchdarkly.com'
   - 'events.launchdarkly.com'
+  - '+.larksuitepkg.com'
   - 'lf16-larkversion.larksuitecdn.com'
   - 'sf19-scmcdn.larksuitecdn.com'
   - 'p16-hera-va.larksuitecdn.com'
@@ -2756,6 +2758,7 @@ payload:
   - 'static.hosting.com'
   - '+.hgimg01.com'
   - '+.hgimg00.com'
+  - 'hentai0.com'
   - 'static.heavy-r.com'
   - 'public.hare200.com'
   - '+.hardbin.com'
@@ -3177,6 +3180,7 @@ payload:
   - 'static.gmgard.com'
   - '+.glbimg.com'
   - 'tuf-repo.github.com'
+  - 'cafe.github.com'
   - 'raw.github.com'
   - '+.pkg.github.com'
   - 'assets.genius.com'
@@ -3232,6 +3236,7 @@ payload:
   - 'static.beebom.com'
   - 'www.bbthat.com'
   - '+.bblcdn.com'
+  - 'static.captcha.awswaf.com'
   - '+.avximg.com'
   - 'tiledbasemaps.arcgis.com'
   - 'tiles.arcgis.com'
@@ -4016,6 +4021,7 @@ payload:
   - '+.cdn.nimg.jp'
   - 'i.gzn.jp'
   - 'tiles.gsj.jp'
+  - '+.img.gmo.jp'
   - 'nav.yumenosora.co.jp'
   - 'web-assets.zendesk.co.jp'
   - 'cdn.rex.contents.rakuten.co.jp'

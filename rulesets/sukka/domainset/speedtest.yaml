@@ -1,4 +1,4 @@
-# Update Time 2026-06-14 10:58:28
+# Update Time 2026-06-17 19:29:19
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'net-ookla-dc.p.foundation'
@@ -566,6 +566,7 @@ payload:
   - 'speedtest10g.tpa.as13760.net'
   - 'speedtest10g.bhm.as13760.net'
   - 'speedtest10g.atl.as13760.net'
+  - 'speedtest10g.ash.as13760.net'
   - 'speedtest.artelco.net'
   - 'speedtest.anksoft.net'
   - 'speedtest.alwyzon.net'
@@ -1800,6 +1801,7 @@ payload:
   - 'hkgspeedtest.cmctelecom.vn'
   - 'speedtestsgp.fpt.vn'
   - 'speedtesthkg.fpt.vn'
+  - 'speed1.airtek.com.ve'
   - 'btestmcp.vocetelecom.vc'
   - 'speedtest-wc.truestreamfiber.us'
   - 'speedtest.unlimitednet.us'
@@ -2288,6 +2290,7 @@ payload:
   - 'speedtest.satellitenetcom.in'
   - 'speedtest.fastwebnetworks.in'
   - 'speedtestmoh1.airtelbroadband.in'
+  - 'speedtestmh.airtelbroadband.in'
   - 'speedtest.wiprabroadband.in'
   - 'sp1.wiprabroadband.in'
   - 'speedtest.logonbroadband.in'
@@ -2550,6 +2553,7 @@ payload:
   - 'testvelocidadmad.simyo.es'
   - 'speedtest.sewan.es'
   - 'speedtestmad.adamo.es'
+  - 'speedtest-nix-2.redi.es'
   - 'ookla.olin.es'
   - 'speedtest.ohz.es'
   - 'speedtest.uv.es'
@@ -3020,6 +3024,7 @@ payload:
   - 'speedtest3.connectja.com.br'
   - 'velocidade.conectato.com.br'
   - 'speedtest.cloudinet.com.br'
+  - 'vel.cabralnet.com.br'
   - 'acrenettecnologia.brsserver.com.br'
   - 'seveninternet.brsserver.com.br'
   - 'finitytelecom.brsserver.com.br'

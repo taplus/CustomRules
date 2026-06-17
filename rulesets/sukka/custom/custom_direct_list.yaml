@@ -1,7 +1,14 @@
-# Update Time 2026-06-14 10:58:32
+# Update Time 2026-06-17 19:29:24
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
+  - 'SRC-IP-CIDR,192.168.0.65/32,DIRECT'
+  - 'SRC-IP-CIDR,192.168.0.98/32,DIRECT'
+  - 'SRC-IP-CIDR,192.168.1.65/32,DIRECT'
+  - 'SRC-IP-CIDR,192.168.1.98/32,DIRECT'
   - 'SRC-IP-CIDR,192.168.139.65/32,DIRECT'
+  - 'SRC-IP-CIDR,192.168.139.98/32,DIRECT'
+  - 'SRC-IP-CIDR,192.168.159.65/32,DIRECT'
+  - 'SRC-IP-CIDR,192.168.159.98/32,DIRECT'
   - 'DOMAIN-SUFFIX,deepseek.com'
   - 'DOMAIN-SUFFIX,deepseek.cn'
   - 'DOMAIN-SUFFIX,kimi.com'
