@@ -1,4 +1,4 @@
-# Update Time 2026-06-17 19:29:17
+# Update Time 2026-06-21 11:28:31
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.static.microsoft'
@@ -2855,6 +2855,7 @@ payload:
   - 'cover.comicbz.com'
   - 'css.comicbz.com'
   - 'player-frontend.cnevids.com'
+  - 'embed-audio.cnevids.com'
   - 'player.cnevids.com'
   - '+.cmail20.com'
   - '+.cmail19.com'
@@ -3096,6 +3097,7 @@ payload:
   - 'static-main.moovit.com'
   - 'static.moomoo.com'
   - 'launchercontent.mojang.com'
+  - 'bytescale.mobbin.com'
   - '+.mngbcn.com'
   - '+.mmtcdn.com'
   - 'img.ml0987.com'
@@ -4370,6 +4372,7 @@ payload:
   - '+.ipfs.sloppyta.co'
   - 'assets.jolipage.co'
   - 'cdn.jolipage.co'
+  - 'assets.churnkey.co'
   - 'cdn.inviter.co'
   - '+.doodcdn.co'
   - 'img.decrypt.co'

@@ -1,4 +1,4 @@
-# Update Time 2026-06-17 19:29:20
+# Update Time 2026-06-21 11:28:33
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN,res-h3.public.cdn.office.net'
@@ -14,7 +14,6 @@ payload:
   - 'DOMAIN-SUFFIX,officecdn.microsoft.com'
   - 'DOMAIN-SUFFIX,developer.microsoft.com'
   - 'DOMAIN-SUFFIX,download.microsoft.com'
-  - 'DOMAIN-SUFFIX,devblogs.microsoft.com'
   - 'DOMAIN-SUFFIX,storecorefulfillment.download.prss.microsoft.com'
   - 'DOMAIN-SUFFIX,mpnbenefitsrtluat.download.prss.microsoft.com'
   - 'DOMAIN-SUFFIX,azurestackhubuat.download.prss.microsoft.com'

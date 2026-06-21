@@ -1,4 +1,4 @@
-# Update Time 2026-06-17 19:29:18
+# Update Time 2026-06-21 11:28:31
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.fnbuilds.services'
@@ -1817,6 +1817,7 @@ payload:
   - 'mirrors.atlas.net.co'
   - 'mirror.unimagdalena.edu.co'
   - 'cas-bridge.xethub.hf.co'
+  - '+.cdn.hf.co'
   - 'elmirror.cl'
   - 'ubuntu-mirror.puq.apoapsis.cl'
   - 'debian-mirror.puq.apoapsis.cl'

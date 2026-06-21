@@ -1,4 +1,4 @@
-# Update Time 2026-06-17 19:29:17
+# Update Time 2026-06-21 11:28:31
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.store.apple.com.edgekey.net'
@@ -51,6 +51,7 @@ payload:
   - '+.publicassets.cdn-apple.com'
   - '+.store.storeimages.cdn-apple.com'
   - '+.updates.cdn-apple.com'
+  - '+.mensura.cdn-apple.com'
   - '+.appleid.cdn-apple.com'
   - '+.cstat.cdn-apple.com'
   - '+.ml.cdn-apple.com'
