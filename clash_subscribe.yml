@@ -435,9 +435,9 @@ rule-providers:
 
   emby:
     type: http
-    behavior: domain
-    url: https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/sukka/custom/category-emby.yaml
-    path: ./emby_domainset.yaml
+    behavior: classical
+    url: https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/sukka/custom/emby.yaml
+    path: ./emby.yaml
     interval: 86400
 
   stream:

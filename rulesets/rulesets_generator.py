@@ -31,7 +31,7 @@ def get_url():
                  "https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/custom_list/custom_direct_list",
                  "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/steam.list",
                  "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/epicgames.list",
-                 "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/category-emby.list"]
+                 "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Emby/Emby.list"]
 
     full_url = [f"{sukka_base_url}{k}/{v}.txt" for k, vs in sukka_extend_url.items() for v in vs]
     full_url.extend(extra_url)
