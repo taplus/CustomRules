@@ -114,6 +114,18 @@ proxy-groups:
       - 香港节点
       - 手动切换
 
+  - name: Emby
+    type: select
+    proxies:
+      - 狮城节点
+      - DIRECT
+      - 美国低倍率
+      - 香港低倍率
+      - 日本节点
+      - 台湾省节点
+      - 韩国节点
+      - 其他地区
+
   - name: Stream
     type: select
     proxies:
@@ -236,6 +248,7 @@ rules:
   - RULE-SET,cdn,CDN
   - RULE-SET,download_domainset,Download
   - RULE-SET,download,Download
+  - RULE-SET,emby_domainset,Emby
   - RULE-SET,stream,Stream
   - RULE-SET,google,Google
   - RULE-SET,global,Proxy
@@ -420,6 +433,13 @@ rule-providers:
     path: ./download.yaml
     interval: 86400
 
+  emby:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/sukka/custom/category-emby.yaml
+    path: ./emby_domainset.yaml
+    interval: 86400
+
   stream:
     type: http
     behavior: classical
@@ -429,9 +449,9 @@ rule-providers:
 
   google:
     type: http
-    behavior: classical
+    behavior: domain
     url: https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/sukka/custom/google.yaml
-    path: ./google.yaml
+    path: ./google_domainset.yaml
     interval: 86400
 
   global:

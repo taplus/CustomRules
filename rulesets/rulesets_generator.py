@@ -27,10 +27,11 @@ def get_url():
                "stream_eu","stream_hk","stream_jp","stream_kr","stream_tw","stream_us","telegram","telegram_asn"]
     }
  
-    extra_url = ["https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.list",
+    extra_url = ["https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/google.list",
                  "https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/custom_list/custom_direct_list",
                  "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/steam.list",
-                 "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/epicgames.list"]
+                 "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/epicgames.list",
+                 "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/category-emby.list"]
 
     full_url = [f"{sukka_base_url}{k}/{v}.txt" for k, vs in sukka_extend_url.items() for v in vs]
     full_url.extend(extra_url)
