@@ -1,4 +1,4 @@
-# Update Time 2026-06-21 12:11:01
+# Update Time 2026-06-23 16:42:11
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.fnbuilds.services'
@@ -673,6 +673,7 @@ payload:
   - 'packages.microsoft.com'
   - 'cdn.winget.microsoft.com'
   - '+.update.microsoft.com'
+  - 'builds.dotnet.microsoft.com'
   - '+.download.prss.microsoft.com'
   - 'msdl.microsoft.com'
   - 'mcr.microsoft.com'

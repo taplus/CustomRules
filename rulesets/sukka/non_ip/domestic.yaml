@@ -1,4 +1,4 @@
-# Update Time 2026-06-21 12:11:03
+# Update Time 2026-06-23 16:42:13
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN-SUFFIX,c-t.work'
@@ -428,6 +428,10 @@ payload:
   - 'DOMAIN-SUFFIX,webank.com'
   - 'DOMAIN-SUFFIX,wangsu.com'
   - 'DOMAIN-SUFFIX,volces.com'
+  - 'DOMAIN,viayoo.com'
+  - 'DOMAIN,www.viayoo.com'
+  - 'DOMAIN,res.viayoo.com'
+  - 'DOMAIN,app.viayoo.com'
   - 'DOMAIN-SUFFIX,udache.com'
   - 'DOMAIN-SUFFIX,tapimg.com'
   - 'DOMAIN-SUFFIX,taobao.com'

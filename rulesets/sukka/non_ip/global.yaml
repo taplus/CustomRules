@@ -1,4 +1,4 @@
-# Update Time 2026-06-21 12:11:03
+# Update Time 2026-06-23 16:42:14
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN-SUFFIX,community'
@@ -1218,6 +1218,7 @@ payload:
   - 'DOMAIN-SUFFIX,cz'
   - 'DOMAIN-SUFFIX,cy'
   - 'DOMAIN-SUFFIX,cx'
+  - 'DOMAIN-SUFFIX,cr'
   - 'DOMAIN-SUFFIX,huggingface.co'
   - 'DOMAIN-SUFFIX,convertio.co'
   - 'DOMAIN-SUFFIX,snapkit.co'

@@ -1,4 +1,4 @@
-# Update Time 2026-06-21 12:11:06
+# Update Time 2026-06-23 16:42:17
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'steamcommunity-a.akamaihd.net.edgesuite.net'
@@ -44,7 +44,9 @@ payload:
   - '+.steam.cdn.slingshot.co.nz'
   - '+.steamserver.net'
   - '+.steamusercontent.com'
+  - '+.csgo.com.cn'
   - '+.csgo.wmsj.cn'
+  - '+.dota2.com.cn'
   - '+.dota2.wmsj.cn'
   - '+.wmsjsteam.com'
   - '+.client-update.queniuqe.com'
