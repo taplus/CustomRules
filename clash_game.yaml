@@ -1,0 +1,250 @@
+mode: rule
+log-level: silent
+allow-lan: true
+ipv6: false
+unified-delay: true
+
+dns:
+  enable: true
+  enhanced-mode: redir-host
+  respect-rules: false
+  listen: 0.0.0.0:7874
+  ipv6: false
+  default-nameserver:
+    - https://223.5.5.5/dns-query
+  nameserver:
+    - 223.5.5.5
+  proxy-server-nameserver:
+    - https://223.5.5.5/dns-query
+  direct-nameserver:
+    - 223.5.5.5
+
+proxy-providers:
+  provider1:
+    type: http
+    url: "XXX"
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    path: ./provider1.yaml
+    proxy: DIRECT
+
+proxy-groups:
+  - name: Game
+    type: select
+    proxies:
+      - 香港节点
+      - DIRECT
+      - 美国节点
+      - 手动切换
+
+  - name: match
+    type: select
+    proxies:
+      - DIRECT
+      - 香港节点
+      - 美国节点
+      - 手动切换
+
+  - name: 香港节点
+    type: url-test
+    include-all: true
+    filter: "(?i)港|hk|hongkong|hong kong"
+    url: 'https://www.gstatic.com/generate_204'
+    interval: 300
+    tolerance: 50
+
+  - name: 美国节点
+    type: url-test
+    include-all: true
+    filter: "(?i)美|usa|unitedstates|united states"
+    url: 'https://www.gstatic.com/generate_204'
+    interval: 300
+    tolerance: 50
+
+  - name: 手动切换
+    type: select
+    include-all: true
+    filter: "(?i)^(?!.*(?:Expire|Traffic)).*"
+
+rules:
+  - RULE-SET,lan,DIRECT
+  - RULE-SET,direct,DIRECT
+  - RULE-SET,custom_direct_list,DIRECT
+  - RULE-SET,game_download_domainset,DIRECT
+  - RULE-SET,game_download,DIRECT
+  - RULE-SET,game_download_cn,DIRECT
+  - RULE-SET,steam_domainset,Game
+  - RULE-SET,epicgames_domainset,Game
+  - RULE-SET,gog_domainset,Game
+  - RULE-SET,ubisoft_domainset,Game
+  - RULE-SET,rockstar_domainset,Game
+  - RULE-SET,xbox_domainset,Game
+  - RULE-SET,playstation_domainset,Game
+  - RULE-SET,sony,Game
+  - RULE-SET,nintendo_domainset,Game
+  - RULE-SET,ea_domainset,Game
+  - RULE-SET,origin,Game
+  - RULE-SET,blizzard,Game
+  - RULE-SET,battle,Game
+  - RULE-SET,2kgames,Game
+  - RULE-SET,finalgame,Game
+  - RULE-SET,lan_ip,DIRECT
+  - MATCH,match
+
+rule-providers:
+  lan:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/sukka/non_ip/lan.yaml
+    path: ./lan.yaml
+    interval: 86400
+
+  direct:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/sukka/non_ip/direct.yaml
+    path: ./direct.yaml
+    interval: 86400
+
+  custom_direct_list:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/sukka/custom/custom_direct_list.yaml
+    path: ./custom_direct_list.yaml
+    interval: 86400
+
+  game_download_domainset:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/sukka/domainset/game-download.yaml
+    path: ./game_download_domainset.yaml
+    interval: 86400
+
+  game_download_cn:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Game/GameDownloadCN/GameDownloadCN.yaml
+    path: ./game_download_cn.yaml
+    interval: 86400
+
+  game_download:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Game/GameDownload/GameDownload.yaml
+    path: ./game_download.yaml
+    interval: 86400
+
+  steam_domainset:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/sukka/custom/steam.yaml
+    path: ./steam_domainset.yaml
+    interval: 86400
+
+  epicgames_domainset:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/sukka/custom/epicgames.yaml
+    path: ./epicgames_domainset.yaml
+    interval: 86400
+
+  gog_domainset:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/gog.yaml
+    path: ./gog_domainset.yaml
+    interval: 86400
+
+  ubisoft_domainset:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/ubisoft.yaml
+    path: ./ubisoft_domainset.yaml
+    interval: 86400
+
+  rockstar_domainset:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/rockstar.yaml
+    path: ./rockstar_domainset.yaml
+    interval: 86400
+
+  xbox_domainset:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/xbox.yaml
+    path: ./xbox_domainset.yaml
+    interval: 86400
+
+  playstation_domainset:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/playstation.yaml
+    path: ./playstation_domainset.yaml
+    interval: 86400
+
+  sony:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Sony/Sony.yaml
+    path: ./sony.yaml
+    interval: 86400
+
+  nintendo_domainset:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/nintendo.yaml
+    path: ./nintendo_domainset.yaml
+    interval: 86400
+
+  ea_domainset:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/ea.yaml
+    path: ./ea_domainset.yaml
+    interval: 86400
+
+  origin:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Origin/Origin.yaml
+    path: ./origin.yaml
+    interval: 86400
+
+  blizzard:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Blizzard/Blizzard.yaml
+    path: ./blizzard.yaml
+    interval: 86400
+
+  battle:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Battle/Battle.yaml
+    path: ./battle.yaml
+    interval: 86400
+
+  2kgames:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/2KGames/2KGames.yaml
+    path: ./2kgames.yaml
+    interval: 86400
+
+  finalgame:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Game/Game.yaml
+    path: ./finalgame.yaml
+    interval: 86400
+
+  lan_ip:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/sukka/ip/lan.yaml
+    path: ./lan_ip.yaml
+    interval: 86400
