@@ -40,6 +40,14 @@ proxy-groups:
       - 美国节点
       - 手动切换
 
+  - name: Proxy
+    type: select
+    proxies:
+      - 美国节点
+      - 香港节点
+      - DIRECT
+      - 手动切换
+
   - name: match
     type: select
     proxies:
@@ -91,6 +99,7 @@ rules:
   - RULE-SET,battle,Game
   - RULE-SET,2kgames,Game
   - RULE-SET,finalgame,Game
+  - RULE-SET,global,Proxy
   - RULE-SET,lan_ip,DIRECT
   - MATCH,match
 
@@ -240,6 +249,13 @@ rule-providers:
     behavior: classical
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Game/Game.yaml
     path: ./finalgame.yaml
+    interval: 86400
+
+  global:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/sukka/non_ip/global.yaml
+    path: ./global.yaml
     interval: 86400
 
   lan_ip:
