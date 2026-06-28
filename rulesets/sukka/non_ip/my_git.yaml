@@ -1,8 +1,9 @@
-# Update Time 2026-06-23 17:52:43
+# Update Time 2026-06-28 10:50:32
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN,github.dev'
   - 'DOMAIN-SUFFIX,githubcopilot.com'
+  - 'DOMAIN,android.googlesource.com'
   - 'DOMAIN,github.com'
   - 'DOMAIN,alive.github.com'
   - 'DOMAIN,api.github.com'
