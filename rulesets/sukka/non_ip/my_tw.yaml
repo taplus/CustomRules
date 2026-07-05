@@ -1,15 +1,15 @@
-# Update Time 2026-06-28 10:50:32
+# Update Time 2026-07-05 10:30:30
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
-  - 'DOMAIN,av.jkforum.net'
-  - 'DOMAIN-SUFFIX,cdn.hinet.net'
-  - 'DOMAIN,www.manhuagui.com'
-  - 'DOMAIN,yymanhua.com'
-  - 'DOMAIN,www.yymanhua.com'
-  - 'DOMAIN,avbebe.com'
-  - 'DOMAIN,mhgui.com'
   - 'DOMAIN,javdb.com'
+  - 'DOMAIN,mhgui.com'
+  - 'DOMAIN,avbebe.com'
   - 'DOMAIN,hanime1.me'
+  - 'DOMAIN,yymanhua.com'
+  - 'DOMAIN-SUFFIX,cdn.hinet.net'
+  - 'DOMAIN,av.jkforum.net'
+  - 'DOMAIN,www.yymanhua.com'
+  - 'DOMAIN,www.manhuagui.com'
   - 'DOMAIN-WILDCARD,*.ffzy-online?.com'
   - 'DOMAIN-WILDCARD,*.ffzy-play?.com'
   - 'DOMAIN-WILDCARD,*.lz-cdn?.com'

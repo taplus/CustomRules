@@ -1,9 +1,9 @@
-# Update Time 2026-06-28 10:50:32
+# Update Time 2026-07-05 10:30:30
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
-  - 'DOMAIN,copymanga.site'
   - 'DOMAIN,jav.guru'
+  - 'DOMAIN,cableav.tv'
+  - 'DOMAIN-SUFFIX,mandaom.com'
+  - 'DOMAIN,copymanga.site'
   - 'DOMAIN-SUFFIX,crunchyroll.com'
   - 'DOMAIN,www.coinbase.com'
-  - 'DOMAIN-SUFFIX,mandaom.com'
-  - 'DOMAIN,cableav.tv'

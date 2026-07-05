@@ -1,9 +1,9 @@
-# Update Time 2026-06-28 10:50:30
+# Update Time 2026-07-05 10:30:29
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
-  - 'mask.apple-dns.net'
-  - 'canary.mask.apple-dns.net'
-  - 'mask-canary.icloud.com'
-  - 'mask-api.icloud.com'
-  - 'mask-h2.icloud.com'
   - 'mask.icloud.com'
+  - 'mask-h2.icloud.com'
+  - 'mask.apple-dns.net'
+  - 'mask-api.icloud.com'
+  - 'mask-canary.icloud.com'
+  - 'canary.mask.apple-dns.net'

@@ -1,11 +1,11 @@
-# Update Time 2026-06-28 10:50:33
+# Update Time 2026-07-05 10:30:31
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
-  - 'DOMAIN,itvpnpmobile-a.akamaihd.net'
-  - 'DOMAIN,bbc.mp-pxcdn.com'
   - 'DOMAIN-SUFFIX,itv.com'
-  - 'DOMAIN-SUFFIX,tvlicensing.co.uk'
-  - 'DOMAIN-SUFFIX,bbci.co.uk'
   - 'DOMAIN-SUFFIX,bbc.co.uk'
+  - 'DOMAIN-SUFFIX,bbci.co.uk'
+  - 'DOMAIN,bbc.mp-pxcdn.com'
+  - 'DOMAIN-SUFFIX,tvlicensing.co.uk'
+  - 'DOMAIN,itvpnpmobile-a.akamaihd.net'
   - 'DOMAIN-KEYWORD,bbcfmt'
   - 'DOMAIN-KEYWORD,uk-live'

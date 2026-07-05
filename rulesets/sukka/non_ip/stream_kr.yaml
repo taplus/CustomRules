@@ -1,5 +1,5 @@
-# Update Time 2026-06-28 10:50:33
+# Update Time 2026-07-05 10:30:31
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
-  - 'DOMAIN-SUFFIX,smartmediarep.com'
   - 'DOMAIN-SUFFIX,tv.naver.com'
+  - 'DOMAIN-SUFFIX,smartmediarep.com'

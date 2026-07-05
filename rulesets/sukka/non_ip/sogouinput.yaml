@@ -1,14 +1,14 @@
-# Update Time 2026-06-28 10:50:33
+# Update Time 2026-07-05 10:30:30
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
-  - 'DOMAIN-SUFFIX,account.sogou.com'
-  - 'DOMAIN-SUFFIX,shouji.sogou.com'
-  - 'DOMAIN-SUFFIX,pinyin.sogou.com'
-  - 'DOMAIN-SUFFIX,macime.sogou.com'
-  - 'DOMAIN-SUFFIX,ime.sogou.com'
-  - 'DOMAIN-SUFFIX,get.sogou.com'
-  - 'DOMAIN-SUFFIX,sginput.qq.com'
   - 'DOMAIN-SUFFIX,beacon.qq.com'
+  - 'DOMAIN-SUFFIX,get.sogou.com'
+  - 'DOMAIN-SUFFIX,ime.sogou.com'
+  - 'DOMAIN-SUFFIX,sginput.qq.com'
+  - 'DOMAIN-SUFFIX,macime.sogou.com'
+  - 'DOMAIN-SUFFIX,pinyin.sogou.com'
+  - 'DOMAIN-SUFFIX,shouji.sogou.com'
+  - 'DOMAIN-SUFFIX,account.sogou.com'
   - 'DOMAIN,oth.str.mdt.qq.com'
   - 'PROCESS-NAME,SogouInput'
   - 'PROCESS-NAME,SogouTaskManager'
