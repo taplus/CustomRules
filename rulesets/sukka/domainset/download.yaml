@@ -1,4 +1,4 @@
-# Update Time 2026-07-05 10:30:28
+# Update Time 2026-07-12 10:05:46
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.gcr.io'
@@ -609,6 +609,7 @@ payload:
   - 'debian.nautile.nc'
   - 'debian.osuosl.org'
   - 'debian.proxad.net'
+  - 'desktop.figma.com'
   - 'directory.fsf.org'
   - 'dist.blizzard.com'
   - 'dist.creeper.host'
