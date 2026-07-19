@@ -1,9 +1,10 @@
-# Update Time 2026-07-12 10:05:47
+# Update Time 2026-07-19 10:04:03
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN-WILDCARD,download*.mediafire.com'
   - 'DOMAIN-WILDCARD,ftp.??.debian.org'
   - 'DOMAIN-WILDCARD,ftp.??.freebsd.org'
+  - 'DOMAIN-WILDCARD,s3.*.backblazeb2.com'
   - 'DOMAIN-WILDCARD,*.s3.*.backblazeb2.com'
   - 'DOMAIN-WILDCARD,cdn-*.comaps.app'
   - 'DOMAIN-WILDCARD,cdn-*.comaps.tech'

@@ -1,4 +1,4 @@
-# Update Time 2026-07-12 10:05:47
+# Update Time 2026-07-19 10:04:03
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN-SUFFIX,sdx.microsoft.com'
@@ -6,11 +6,9 @@ payload:
   - 'DOMAIN-SUFFIX,cn.windowssearch.com'
   - 'DOMAIN,res-1.cdn.office.net'
   - 'DOMAIN,res-2.cdn.office.net'
-  - 'DOMAIN-SUFFIX,shell.cdn.office.net'
   - 'DOMAIN-SUFFIX,download.microsoft.com'
   - 'DOMAIN-SUFFIX,b.c2r.ts.cdn.office.net'
   - 'DOMAIN-SUFFIX,ctldl.windowsupdate.com'
-  - 'DOMAIN-SUFFIX,developer.microsoft.com'
   - 'DOMAIN-SUFFIX,f.c2r.ts.cdn.office.net'
   - 'DOMAIN-SUFFIX,officecdn.microsoft.com'
   - 'DOMAIN-SUFFIX,storeedge.microsoft.com'
