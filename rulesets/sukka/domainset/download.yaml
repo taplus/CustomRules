@@ -1,4 +1,4 @@
-# Update Time 2026-07-19 10:04:01
+# Update Time 2026-07-26 10:08:19
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.gcr.io'
@@ -719,6 +719,7 @@ payload:
   - 'mirrors.ucr.ac.cr'
   - '+.mirrorservice.org'
   - '+.mvnrepository.com'
+  - 'omtapp.garmin.com'
   - 'opfiles.b-cdn.net'
   - 'ota.googlezip.net'
   - 'packages.sury.org'
