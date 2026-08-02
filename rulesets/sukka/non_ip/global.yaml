@@ -1,6 +1,7 @@
-# Update Time 2026-07-26 10:08:21
+# Update Time 2026-08-02 10:07:10
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
+  - 'DOMAIN,7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe'
   - 'DOMAIN-SUFFIX,ac'
   - 'DOMAIN-SUFFIX,ai'
   - 'DOMAIN-SUFFIX,at'
@@ -283,6 +284,7 @@ payload:
   - 'DOMAIN-SUFFIX,storj.io'
   - 'DOMAIN-SUFFIX,t66y.com'
   - 'DOMAIN-SUFFIX,time.com'
+  - 'DOMAIN-SUFFIX,tmdb.org'
   - 'DOMAIN-SUFFIX,trakt.tv'
   - 'DOMAIN-SUFFIX,twimg.co'
   - 'DOMAIN-SUFFIX,v2ex.com'
@@ -440,8 +442,10 @@ payload:
   - 'DOMAIN-SUFFIX,apk-dl.com'
   - 'DOMAIN-SUFFIX,apnews.com'
   - 'DOMAIN-SUFFIX,archive.li'
+  - 'DOMAIN-SUFFIX,atmeta.com'
   - 'DOMAIN-SUFFIX,avtoday.io'
   - 'DOMAIN-SUFFIX,aweber.com'
+  - 'DOMAIN-SUFFIX,bangumi.tv'
   - 'DOMAIN-SUFFIX,bet365.com'
   - 'DOMAIN-SUFFIX,binance.cc'
   - 'DOMAIN-SUFFIX,binance.me'

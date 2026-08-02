@@ -1,6 +1,7 @@
-# Update Time 2026-07-26 10:08:23
+# Update Time 2026-08-02 10:07:11
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
+  - 'DOMAIN,7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe'
   - 'DOMAIN-SUFFIX,dmm.com'
   - 'DOMAIN-SUFFIX,hulu.jp'
   - 'DOMAIN-SUFFIX,tver.jp'
