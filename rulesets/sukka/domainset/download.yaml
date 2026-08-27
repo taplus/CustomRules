@@ -1,7 +1,6 @@
-# Update Time 2026-08-27 18:24:42
+# Update Time 2026-08-27 18:36:18
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
-  - '7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe'
   - '+.gcr.io'
   - 'ghp.ci'
   - '+.k8s.io'
@@ -446,7 +445,6 @@ payload:
   - '+.repo.jing.rocks'
   - 'repo.nextdns.io'
   - 'repo1.maven.org'
-  - 'ruleset.skk.moe'
   - 'tux.rainside.sk'
   - 'ubuntu.grena.ge'
   - 'ubuntu.lagis.at'
@@ -922,7 +920,6 @@ payload:
   - 'downloads.claude.ai'
   - 'downloads.x-wrt.com'
   - 'downloads.xrite.com'
-  - 'filters.cdn.skk.moe'
   - 'ftp.cse.buffalo.edu'
   - 'ftp.nara.wide.ad.jp'
   - 'ftp.piotrkosoft.net'
@@ -1253,7 +1250,6 @@ payload:
   - 'archive.linux.duke.edu'
   - 'autoupdate.termius.com'
   - 'az764295.vo.msecnd.net'
-  - 'chnroutes2.cdn.skk.moe'
   - 'cloudflare.f-droid.org'
   - 'cpan.mmgdesigns.com.ar'
   - 'ctan.math.illinois.edu'
@@ -1720,7 +1716,6 @@ payload:
   - 'mirror.freethought-internet.co.uk'
   - 'oss-binaries.phusionpassenger.com'
   - 'pf-cdn-content-prod.azureedge.net'
-  - 'speedtest-net-servers.cdn.skk.moe'
   - 'sunsite.informatik.rwth-aachen.de'
   - 'worldwide.omtmapupdate.garmin.com'
   - 'centos-stream-distro.1gservers.com'

@@ -1,7 +1,6 @@
-# Update Time 2026-08-27 18:24:50
+# Update Time 2026-08-27 18:36:25
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
-  - 'DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe'
   - 'IP-CIDR,91.105.192.0/23,no-resolve'
   - 'IP-CIDR,91.108.4.0/22,no-resolve'
   - 'IP-CIDR,91.108.8.0/21,no-resolve'
