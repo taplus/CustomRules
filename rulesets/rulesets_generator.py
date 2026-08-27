@@ -83,8 +83,7 @@ def download_and_transform():
         # 清洗数据
         # 排除的规则列表
         exclude_list = [
-            "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-            "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe"
+            "skk.moe"
         ]
         # Reject 规则中需要额外删除的规则
         extra_exclude_list = [
