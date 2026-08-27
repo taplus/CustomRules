@@ -1,4 +1,4 @@
-# Update Time 2026-08-23 08:55:25
+# Update Time 2026-08-27 18:24:50
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'SRC-IP-CIDR,192.168.0.65/32,DIRECT'
@@ -25,3 +25,10 @@ payload:
   - 'DOMAIN-SUFFIX,koolearn.com'
   - 'DOMAIN-SUFFIX,koocdn.com'
   - 'DOMAIN-SUFFIX,xdf.cn'
+  - 'DOMAIN-SUFFIX,bitwarden.com'
+  - 'DOMAIN-SUFFIX,bitwarden.eu'
+  - 'DOMAIN-SUFFIX,bitwarden.net'
+  - 'DOMAIN-SUFFIX,btwrdn.com'
+  - 'DOMAIN-SUFFIX,btwrdn.co'
+  - 'DOMAIN-SUFFIX,iherb.com'
+  - 'DOMAIN-SUFFIX,iherb.cn'

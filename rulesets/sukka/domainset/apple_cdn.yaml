@@ -1,4 +1,4 @@
-# Update Time 2026-08-23 08:55:21
+# Update Time 2026-08-27 18:24:42
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe'
@@ -117,6 +117,7 @@ payload:
   - '+.store.apple.com.edgekey.net'
   - '+.swdist.apple.com.akadns.net'
   - '+.download.developer.apple.com'
+  - '+.gspe11-2-cn-ssl.ls.apple.com'
   - '+.gspe19-2-cn-ssl.ls.apple.com'
   - '+.iosapps.itunes.g.aaplimg.com'
   - '+.osxapps.itunes.g.aaplimg.com'
