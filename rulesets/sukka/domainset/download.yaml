@@ -1,4 +1,4 @@
-# Update Time 2026-08-28 10:23:07
+# Update Time 2026-08-30 10:59:46
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.gcr.io'
@@ -1628,6 +1628,7 @@ payload:
   - 'redstone-launcher.mojang.com'
   - 'softwareupdate.pilotmoon.com'
   - 'update.code.visualstudio.com'
+  - 'assets-tcpviewer.proxyman.com'
   - 'centos-stream.ip-connect.info'
   - '+.cos.ap-singapore.myqcloud.com'
   - '+.cos.eu-frankfurt.myqcloud.com'
