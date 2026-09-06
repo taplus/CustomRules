@@ -1,4 +1,4 @@
-# Update Time 2026-08-30 10:59:51
+# Update Time 2026-09-06 10:22:32
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN-SUFFIX,pipi.cn'
@@ -20,6 +20,7 @@ payload:
   - 'DOMAIN-SUFFIX,mibi.xiaomi.com'
   - 'DOMAIN-SUFFIX,microfin.ele.me'
   - 'DOMAIN,daisydiskapp.com'
+  - 'DOMAIN-SUFFIX,game.meituan.com'
   - 'DOMAIN-SUFFIX,xiaomimobile.com'
   - 'DOMAIN-SUFFIX,easytomessage.com'
   - 'DOMAIN-SUFFIX,hybrid.xiaomi.com'
@@ -28,13 +29,14 @@ payload:
   - 'DOMAIN-SUFFIX,unicompayment.com'
   - 'DOMAIN-SUFFIX,video.goofish.com'
   - 'DOMAIN-SUFFIX,0.0.198.in-addr.arpa'
-  - 'DOMAIN,contents.meituan.com'
+  - 'DOMAIN-SUFFIX,contents.meituan.com'
   - 'DOMAIN,fyb-2.cdn.bcebos.com'
   - 'DOMAIN-SUFFIX,genuine.autodesk.com'
   - 'DOMAIN,mpush-api.aliyun.com'
   - 'DOMAIN-SUFFIX,jr.airstarfinance.net'
   - 'DOMAIN-SUFFIX,mtvod-ali.meituan.net'
   - 'DOMAIN-SUFFIX,newbuy.chinaunicom.cn'
+  - 'DOMAIN,app-download.fliggy.com'
   - 'DOMAIN-SUFFIX,expenses-fe.meituan.com'
   - 'DOMAIN,userlocation.googleapis.com'
   - 'DOMAIN,loan-supermarket.faas.ele.me'

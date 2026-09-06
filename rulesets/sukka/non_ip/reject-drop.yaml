@@ -1,4 +1,4 @@
-# Update Time 2026-08-30 10:59:51
+# Update Time 2026-09-06 10:22:32
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN-SUFFIX,null'
@@ -12,6 +12,7 @@ payload:
   - 'DOMAIN-SUFFIX,trace.qq.com'
   - 'DOMAIN-SUFFIX,beacon.qq.com'
   - 'DOMAIN-SUFFIX,geo2.adobe.com'
+  - 'DOMAIN,data.bilibili.com'
   - 'DOMAIN-SUFFIX,easytomessage.com'
   - 'DOMAIN-SUFFIX,femetrics.qagr.io'
   - 'DOMAIN,stats.grafana.org'
