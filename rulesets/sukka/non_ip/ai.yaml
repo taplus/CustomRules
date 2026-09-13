@@ -1,4 +1,4 @@
-# Update Time 2026-09-06 10:22:30
+# Update Time 2026-09-13 10:35:33
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN-SUFFIX,g.ai'
@@ -12,6 +12,7 @@ payload:
   - 'DOMAIN-SUFFIX,groq.com'
   - 'DOMAIN-SUFFIX,sora.com'
   - 'DOMAIN-SUFFIX,claude.ai'
+  - 'DOMAIN-SUFFIX,cursor.sh'
   - 'DOMAIN-SUFFIX,jasper.ai'
   - 'DOMAIN-SUFFIX,claude.com'
   - 'DOMAIN-SUFFIX,openart.ai'

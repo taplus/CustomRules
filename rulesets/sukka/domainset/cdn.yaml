@@ -1,4 +1,4 @@
-# Update Time 2026-09-06 10:22:29
+# Update Time 2026-09-13 10:35:31
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '0x0.st'
@@ -3066,6 +3066,7 @@ payload:
   - 'sync.getpublica.com'
   - 'tag.unifyintent.com'
   - 'tags.nationwide.com'
+  - 'thumb.wikimedia.org'
   - 'thumbs.onlyfans.com'
   - 'thumbs2.sendvid.com'
   - 'tile2.intervals.icu'
@@ -3279,6 +3280,7 @@ payload:
   - 'rapid-cdn.yottaa.com'
   - 'reload.getsentry.net'
   - 'res-3.cdn.office.net'
+  - 'resources.redbull.tv'
   - 'resources.whatwg.org'
   - 'rs-cdn.splashtop.com'
   - 'rules1.clearurls.xyz'
