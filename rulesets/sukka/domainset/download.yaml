@@ -1,4 +1,4 @@
-# Update Time 2026-09-13 10:35:31
+# Update Time 2026-09-20 10:51:13
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.gcr.io'
@@ -218,6 +218,7 @@ payload:
   - 'mirrors.up.pt'
   - '+.ossplanet.org'
   - '+.packagist.org'
+  - 'repo.xtom.com'
   - 'repository.su'
   - '+.s3.yandex.net'
   - 'sft.if.usp.br'
