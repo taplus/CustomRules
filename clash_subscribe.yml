@@ -40,17 +40,26 @@ proxy-providers:
     path: ./provider1.yaml
     proxy: DIRECT
 
-  provider2:
-    type: inline
-    payload:
-      - name: "XXX"
-        type: XXX
-        server: XXX
-        port: XXX
-        cipher: XXX
-        password: "XXX"
-        udp: true
-        dialer-proxy: relay
+proxies:
+    - name: "Tailscale"
+      type: tailscale
+      hostname: mihomo-xxx
+      auth-key: tskey-auth-xxx
+      control-url: https://controlplane.tailscale.com
+      state-dir: ./tailscale
+      ephemeral: false
+      udp: true
+      accept-routes: true
+      ip-version: ipv4
+
+    - name: "XXX"
+      type: XXX
+      server: XXX
+      port: XXX
+      cipher: XXX
+      password: "XXX"
+      udp: true
+      dialer-proxy: relay
 
 proxy-groups:
   - name: Game
@@ -167,9 +176,9 @@ proxy-groups:
 
   - name: relay
     type: load-balance
-    include-all: true
+    use:
+      - provider1
     filter: "(?i)美|usa|unitedstates|united states"
-    exclude-filter: "(?i)XXX"
     url: "https://www.gstatic.com/generate_204"
     interval: 300
     strategy: round-robin
@@ -227,7 +236,8 @@ proxy-groups:
 rules:
   - RULE-SET,lan,DIRECT
   - RULE-SET,direct,DIRECT
-  - RULE-SET,custom_direct_list,DIRECT
+  - RULE-SET,custom_tailscale,Tailscale
+  - RULE-SET,custom_direct,DIRECT
   - RULE-SET,reject_drop,REJECT-DROP
   - RULE-SET,reject_domainset,REJECT
   - RULE-SET,reject,REJECT
@@ -286,11 +296,18 @@ rule-providers:
     path: ./direct.yaml
     interval: 86400
 
-  custom_direct_list:
+  custom_tailscale:
     type: http
     behavior: classical
-    url: https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/sukka/custom/custom_direct_list.yaml
-    path: ./custom_direct_list.yaml
+    url: https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/sukka/custom/custom_tailscale.yaml
+    path: ./custom_tailscale.yaml
+    interval: 86400
+
+  custom_direct:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/sukka/custom/custom_direct.yaml
+    path: ./custom_direct.yaml
     interval: 86400
 
   reject_drop:
