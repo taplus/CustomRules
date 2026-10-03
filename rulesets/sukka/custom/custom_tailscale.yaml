@@ -1,0 +1,8 @@
+# Update Time 2026-10-03 19:16:28
+# Cited from https://ruleset.skk.moe/ with Thanks
+payload:
+  - 'IP-CIDR,192.168.0.0/24,no-resolve'
+  - 'IP-CIDR,192.168.1.0/24,no-resolve'
+  - 'IP-CIDR,192.168.139.0/24,no-resolve'
+  - 'IP-CIDR,192.168.159.0/24,no-resolve'
+  - 'IP-CIDR,100.64.0.0/10,no-resolve'
