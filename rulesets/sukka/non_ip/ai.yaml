@@ -1,9 +1,10 @@
-# Update Time 2026-10-03 19:16:22
+# Update Time 2026-10-03 22:11:36
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN-SUFFIX,g.ai'
   - 'DOMAIN-SUFFIX,x.ai'
   - 'DOMAIN-SUFFIX,ai.com'
+  - 'DOMAIN-SUFFIX,clau.de'
   - 'DOMAIN-SUFFIX,dify.ai'
   - 'DOMAIN-SUFFIX,meta.ai'
   - 'DOMAIN-SUFFIX,poe.com'
