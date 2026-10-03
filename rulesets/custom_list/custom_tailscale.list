@@ -1,4 +1,4 @@
-# tailscale
+# Tailscale
 IP-CIDR,192.168.0.0/24,no-resolve
 IP-CIDR,192.168.1.0/24,no-resolve
 IP-CIDR,192.168.139.0/24,no-resolve
