@@ -1,4 +1,4 @@
-# Update Time 2026-09-27 11:04:06
+# Update Time 2026-10-03 19:02:48
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.gcr.io'
@@ -104,6 +104,7 @@ payload:
   - 'd2.myani.org'
   - 'deb.sury.org'
   - 'debian.a1.bg'
+  - 'dl.heycue.io'
   - 'dl.pikpak.io'
   - 'ftp.agdsn.de'
   - 'ftp.antik.sk'
@@ -618,6 +619,7 @@ payload:
   - 'dlcdnets.asus.com'
   - 'download.cnet.com'
   - 'download.gimp.org'
+  - 'download.manus.im'
   - 'download.xbox.com'
   - '+.fastly.docker.com'
   - '+.files.ghostty.org'

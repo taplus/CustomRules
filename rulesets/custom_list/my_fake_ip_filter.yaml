@@ -1,4 +1,4 @@
-# Update Time 2026-09-27 11:04:06
+# Update Time 2026-10-03 19:02:48
 payload:
   - '+.m2m'
   - '+.bogon'
@@ -163,6 +163,10 @@ payload:
   - '+.uu.163.com'
   - 'ps.res.netease.com'
   - '+.pub.3gppnetwork.org'
+  - '+.tailscale.com'
+  - '+.tailscale.io'
+  - '+.ts.net'
+  - '.cdnyou.com'
   - '+.cloud.cupronickel.goog'
   - '+.googleapis.com'
   - 'connectivitycheck.gstatic.com'
