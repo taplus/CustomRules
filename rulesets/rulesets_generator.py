@@ -28,7 +28,8 @@ def get_url():
     }
  
     extra_url = ["https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/google.list",
-                 "https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/custom_list/custom_direct_list",
+                 "https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/custom_list/custom_direct.list",
+                 "https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/custom_list/custom_tailscale.list"
                  "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/steam.list",
                  "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/epicgames.list",
                  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Emby/Emby.list"]
