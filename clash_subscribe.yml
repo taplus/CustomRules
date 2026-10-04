@@ -189,9 +189,11 @@ proxy-groups:
     filter: "(?i)港|hk|hongkong|hong kong"
 
   - name: 香港低倍率
-    type: select
+    type: url-test
     include-all: true
     filter: "(?i)港|hk|hongkong|hong kong"
+    url: 'https://www.gstatic.com/generate_204'
+    interval: 300
 
   - name: 美国节点
     type: select
@@ -200,13 +202,17 @@ proxy-groups:
 
   - name: 美国低倍率
     type: select
-    include-all: true
+    use:
+      - provider1
     filter: "(?i)美|usa|unitedstates|united states"
 
   - name: 狮城节点
-    type: select
+    type: load-balance
     include-all: true
     filter: "(?i)(新|sg|singapore)"
+    url: "https://www.gstatic.com/generate_204"
+    interval: 300
+    strategy: consistent-hashing
 
   - name: 台湾省节点
     type: select
@@ -226,7 +232,7 @@ proxy-groups:
   - name: 其他地区
     type: select
     include-all: true
-    filter: "(?i)^(?!.*(?:港|hk|hong kong|美|usa|united states|台|tw|taiwan|日|jp|japan|新|sg|singapore|韩|kr|korea|Expire|Traffic)).*"
+    filter: "(?i)^(?!.*(?:Tailscale|港|hk|hong kong|美|usa|united states|台|tw|taiwan|日|jp|japan|新|sg|singapore|韩|kr|korea|Expire|Traffic)).*"
 
   - name: 手动切换
     type: select
