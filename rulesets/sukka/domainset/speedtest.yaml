@@ -1,4 +1,4 @@
-# Update Time 2026-10-03 22:19:15
+# Update Time 2026-10-04 11:46:34
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.fast.com'
@@ -1587,6 +1587,7 @@ payload:
   - 'teste.oriontelecom.link'
   - 'teste.reatelecom.com.br'
   - 'teste.speednetpa.net.br'
+  - 'topnet.brsserver.com.br'
   - 'vaspeedtest.rackdog.com'
   - 'velocidade.4wnet.com.br'
   - 'velocidade.hrcfiber.com'
