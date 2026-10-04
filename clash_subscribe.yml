@@ -126,10 +126,10 @@ proxy-groups:
   - name: Emby
     type: select
     proxies:
-      - 狮城节点
-      - DIRECT
       - 美国低倍率
-      - 香港低倍率
+      - DIRECT
+      - 香港节点
+      - 狮城节点
       - 日本节点
       - 台湾省节点
       - 韩国节点
@@ -189,11 +189,12 @@ proxy-groups:
     filter: "(?i)港|hk|hongkong|hong kong"
 
   - name: 香港低倍率
-    type: url-test
+    type: load-balance
     include-all: true
     filter: "(?i)港|hk|hongkong|hong kong"
-    url: 'https://www.gstatic.com/generate_204'
+    url: "https://www.gstatic.com/generate_204"
     interval: 300
+    strategy: consistent-hashing
 
   - name: 美国节点
     type: select
@@ -207,27 +208,36 @@ proxy-groups:
     filter: "(?i)美|usa|unitedstates|united states"
 
   - name: 狮城节点
-    type: load-balance
+    type: url-test
     include-all: true
     filter: "(?i)(新|sg|singapore)"
-    url: "https://www.gstatic.com/generate_204"
+    url: 'https://www.gstatic.com/generate_204'
     interval: 300
-    strategy: consistent-hashing
+    tolerance: 50
 
   - name: 台湾省节点
-    type: select
+    type: url-test
     include-all: true
     filter: "(?i)台|tw|taiwan"
+    url: 'https://www.gstatic.com/generate_204'
+    interval: 300
+    tolerance: 50
 
   - name: 日本节点
-    type: select
+    type: url-test
     include-all: true
     filter: "(?i)日|jp|japan"
+    url: 'https://www.gstatic.com/generate_204'
+    interval: 300
+    tolerance: 50
 
   - name: 韩国节点
-    type: select
+    type: url-test
     include-all: true
     filter: "(?i)韩|kr|korea"
+    url: 'https://www.gstatic.com/generate_204'
+    interval: 300
+    tolerance: 50
 
   - name: 其他地区
     type: select
