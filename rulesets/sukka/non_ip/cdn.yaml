@@ -1,4 +1,4 @@
-# Update Time 2026-10-04 20:57:53
+# Update Time 2026-10-11 11:22:31
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN,cdn-msp.jmcomic.me'
@@ -84,3 +84,4 @@ payload:
   - 'DOMAIN-WILDCARD,cdn*.porn87.com'
   - 'DOMAIN-WILDCARD,cdn*.pornhost.com'
   - 'DOMAIN-WILDCARD,cdn*.boysfood.com'
+  - 'DOMAIN-WILDCARD,rum-ingest.*.signalfx.com'

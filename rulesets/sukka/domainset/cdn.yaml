@@ -1,4 +1,4 @@
-# Update Time 2026-10-04 20:57:52
+# Update Time 2026-10-11 11:22:30
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '0x0.st'
@@ -1776,6 +1776,7 @@ payload:
   - 'assets.toot.cafe'
   - 'assets.twitch.tv'
   - 'assets.upload.io'
+  - 'assets.vanta.com'
   - 'assets.vogue.com'
   - 'assets.volvo.com'
   - 'assets.xmind.net'
@@ -2347,6 +2348,7 @@ payload:
   - '+.media.zestyio.com'
   - '+.mediadelivery.net'
   - '+.monitor.azure.com'
+  - 'n.approveit.today'
   - 'netlify.apollo.io'
   - '+.notion-static.com'
   - 'ocsp.comodoca.com'
@@ -4384,6 +4386,7 @@ payload:
   - 'prego-cache.prod.sketch.com'
   - 'public-pages.cbinsights.com'
   - 'resources-live.sketch.cloud'
+  - 'rum-ingest.us1.signalfx.com'
   - 'safebrowsing.googleapis.com'
   - 'sessions-bugsnag.docker.com'
   - '+.siteintercept.qualtrics.com'
@@ -4393,6 +4396,7 @@ payload:
   - 'static-mh.content.disney.io'
   - 'static-production.npmjs.com'
   - 'static-webfonts.myfonts.com'
+  - 'static.acm.account.sony.com'
   - 'static.captcha-delivery.com'
   - 'sts.online.visualstudio.com'
   - 'tvdownloaddw-a.akamaihd.net'

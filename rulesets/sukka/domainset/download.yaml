@@ -1,4 +1,4 @@
-# Update Time 2026-10-04 20:57:52
+# Update Time 2026-10-11 11:22:30
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.gcr.io'
@@ -1014,6 +1014,7 @@ payload:
   - 'packages.termux.dev'
   - 'pubmirror.plutex.de'
   - 'release.runcloud.io'
+  - 'releases.claude.com'
   - 'replicate.npmjs.com'
   - 'repo.extreme-ix.org'
   - '+.s3-website.cloud.ru'
