@@ -1,4 +1,4 @@
-# Update Time 2026-10-11 11:22:31
+# Update Time 2026-10-18 10:33:17
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN-SUFFIX,g.ai'
@@ -35,9 +35,11 @@ payload:
   - 'DOMAIN-SUFFIX,gemini.google.com'
   - 'DOMAIN-SUFFIX,notebooklm.google'
   - 'DOMAIN,antigravity.google'
+  - 'DOMAIN,server.codeium.com'
   - 'DOMAIN,aida.googleapis.com'
   - 'DOMAIN-SUFFIX,aistudio.google.com'
   - 'DOMAIN-SUFFIX,generativeai.google'
+  - 'DOMAIN,inference.codeium.com'
   - 'DOMAIN-SUFFIX,makersuite.google.com'
   - 'DOMAIN-SUFFIX,notebooklm.google.com'
   - 'DOMAIN,antigravity-unleash.goog'
@@ -45,6 +47,7 @@ payload:
   - 'DOMAIN,gateway.ai.cloudflare.com'
   - 'DOMAIN,aisandbox-pa.googleapis.com'
   - 'DOMAIN-SUFFIX,cloudcode-pa.googleapis.com'
+  - 'DOMAIN,server.self-serve.windsurf.com'
   - 'DOMAIN,robinfrontend-pa.googleapis.com'
   - 'DOMAIN,alkalicore-pa.clients6.google.com'
   - 'DOMAIN,daily-cloudcode-pa.googleapis.com'

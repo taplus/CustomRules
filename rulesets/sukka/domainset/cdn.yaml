@@ -1,4 +1,4 @@
-# Update Time 2026-10-11 11:22:30
+# Update Time 2026-10-18 10:33:16
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '0x0.st'
@@ -1491,6 +1491,7 @@ payload:
   - 'cdn.perfops.net'
   - 'cdn.pixabay.com'
   - 'cdn.plus500.com'
+  - 'cdn.priv.center'
   - 'cdn.privacy.com'
   - 'cdn.quadpay.com'
   - 'cdn.readmoo.com'
@@ -1586,6 +1587,7 @@ payload:
   - 'image.gyutto.jp'
   - 'image.status.io'
   - 'images.dmca.com'
+  - 'images.higgs.ai'
   - 'images.kick.com'
   - 'images.pluto.tv'
   - 'images.vudu.com'
@@ -3086,6 +3088,7 @@ payload:
   - 'thumbs2.sendvid.com'
   - 'tile2.intervals.icu'
   - 'tiles.mapillary.com'
+  - 'tiles.onemap.gov.sg'
   - 'tileserver.b10s.net'
   - 'time.cloudflare.com'
   - 'tuf-repo.github.com'
@@ -3512,6 +3515,7 @@ payload:
   - 'images.findagrave.com'
   - '+.images.hentaicity.com'
   - 'images.icon-icons.com'
+  - 'images.macworld.co.uk'
   - 'img.foresightnews.pro'
   - 'imgs.search.brave.com'
   - 'imgs.socialinsider.io'
@@ -3567,6 +3571,7 @@ payload:
   - 'services.linkfire.com'
   - 'sig.grumpybumpers.com'
   - 'siloh-ns1.plutotv.net'
+  - 'sl3-cdn.karousell.com'
   - 'speedmedia2.jfrog.com'
   - '+.ssl-images-amazon.com'
   - 'st3.depositphotos.com'
@@ -3749,6 +3754,7 @@ payload:
   - 'megapx-assets.dcard.tw'
   - '+.misskeyusercontent.com'
   - 'moderate.cleantalk.org'
+  - 'mweb-cdn.karousell.com'
   - '+.nel.measure.office.net'
   - 'newassets.hcaptcha.com'
   - 'nodeassets.nbcnews.com'
@@ -4518,6 +4524,7 @@ payload:
   - 'cdn.quickemailverification.com'
   - 'cdn.rex.contents.rakuten.co.jp'
   - 'config.extension.grammarly.com'
+  - 'customer-first-focus.b-cdn.net'
   - 'dev.visualwebsiteoptimizer.com'
   - 'edgeassetservice.azureedge.net'
   - 'explorer-api.walletconnect.com'
