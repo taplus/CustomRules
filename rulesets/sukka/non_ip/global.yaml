@@ -1,4 +1,4 @@
-# Update Time 2026-10-18 10:33:18
+# Update Time 2026-10-25 10:43:45
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN-SUFFIX,ac'
@@ -529,6 +529,7 @@ payload:
   - 'DOMAIN-SUFFIX,nextjs.org'
   - 'DOMAIN-SUFFIX,nikkei.com'
   - 'DOMAIN-SUFFIX,nitter.net'
+  - 'DOMAIN-SUFFIX,notion.com'
   - 'DOMAIN-SUFFIX,nypost.com'
   - 'DOMAIN-SUFFIX,oculus.com'
   - 'DOMAIN-SUFFIX,odysee.com'

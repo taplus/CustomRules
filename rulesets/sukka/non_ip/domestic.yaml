@@ -1,4 +1,4 @@
-# Update Time 2026-10-18 10:33:17
+# Update Time 2026-10-25 10:43:45
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN-SUFFIX,3.cn'
@@ -199,6 +199,7 @@ payload:
   - 'DOMAIN-SUFFIX,95588.com'
   - 'DOMAIN-SUFFIX,aicdn.com'
   - 'DOMAIN-SUFFIX,alipay.cn'
+  - 'DOMAIN-SUFFIX,amemv.com'
   - 'DOMAIN-SUFFIX,awtmt.com'
   - 'DOMAIN-SUFFIX,baidu.com'
   - 'DOMAIN-SUFFIX,baike.com'
