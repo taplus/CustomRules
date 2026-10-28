@@ -1,4 +1,4 @@
-# Update Time 2026-10-25 10:43:46
+# Update Time 2026-10-28 21:57:44
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN-SUFFIX,pipi.cn'
@@ -40,6 +40,7 @@ payload:
   - 'DOMAIN-SUFFIX,expenses-fe.meituan.com'
   - 'DOMAIN,userlocation.googleapis.com'
   - 'DOMAIN,loan-supermarket.faas.ele.me'
+  - 'DOMAIN,userlocations.googleapis.com'
   - 'DOMAIN,locationhistory-pa.googleapis.com'
   - 'DOMAIN-SUFFIX,video-zb.cloudvideocdn.taobao.com'
   - 'DOMAIN,locationhistoryaggregates-pa.googleapis.com'

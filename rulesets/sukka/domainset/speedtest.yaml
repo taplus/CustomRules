@@ -1,4 +1,4 @@
-# Update Time 2026-10-25 10:43:45
+# Update Time 2026-10-28 21:57:41
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '+.fast.com'
@@ -264,6 +264,7 @@ payload:
   - 'speedtest.tigo.cr'
   - 'speedtest.uia.net'
   - 'speedtest.upp.com'
+  - 'speedtest.vdns.it'
   - 'speedtest.vnet.su'
   - 'speedtest.vyme.fr'
   - 'speedtest.wime.it'
@@ -1224,6 +1225,7 @@ payload:
   - 'speedtest.keiminem.com'
   - 'speedtest.komogoto.com'
   - 'speedtest.layra.web.tr'
+  - 'speedtest.lecrintv.com'
   - 'speedtest.me.mycci.net'
   - 'speedtest.meghlink.com'
   - 'speedtest.meric.net.tr'
@@ -2973,6 +2975,7 @@ payload:
   - 'velocidadestm.amazonett.com.br'
   - 'velocimetro.wiretelecom.com.br'
   - 'albynynp-ookla01.gonetspeed.com'
+  - 'asanettelecom1.brsserver.com.br'
   - 'bombay-speedtest.ishancloud.com'
   - 'de-speedtest.digitalexample.com'
   - 'dllstx-ookla1.vyvebroadband.net'
@@ -3316,6 +3319,7 @@ payload:
   - 'speedtest4.fastfortechnologies.com'
   - 'speedtestmera.vs.mythic-beasts.com'
   - 'speedtestpnp.infolinkbroadband.com'
+  - 'srv01-speedtest-pa5.ptr.corenix.fr'
   - 'st-balikesir-1.turksatkablo.com.tr'
   - 'st-eskisehir-1.turksatkablo.com.tr'
   - 'st-gaziantep-1.turksatkablo.com.tr'
