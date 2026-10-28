@@ -184,9 +184,11 @@ proxy-groups:
     strategy: round-robin
 
   - name: 香港节点
-    type: select
+    type: fallback
     include-all: true
     filter: "(?i)港|hk|hongkong|hong kong"
+    url: 'https://www.gstatic.com/generate_204'
+    interval: 300
 
   - name: 香港低倍率
     type: load-balance
@@ -194,7 +196,7 @@ proxy-groups:
     filter: "(?i)港|hk|hongkong|hong kong"
     url: "https://www.gstatic.com/generate_204"
     interval: 300
-    strategy: consistent-hashing
+    strategy: sticky-sessions
 
   - name: 美国节点
     type: select
@@ -202,10 +204,13 @@ proxy-groups:
     filter: "(?i)美|usa|unitedstates|united states"
 
   - name: 美国低倍率
-    type: select
+    type: load-balance
     use:
       - provider1
     filter: "(?i)美|usa|unitedstates|united states"
+    url: 'https://www.gstatic.com/generate_204'
+    interval: 300
+    strategy: consistent-hashing
 
   - name: 狮城节点
     type: url-test
