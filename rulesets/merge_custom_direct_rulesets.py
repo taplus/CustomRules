@@ -53,7 +53,7 @@ def merge_rules():
     # 将去重后的规则进行字母排序，方便查阅
     # merged_rules = list(merged_rules)
     
-    output_filename = f"{os.getcwd()}/sukka/custom/custom_direct_domainset.yaml"
+    output_filename = f"{os.getcwd()}/rulesets/sukka/custom/custom_direct_domainset.yaml"
     # 创建目录
     os.makedirs(os.path.dirname(output_filename), exist_ok=True)
 

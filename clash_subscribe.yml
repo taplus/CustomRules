@@ -259,6 +259,7 @@ rules:
   - RULE-SET,lan,DIRECT
   - RULE-SET,direct,DIRECT
   - RULE-SET,custom_tailscale,Tailscale
+  - RULE-SET,custom_direct_domainset,DIRECT
   - RULE-SET,custom_direct,DIRECT
   - RULE-SET,reject_drop,REJECT-DROP
   - RULE-SET,reject_domainset,REJECT
@@ -284,7 +285,6 @@ rules:
   - RULE-SET,stream,Stream
   - RULE-SET,google,Google
   - RULE-SET,global,Proxy
-  - RULE-SET,huawei_domainset,DIRECT
   - RULE-SET,domestic,DIRECT
   - RULE-SET,lan_ip,DIRECT
   - RULE-SET,reject_ip,REJECT
@@ -324,6 +324,13 @@ rule-providers:
     behavior: classical
     url: https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/sukka/custom/custom_tailscale.yaml
     path: ./custom_tailscale.yaml
+    interval: 86400
+
+  custom_direct_domainset:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/sukka/custom/custom_direct_domainset.yaml
+    path: ./custom_direct_domainset.yaml
     interval: 86400
 
   custom_direct:
@@ -499,13 +506,6 @@ rule-providers:
     behavior: classical
     url: https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/sukka/non_ip/global.yaml
     path: ./global.yaml
-    interval: 86400
-
-  huawei_domainset:
-    type: http
-    behavior: domain
-    url: https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/sukka/custom/huawei.yaml
-    path: ./huawei_domainset.yaml
     interval: 86400
 
   domestic:
