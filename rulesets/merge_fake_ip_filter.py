@@ -13,7 +13,8 @@ def merge_rules():
     urls = [
         "https://ruleset.skk.moe/Clash/domainset/clash_fake_ip_filter.txt",
         "https://raw.githubusercontent.com/vernesong/OpenClash/refs/heads/master/luci-app-openclash/root/etc/openclash/custom/openclash_custom_fake_filter.list",
-        "https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/custom_list/custom_openclash_custom_fake_filter.list"
+        "https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/custom_list/custom_openclash_custom_fake_filter.list",
+        "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/huawei.list"
     ]
 
     exclude_list = [
