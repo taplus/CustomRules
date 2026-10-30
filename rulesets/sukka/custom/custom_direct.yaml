@@ -1,4 +1,4 @@
-# Update Time 2026-10-31 00:40:58
+# Update Time 2026-10-31 01:15:30
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'SRC-IP-CIDR,192.168.0.65/32'
@@ -9,12 +9,7 @@ payload:
   - 'SRC-IP-CIDR,192.168.139.98/32'
   - 'SRC-IP-CIDR,192.168.159.65/32'
   - 'SRC-IP-CIDR,192.168.159.98/32'
-  - 'DOMAIN-SUFFIX,tailscale.com'
-  - 'DOMAIN-SUFFIX,tailscale.io'
-  - 'DOMAIN-SUFFIX,ts.net'
   - 'DOMAIN-SUFFIX,cdnyou.com'
-  - 'DOMAIN-SUFFIX,deepseek.com'
-  - 'DOMAIN-SUFFIX,deepseek.cn'
   - 'DOMAIN-SUFFIX,kimi.com'
   - 'DOMAIN-SUFFIX,moonshot.cn'
   - 'DOMAIN-SUFFIX,minimax.com'
@@ -26,14 +21,6 @@ payload:
   - 'DOMAIN-SUFFIX,zhipuai.cn'
   - 'DOMAIN-SUFFIX,z.ai'
   - 'DOMAIN-SUFFIX,zhipu.ai'
-  - 'DOMAIN-SUFFIX,koolearn.com'
-  - 'DOMAIN-SUFFIX,koocdn.com'
-  - 'DOMAIN-SUFFIX,xdf.cn'
-  - 'DOMAIN-SUFFIX,bitwarden.com'
-  - 'DOMAIN-SUFFIX,bitwarden.eu'
-  - 'DOMAIN-SUFFIX,bitwarden.net'
-  - 'DOMAIN-SUFFIX,btwrdn.com'
-  - 'DOMAIN-SUFFIX,btwrdn.co'
   - 'DOMAIN-SUFFIX,iherb.com'
   - 'DOMAIN-SUFFIX,iherb.cn'
   - 'DOMAIN-SUFFIX,images-iherb.com'
