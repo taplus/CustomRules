@@ -16,9 +16,10 @@ dns:
     - https://223.5.5.5/dns-query
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
-  fake-ip-filter-mode: blacklist
+  fake-ip-filter-mode: rule
   fake-ip-filter:
-    - "rule-set:my_fake_ip_filter"
+    - RULE-SET,my_fake_ip_filter,real-ip
+    - MATCH,fake-ip
   nameserver:
     - https://cloudflare-dns.com/dns-query#match
     - https://dns.google/dns-query#match
@@ -283,6 +284,7 @@ rules:
   - RULE-SET,stream,Stream
   - RULE-SET,google,Google
   - RULE-SET,global,Proxy
+  - RULE-SET,huawei_domainset,DIRECT
   - RULE-SET,domestic,DIRECT
   - RULE-SET,lan_ip,DIRECT
   - RULE-SET,reject_ip,REJECT
@@ -497,6 +499,13 @@ rule-providers:
     behavior: classical
     url: https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/sukka/non_ip/global.yaml
     path: ./global.yaml
+    interval: 86400
+
+  huawei_domainset:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/taplus/CustomRules/refs/heads/main/rulesets/sukka/custom/huawei.yaml
+    path: ./huawei_domainset.yaml
     interval: 86400
 
   domestic:
