@@ -1,4 +1,4 @@
-# Update Time 2026-10-31 00:01:29
+# Update Time 2026-10-31 00:27:41
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'SRC-IP-CIDR,192.168.0.65/32'
@@ -39,6 +39,3 @@ payload:
   - 'DOMAIN-SUFFIX,images-iherb.com'
   - 'DOMAIN-SUFFIX,iherb.pxf.io'
   - 'DOMAIN-SUFFIX,iherb.biz'
-  - 'DOMAIN-SUFFIX,huaweicloud.com'
-  - 'DOMAIN-SUFFIX,harmonyos.com'
-  - 'DOMAIN-SUFFIX,agconnect.link'
