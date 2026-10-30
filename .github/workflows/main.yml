@@ -30,6 +30,7 @@ jobs:
         run: |
           python ./rulesets/merge_fake_ip_filter.py
           python ./rulesets/rulesets_generator.py
+          python ./rulesets/merge_custom_direct_rulesets.py
 
       - name: Commit
         env:
