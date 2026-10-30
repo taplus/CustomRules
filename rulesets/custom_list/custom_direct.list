@@ -7,14 +7,8 @@ SRC-IP-CIDR,192.168.139.65/32
 SRC-IP-CIDR,192.168.139.98/32
 SRC-IP-CIDR,192.168.159.65/32
 SRC-IP-CIDR,192.168.159.98/32
-# tailscale
-DOMAIN-SUFFIX,tailscale.com
-DOMAIN-SUFFIX,tailscale.io
-DOMAIN-SUFFIX,ts.net
+# derp
 DOMAIN-SUFFIX,cdnyou.com
-# deepseek
-DOMAIN-SUFFIX,deepseek.com
-DOMAIN-SUFFIX,deepseek.cn
 # moonshot
 DOMAIN-SUFFIX,kimi.com
 DOMAIN-SUFFIX,moonshot.cn
@@ -29,16 +23,6 @@ DOMAIN-SUFFIX,chatglm.cn
 DOMAIN-SUFFIX,zhipuai.cn
 DOMAIN-SUFFIX,z.ai
 DOMAIN-SUFFIX,zhipu.ai
-# koolearn
-DOMAIN-SUFFIX,koolearn.com
-DOMAIN-SUFFIX,koocdn.com
-DOMAIN-SUFFIX,xdf.cn
-# bitwarden
-DOMAIN-SUFFIX,bitwarden.com
-DOMAIN-SUFFIX,bitwarden.eu
-DOMAIN-SUFFIX,bitwarden.net
-DOMAIN-SUFFIX,btwrdn.com
-DOMAIN-SUFFIX,btwrdn.co
 # iherb
 DOMAIN-SUFFIX,iherb.com
 DOMAIN-SUFFIX,iherb.cn
