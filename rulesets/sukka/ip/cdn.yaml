@@ -1,4 +1,4 @@
-# Update Time 2026-10-31 00:27:39
+# Update Time 2026-10-31 00:40:56
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'IP-CIDR,162.159.200.1/32'
