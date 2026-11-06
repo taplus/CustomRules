@@ -1,4 +1,4 @@
-# Update Time 2026-11-06 22:57:14
+# Update Time 2026-11-06 23:03:33
 payload:
   - '+.m2m'
   - '+.bogon'
@@ -172,3 +172,4 @@ payload:
   - 'ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org'
   - 'ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org'
   - '.eu.org'
+  - '+.cdnyou.com'
