@@ -1,4 +1,4 @@
-# Update Time 2026-11-01 11:45:57
+# Update Time 2026-11-06 18:24:32
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - '0x0.st'
@@ -4600,6 +4600,7 @@ payload:
   - 'static.registration.bluehost.com'
   - '+.w-credentialless-staticblitz.com'
   - 'assets-growth-common.circleci.com'
+  - 'assets.temporary-phone-number.com'
   - 'consumersiteimages.trustpilot.net'
   - 'firebase-settings.crashlytics.com'
   - 'firebaselogging-pa.googleapis.com'

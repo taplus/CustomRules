@@ -1,4 +1,4 @@
-# Update Time 2026-11-01 11:46:00
+# Update Time 2026-11-06 18:24:35
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN-SUFFIX,null'
@@ -10,7 +10,9 @@ payload:
   - 'DOMAIN-SUFFIX,gepush.com'
   - 'DOMAIN-SUFFIX,slackb.com'
   - 'DOMAIN-SUFFIX,trace.qq.com'
+  - 'DOMAIN-SUFFIX,amplitude.com'
   - 'DOMAIN-SUFFIX,beacon.qq.com'
+  - 'DOMAIN,api.segment.io'
   - 'DOMAIN-SUFFIX,geo2.adobe.com'
   - 'DOMAIN,data.bilibili.com'
   - 'DOMAIN-SUFFIX,easytomessage.com'
@@ -19,6 +21,7 @@ payload:
   - 'DOMAIN-SUFFIX,tracking.miui.com'
   - 'DOMAIN-SUFFIX,data.grammarly.com'
   - 'DOMAIN-SUFFIX,data.microsoft.com'
+  - 'DOMAIN-SUFFIX,gnar.grammarly.com'
   - 'DOMAIN,stat.youpin.mi.com'
   - 'DOMAIN,dataflow.biliapi.com'
   - 'DOMAIN,nom.telemetrydeck.com'

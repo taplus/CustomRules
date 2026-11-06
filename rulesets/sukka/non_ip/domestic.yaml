@@ -1,4 +1,4 @@
-# Update Time 2026-11-01 11:45:59
+# Update Time 2026-11-06 18:24:34
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN-SUFFIX,3.cn'
@@ -615,6 +615,7 @@ payload:
   - 'DOMAIN-SUFFIX,dcarlive.com'
   - 'DOMAIN-SUFFIX,dianping.com'
   - 'DOMAIN-SUFFIX,dingtalk.com'
+  - 'DOMAIN-SUFFIX,dittocdn.com'
   - 'DOMAIN-SUFFIX,dizzylab.net'
   - 'DOMAIN-SUFFIX,doubanio.com'
   - 'DOMAIN-SUFFIX,douyucdn2.cn'
