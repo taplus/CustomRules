@@ -51,6 +51,7 @@ proxies:
       ephemeral: false
       udp: true
       accept-routes: true
+      dialer-proxy: DIRECT
       ip-version: ipv4
 
     - name: "XXX"
