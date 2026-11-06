@@ -1,4 +1,4 @@
-# Update Time 2026-11-06 18:24:34
+# Update Time 2026-11-06 22:57:18
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN-WILDCARD,download*.mediafire.com'
