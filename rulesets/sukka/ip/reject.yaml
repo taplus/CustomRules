@@ -1,4 +1,4 @@
-# Update Time 2026-11-08 11:50:22
+# Update Time 2026-11-15 12:17:19
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'IP-CIDR,10.72.25.0/24,no-resolve'
@@ -175,7 +175,6 @@ payload:
   - 'IP-CIDR,51.15.3.223/32'
   - 'IP-CIDR,51.68.87.229/32'
   - 'IP-CIDR,51.77.227.97/32'
-  - 'IP-CIDR,51.89.187.141/32'
   - 'IP-CIDR,51.91.66.125/32'
   - 'IP-CIDR,51.91.211.94/32'
   - 'IP-CIDR,51.178.76.105/32'
@@ -532,6 +531,7 @@ payload:
   - 'IP-CIDR,172.255.6.147/32'
   - 'IP-CIDR,172.255.6.219/32'
   - 'IP-CIDR,172.255.6.225/32'
+  - 'IP-CIDR,172.255.6.254/32'
   - 'IP-CIDR,173.208.96.42/31'
   - 'IP-CIDR,173.208.96.44/31'
   - 'IP-CIDR,173.208.96.46/32'
