@@ -1,4 +1,4 @@
-# Update Time 2026-11-15 12:17:14
+# Update Time 2026-11-22 12:34:11
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN-SUFFIX,g.ai'
@@ -18,11 +18,13 @@ payload:
   - 'DOMAIN-SUFFIX,claude.com'
   - 'DOMAIN-SUFFIX,openart.ai'
   - 'DOMAIN-SUFFIX,chatgpt.com'
+  - 'DOMAIN,claude.site'
   - 'DOMAIN-SUFFIX,clipdrop.co'
   - 'DOMAIN-SUFFIX,chatgpt.site'
   - 'DOMAIN-SUFFIX,deepmind.com'
   - 'DOMAIN,ai.google.dev'
   - 'DOMAIN-SUFFIX,anthropic.com'
+  - 'DOMAIN,cloud.zed.dev'
   - 'DOMAIN-SUFFIX,gemini.google'
   - 'DOMAIN-SUFFIX,oaistatic.com'
   - 'DOMAIN,openrouter.ai'
@@ -39,6 +41,7 @@ payload:
   - 'DOMAIN,aida.googleapis.com'
   - 'DOMAIN-SUFFIX,aistudio.google.com'
   - 'DOMAIN-SUFFIX,generativeai.google'
+  - 'DOMAIN,aicode.googleapis.com'
   - 'DOMAIN,inference.codeium.com'
   - 'DOMAIN-SUFFIX,makersuite.google.com'
   - 'DOMAIN-SUFFIX,notebooklm.google.com'
@@ -47,11 +50,13 @@ payload:
   - 'DOMAIN,gateway.ai.cloudflare.com'
   - 'DOMAIN,aisandbox-pa.googleapis.com'
   - 'DOMAIN-SUFFIX,cloudcode-pa.googleapis.com'
+  - 'DOMAIN,bridge.claudeusercontent.com'
   - 'DOMAIN,server.self-serve.windsurf.com'
   - 'DOMAIN,robinfrontend-pa.googleapis.com'
   - 'DOMAIN,alkalicore-pa.clients6.google.com'
   - 'DOMAIN,daily-cloudcode-pa.googleapis.com'
   - 'DOMAIN-SUFFIX,generativelanguage.googleapis.com'
   - 'DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com'
+  - 'DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com'
   - 'DOMAIN-KEYWORD,openai'
   - 'DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com'
