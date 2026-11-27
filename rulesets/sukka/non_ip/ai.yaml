@@ -1,4 +1,4 @@
-# Update Time 2026-11-22 12:34:11
+# Update Time 2026-11-27 20:59:51
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN-SUFFIX,g.ai'
@@ -42,7 +42,6 @@ payload:
   - 'DOMAIN-SUFFIX,aistudio.google.com'
   - 'DOMAIN-SUFFIX,generativeai.google'
   - 'DOMAIN,aicode.googleapis.com'
-  - 'DOMAIN,inference.codeium.com'
   - 'DOMAIN-SUFFIX,makersuite.google.com'
   - 'DOMAIN-SUFFIX,notebooklm.google.com'
   - 'DOMAIN,antigravity-unleash.goog'
