@@ -1,4 +1,4 @@
-# Update Time 2026-11-27 20:59:56
+# Update Time 2026-11-27 23:50:16
 # Cited from https://ruleset.skk.moe/ with Thanks
 payload:
   - 'DOMAIN-SUFFIX,cdnyou.com'
@@ -21,3 +21,4 @@ payload:
   - 'DOMAIN-SUFFIX,rexnow.tv'
   - 'DOMAIN-SUFFIX,drivemby.com'
   - 'DOMAIN-SUFFIX,emby.barrybarry.top'
+  - 'DOMAIN-SUFFIX,emby.syemby.com'
